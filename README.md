@@ -23,7 +23,7 @@ pip install google-genai pandas openpyxl deep-translator
 run cells in `mr.gpt.ipynb` *sequentially* to get the filtered data, following is a overview of each cell
 - first cell saves `structured_customer_truth.csv` with filtered data and tags
 - second cell saves `D2_Insight_Summary.md`
-- third cell saves `D3_Full_Taxonomy_Audit.md`
+- third cell saves `D3_Full_Taxonomy_Audit.md`, because of batching, markdown output file can look glitchy, see in `code` view on github
 - fourth cell adds translated text column, and saves to `structured_customer_truth_translated.xlsx`
 
 read comments at top of each cell for more info
