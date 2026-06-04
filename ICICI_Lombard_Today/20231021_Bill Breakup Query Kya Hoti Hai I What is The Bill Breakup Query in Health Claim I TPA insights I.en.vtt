@@ -1,0 +1,2484 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.800 --> 00:00:04.070 align:start position:0%
+ 
+Hello <00:00:02.215><c>friends, </c><00:00:02.630><c>welcome </c><00:00:03.045><c>to </c><00:00:03.460><c>TP </c><00:00:03.875><c>Insights.</c>
+
+00:00:04.070 --> 00:00:04.080 align:start position:0%
+Hello friends, welcome to TP Insights.
+ 
+
+00:00:04.080 --> 00:00:07.070 align:start position:0%
+Hello friends, welcome to TP Insights.
+In <00:00:04.433><c>today's </c><00:00:04.786><c>video, </c><00:00:05.139><c>we </c><00:00:05.492><c>will </c><00:00:05.845><c>talk </c><00:00:06.198><c>about</c>
+
+00:00:07.070 --> 00:00:07.080 align:start position:0%
+In today's video, we will talk about
+ 
+
+00:00:07.080 --> 00:00:09.830 align:start position:0%
+In today's video, we will talk about
+a <00:00:07.394><c>query </c><00:00:07.708><c>that </c><00:00:08.022><c>arises </c><00:00:08.336><c>in </c><00:00:08.650><c>both </c><00:00:08.964><c>cashless </c><00:00:09.278><c>claims </c><00:00:09.592><c>and</c>
+
+00:00:09.830 --> 00:00:09.840 align:start position:0%
+a query that arises in both cashless claims and
+ 
+
+00:00:09.840 --> 00:00:12.910 align:start position:0%
+a query that arises in both cashless claims and
+reimbursement <00:00:10.733><c>claims, </c><00:00:11.626><c>that </c><00:00:12.519><c>we</c>
+
+00:00:12.910 --> 00:00:12.920 align:start position:0%
+reimbursement claims, that we
+ 
+
+00:00:12.920 --> 00:00:16.269 align:start position:0%
+reimbursement claims, that we
+need <00:00:13.329><c>a </c><00:00:13.738><c>bill </c><00:00:14.147><c>breakup. </c><00:00:14.556><c>The </c><00:00:14.965><c>final </c><00:00:15.374><c>bill </c><00:00:15.783><c>that </c><00:00:16.192><c>we</c>
+
+00:00:16.269 --> 00:00:16.279 align:start position:0%
+need a bill breakup. The final bill that we
+ 
+
+00:00:16.279 --> 00:00:20.630 align:start position:0%
+need a bill breakup. The final bill that we
+collect <00:00:16.549><c>from </c><00:00:16.819><c>the </c><00:00:17.089><c>hospital </c><00:00:17.359><c>and</c>
+
+00:00:20.630 --> 00:00:20.640 align:start position:0%
+ 
+ 
+
+00:00:20.640 --> 00:00:23.070 align:start position:0%
+ 
+resell <00:00:21.026><c>to </c><00:00:21.412><c>the </c><00:00:21.798><c>insurance </c><00:00:22.184><c>company, </c><00:00:22.570><c>then </c><00:00:22.956><c>in</c>
+
+00:00:23.070 --> 00:00:23.080 align:start position:0%
+resell to the insurance company, then in
+ 
+
+00:00:23.080 --> 00:00:25.710 align:start position:0%
+resell to the insurance company, then in
+that <00:00:23.620><c>final </c><00:00:24.160><c>bill, </c><00:00:24.700><c>the </c><00:00:25.240><c>insurance</c>
+
+00:00:25.710 --> 00:00:25.720 align:start position:0%
+that final bill, the insurance
+ 
+
+00:00:25.720 --> 00:00:28.390 align:start position:0%
+that final bill, the insurance
+company <00:00:26.136><c>raises </c><00:00:26.552><c>a </c><00:00:26.968><c>bill </c><00:00:27.384><c>breakup </c><00:00:27.800><c>query.</c>
+
+00:00:28.390 --> 00:00:28.400 align:start position:0%
+company raises a bill breakup query.
+ 
+
+00:00:28.400 --> 00:00:30.710 align:start position:0%
+company raises a bill breakup query.
+It <00:00:30.480><c>says,</c>
+
+00:00:30.710 --> 00:00:30.720 align:start position:0%
+It says,
+ 
+
+00:00:30.720 --> 00:00:33.229 align:start position:0%
+It says,
+give <00:00:30.986><c>us </c><00:00:31.252><c>the </c><00:00:31.518><c>bill </c><00:00:31.784><c>breakup </c><00:00:32.050><c>of </c><00:00:32.316><c>the </c><00:00:32.582><c>hospital's </c><00:00:32.848><c>final </c><00:00:33.114><c>bill.</c>
+
+00:00:33.229 --> 00:00:33.239 align:start position:0%
+give us the bill breakup of the hospital's final bill.
+ 
+
+00:00:33.239 --> 00:00:35.470 align:start position:0%
+give us the bill breakup of the hospital's final bill.
+Tell <00:00:33.415><c>us </c><00:00:33.591><c>the </c><00:00:33.767><c>breakup </c><00:00:33.943><c>of </c><00:00:34.119><c>that </c><00:00:34.295><c>bill, </c><00:00:34.471><c>what </c><00:00:34.647><c>items </c><00:00:34.823><c>have </c><00:00:34.999><c>been</c>
+
+00:00:35.470 --> 00:00:35.480 align:start position:0%
+Tell us the breakup of that bill, what items have been
+ 
+
+00:00:35.480 --> 00:00:37.150 align:start position:0%
+Tell us the breakup of that bill, what items have been
+used <00:00:35.634><c>in </c><00:00:35.788><c>it, </c><00:00:35.942><c>and </c><00:00:36.096><c>what </c><00:00:36.250><c>other </c><00:00:36.404><c>things </c><00:00:36.558><c>have </c><00:00:36.712><c>been</c>
+
+00:00:37.150 --> 00:00:37.160 align:start position:0%
+used in it, and what other things have been
+ 
+
+00:00:37.160 --> 00:00:39.830 align:start position:0%
+used in it, and what other things have been
+used <00:00:37.444><c>in </c><00:00:37.728><c>it. </c><00:00:38.012><c>You </c><00:00:38.296><c>can </c><00:00:38.580><c>select </c><00:00:38.864><c>a </c><00:00:39.148><c>particular </c><00:00:39.432><c>item </c><00:00:39.716><c>in</c>
+
+00:00:39.830 --> 00:00:39.840 align:start position:0%
+used in it. You can select a particular item in
+ 
+
+00:00:39.840 --> 00:00:42.110 align:start position:0%
+used in it. You can select a particular item in
+it <00:00:40.859><c>or </c><00:00:41.878><c>you</c>
+
+00:00:42.110 --> 00:00:42.120 align:start position:0%
+it or you
+ 
+
+00:00:42.120 --> 00:00:44.709 align:start position:0%
+it or you
+can <00:00:42.344><c>also </c><00:00:42.568><c>ask </c><00:00:42.792><c>for </c><00:00:43.016><c>a </c><00:00:43.240><c>breakup </c><00:00:43.464><c>of </c><00:00:43.688><c>the </c><00:00:43.912><c>entire </c><00:00:44.136><c>bill. </c><00:00:44.360><c>So,</c>
+
+00:00:44.709 --> 00:00:44.719 align:start position:0%
+can also ask for a breakup of the entire bill. So,
+ 
+
+00:00:44.719 --> 00:00:46.470 align:start position:0%
+can also ask for a breakup of the entire bill. So,
+what <00:00:44.821><c>happens </c><00:00:44.923><c>in </c><00:00:45.025><c>this </c><00:00:45.127><c>is </c><00:00:45.229><c>that </c><00:00:45.331><c>if </c><00:00:45.433><c>a </c><00:00:45.535><c>query </c><00:00:45.637><c>is </c><00:00:45.739><c>raised </c><00:00:45.841><c>in </c><00:00:45.943><c>a </c><00:00:46.045><c>cashless </c><00:00:46.147><c>claim, </c><00:00:46.249><c>then </c><00:00:46.351><c>the</c>
+
+00:00:46.470 --> 00:00:46.480 align:start position:0%
+what happens in this is that if a query is raised in a cashless claim, then the
+ 
+
+00:00:46.480 --> 00:00:48.470 align:start position:0%
+what happens in this is that if a query is raised in a cashless claim, then the
+TPA
+
+00:00:48.470 --> 00:00:48.480 align:start position:0%
+TPA
+ 
+
+00:00:48.480 --> 00:00:51.270 align:start position:0%
+TPA
+team <00:00:48.834><c>of </c><00:00:49.188><c>the </c><00:00:49.542><c>hospital </c><00:00:49.896><c>answers </c><00:00:50.250><c>it. </c><00:00:50.604><c>If </c><00:00:50.958><c>a</c>
+
+00:00:51.270 --> 00:00:51.280 align:start position:0%
+team of the hospital answers it. If a
+ 
+
+00:00:51.280 --> 00:00:53.790 align:start position:0%
+team of the hospital answers it. If a
+bill <00:00:51.550><c>breakup </c><00:00:51.820><c>query </c><00:00:52.090><c>is </c><00:00:52.360><c>raised </c><00:00:52.630><c>in </c><00:00:52.900><c>a </c><00:00:53.170><c>reimbursement </c><00:00:53.440><c>claim,</c>
+
+00:00:53.790 --> 00:00:53.800 align:start position:0%
+bill breakup query is raised in a reimbursement claim,
+ 
+
+00:00:53.800 --> 00:00:56.389 align:start position:0%
+bill breakup query is raised in a reimbursement claim,
+then <00:00:54.160><c>it </c><00:00:54.520><c>becomes </c><00:00:54.880><c>the </c><00:00:55.240><c>responsibility </c><00:00:55.600><c>of </c><00:00:55.960><c>the </c><00:00:56.320><c>candidate</c>
+
+00:00:56.389 --> 00:00:56.399 align:start position:0%
+then it becomes the responsibility of the candidate
+ 
+
+00:00:56.399 --> 00:00:58.830 align:start position:0%
+then it becomes the responsibility of the candidate
+who <00:00:56.849><c>fills </c><00:00:57.299><c>the </c><00:00:57.749><c>form </c><00:00:58.199><c>and</c>
+
+00:00:58.830 --> 00:00:58.840 align:start position:0%
+who fills the form and
+ 
+
+00:00:58.840 --> 00:01:00.750 align:start position:0%
+who fills the form and
+submits <00:00:59.140><c>the </c><00:00:59.440><c>reimbursement </c><00:00:59.740><c>form </c><00:01:00.040><c>for </c><00:01:00.340><c>the </c><00:01:00.640><c>claim.</c>
+
+00:01:00.750 --> 00:01:00.760 align:start position:0%
+submits the reimbursement form for the claim.
+ 
+
+00:01:00.760 --> 00:01:02.990 align:start position:0%
+submits the reimbursement form for the claim.
+What <00:01:01.100><c>happens </c><00:01:01.440><c>in </c><00:01:01.780><c>this </c><00:01:02.120><c>is </c><00:01:02.460><c>that </c><00:01:02.800><c>a</c>
+
+00:01:02.990 --> 00:01:03.000 align:start position:0%
+What happens in this is that a
+ 
+
+00:01:03.000 --> 00:01:04.829 align:start position:0%
+What happens in this is that a
+big <00:01:03.420><c>problem </c><00:01:03.840><c>arises, </c><00:01:04.260><c>they </c><00:01:04.680><c>do</c>
+
+00:01:04.829 --> 00:01:04.839 align:start position:0%
+big problem arises, they do
+ 
+
+00:01:04.839 --> 00:01:06.990 align:start position:0%
+big problem arises, they do
+not <00:01:04.972><c>understand </c><00:01:05.105><c>what </c><00:01:05.238><c>a </c><00:01:05.371><c>bill </c><00:01:05.504><c>breakup </c><00:01:05.637><c>is.  </c><00:01:05.770><c>What </c><00:01:05.903><c>is </c><00:01:06.036><c>it, </c><00:01:06.169><c>what </c><00:01:06.302><c>has </c><00:01:06.435><c>the</c>
+
+00:01:06.990 --> 00:01:07.000 align:start position:0%
+not understand what a bill breakup is.  What is it, what has the
+ 
+
+00:01:07.000 --> 00:01:09.070 align:start position:0%
+not understand what a bill breakup is.  What is it, what has the
+insurance <00:01:07.328><c>company </c><00:01:07.656><c>asked </c><00:01:07.984><c>for </c><00:01:08.312><c>in </c><00:01:08.640><c>this,</c>
+
+00:01:09.070 --> 00:01:09.080 align:start position:0%
+insurance company asked for in this,
+ 
+
+00:01:09.080 --> 00:01:11.670 align:start position:0%
+insurance company asked for in this,
+how <00:01:09.422><c>to </c><00:01:09.764><c>answer </c><00:01:10.106><c>it, </c><00:01:10.448><c>so </c><00:01:10.790><c>those </c><00:01:11.132><c>people </c><00:01:11.474><c>get</c>
+
+00:01:11.670 --> 00:01:11.680 align:start position:0%
+how to answer it, so those people get
+ 
+
+00:01:11.680 --> 00:01:13.310 align:start position:0%
+how to answer it, so those people get
+very <00:01:12.080><c>confused </c><00:01:12.480><c>about </c><00:01:12.880><c>this </c><00:01:13.280><c>query,</c>
+
+00:01:13.310 --> 00:01:13.320 align:start position:0%
+very confused about this query,
+ 
+
+00:01:13.320 --> 00:01:16.350 align:start position:0%
+very confused about this query,
+how <00:01:13.651><c>to </c><00:01:13.982><c>answer </c><00:01:14.313><c>it </c><00:01:14.644><c>and </c><00:01:14.975><c>their </c><00:01:15.306><c>claim </c><00:01:15.637><c>gets</c>
+
+00:01:16.350 --> 00:01:16.360 align:start position:0%
+how to answer it and their claim gets
+ 
+
+00:01:16.360 --> 00:01:18.830 align:start position:0%
+how to answer it and their claim gets
+stuck <00:01:16.920><c>in </c><00:01:17.480><c>the </c><00:01:18.040><c>middle, </c><00:01:18.600><c>so</c>
+
+00:01:18.830 --> 00:01:18.840 align:start position:0%
+stuck in the middle, so
+ 
+
+00:01:18.840 --> 00:01:20.789 align:start position:0%
+stuck in the middle, so
+today <00:01:19.035><c>I </c><00:01:19.230><c>am </c><00:01:19.425><c>going </c><00:01:19.620><c>to </c><00:01:19.815><c>tell </c><00:01:20.010><c>you </c><00:01:20.205><c>in </c><00:01:20.400><c>full </c><00:01:20.595><c>detail</c>
+
+00:01:20.789 --> 00:01:22.990 align:start position:0%
+today I am going to tell you in full detail
+ 
+
+00:01:22.990 --> 00:01:23.000 align:start position:0%
+ 
+ 
+
+00:01:23.000 --> 00:01:25.749 align:start position:0%
+ 
+how <00:01:23.214><c>you </c><00:01:23.428><c>can </c><00:01:23.642><c>answer </c><00:01:23.856><c>the </c><00:01:24.070><c>bill </c><00:01:24.284><c>breakup </c><00:01:24.498><c>query, </c><00:01:24.712><c>in </c><00:01:24.926><c>reinsurance </c><00:01:25.140><c>claim </c><00:01:25.354><c>the</c>
+
+00:01:25.749 --> 00:01:25.759 align:start position:0%
+how you can answer the bill breakup query, in reinsurance claim the
+ 
+
+00:01:25.759 --> 00:01:27.749 align:start position:0%
+how you can answer the bill breakup query, in reinsurance claim the
+process <00:01:25.915><c>of </c><00:01:26.071><c>answering </c><00:01:26.227><c>it </c><00:01:26.383><c>is </c><00:01:26.539><c>the </c><00:01:26.695><c>same </c><00:01:26.851><c>in </c><00:01:27.007><c>cashless </c><00:01:27.163><c>as </c><00:01:27.319><c>well,</c>
+
+00:01:27.749 --> 00:01:27.759 align:start position:0%
+process of answering it is the same in cashless as well,
+ 
+
+00:01:27.759 --> 00:01:30.270 align:start position:0%
+process of answering it is the same in cashless as well,
+but <00:01:28.559><c>the </c><00:01:29.359><c>TPA </c><00:01:30.159><c>team</c>
+
+00:01:30.270 --> 00:01:30.280 align:start position:0%
+but the TPA team
+ 
+
+00:01:30.280 --> 00:01:32.590 align:start position:0%
+but the TPA team
+gives <00:01:30.540><c>it, </c><00:01:30.800><c>so </c><00:01:31.060><c>you </c><00:01:31.320><c>people </c><00:01:31.580><c>do </c><00:01:31.840><c>not </c><00:01:32.100><c>know </c><00:01:32.360><c>about</c>
+
+00:01:32.590 --> 00:01:32.600 align:start position:0%
+gives it, so you people do not know about
+ 
+
+00:01:32.600 --> 00:01:34.910 align:start position:0%
+gives it, so you people do not know about
+how <00:01:33.100><c>they </c><00:01:33.600><c>answer </c><00:01:34.100><c>it, </c><00:01:34.600><c>but</c>
+
+00:01:34.910 --> 00:01:34.920 align:start position:0%
+how they answer it, but
+ 
+
+00:01:34.920 --> 00:01:37.190 align:start position:0%
+how they answer it, but
+this <00:01:35.560><c>video </c><00:01:36.200><c>is </c><00:01:36.840><c>mostly</c>
+
+00:01:37.190 --> 00:01:37.200 align:start position:0%
+this video is mostly
+ 
+
+00:01:37.200 --> 00:01:40.230 align:start position:0%
+this video is mostly
+for <00:01:37.412><c>those </c><00:01:37.624><c>in </c><00:01:37.836><c>reinsurance </c><00:01:38.048><c>cases, </c><00:01:38.260><c>who </c><00:01:38.472><c>have </c><00:01:38.684><c>a </c><00:01:38.896><c>lot </c><00:01:39.108><c>of </c><00:01:39.320><c>problems </c><00:01:39.532><c>regarding </c><00:01:39.744><c>this </c><00:01:39.956><c>query,</c>
+
+00:01:40.230 --> 00:01:40.240 align:start position:0%
+for those in reinsurance cases, who have a lot of problems regarding this query,
+ 
+
+00:01:40.240 --> 00:01:42.230 align:start position:0%
+for those in reinsurance cases, who have a lot of problems regarding this query,
+so
+
+00:01:42.230 --> 00:01:42.240 align:start position:0%
+so
+ 
+
+00:01:42.240 --> 00:01:44.389 align:start position:0%
+so
+today <00:01:42.374><c>I </c><00:01:42.508><c>am </c><00:01:42.642><c>going </c><00:01:42.776><c>to </c><00:01:42.910><c>give </c><00:01:43.044><c>the </c><00:01:43.178><c>solution </c><00:01:43.312><c>of </c><00:01:43.446><c>that </c><00:01:43.580><c>problem </c><00:01:43.714><c>in </c><00:01:43.848><c>this </c><00:01:43.982><c>video, </c><00:01:44.116><c>if</c>
+
+00:01:44.389 --> 00:01:44.399 align:start position:0%
+today I am going to give the solution of that problem in this video, if
+ 
+
+00:01:44.399 --> 00:01:46.910 align:start position:0%
+today I am going to give the solution of that problem in this video, if
+you <00:01:44.730><c>people </c><00:01:45.061><c>are </c><00:01:45.392><c>new </c><00:01:45.723><c>to </c><00:01:46.054><c>the </c><00:01:46.385><c>channel </c><00:01:46.716><c>then</c>
+
+00:01:46.910 --> 00:01:46.920 align:start position:0%
+you people are new to the channel then
+ 
+
+00:01:46.920 --> 00:01:48.830 align:start position:0%
+you people are new to the channel then
+subscribe <00:01:47.369><c>to </c><00:01:47.818><c>the </c><00:01:48.267><c>channel </c><00:01:48.716><c>and</c>
+
+00:01:48.830 --> 00:01:48.840 align:start position:0%
+subscribe to the channel and
+ 
+
+00:01:48.840 --> 00:01:51.270 align:start position:0%
+subscribe to the channel and
+like <00:01:49.154><c>the </c><00:01:49.468><c>video, </c><00:01:49.782><c>so </c><00:01:50.096><c>let's </c><00:01:50.410><c>start </c><00:01:50.724><c>the </c><00:01:51.038><c>video</c>
+
+00:01:51.270 --> 00:01:51.280 align:start position:0%
+like the video, so let's start the video
+ 
+
+00:01:51.280 --> 00:01:55.330 align:start position:0%
+like the video, so let's start the video
+
+
+00:01:55.330 --> 00:01:55.340 align:start position:0%
+ 
+ 
+
+00:01:55.340 --> 00:01:58.830 align:start position:0%
+ 
+[Music]
+
+00:01:58.830 --> 00:01:58.840 align:start position:0%
+ 
+ 
+
+00:01:58.840 --> 00:02:01.990 align:start position:0%
+ 
+
+
+00:02:01.990 --> 00:02:02.000 align:start position:0%
+ 
+ 
+
+00:02:02.000 --> 00:02:03.789 align:start position:0%
+ 
+Whenever <00:02:02.440><c>we </c><00:02:02.880><c>collect </c><00:02:03.320><c>the</c>
+
+00:02:03.789 --> 00:02:03.799 align:start position:0%
+Whenever we collect the
+ 
+
+00:02:03.799 --> 00:02:05.709 align:start position:0%
+Whenever we collect the
+documents <00:02:03.945><c>from </c><00:02:04.091><c>the </c><00:02:04.237><c>hospital </c><00:02:04.383><c>after </c><00:02:04.529><c>getting </c><00:02:04.675><c>our </c><00:02:04.821><c>treatment </c><00:02:04.967><c>done, </c><00:02:05.113><c>the</c>
+
+00:02:05.709 --> 00:02:08.669 align:start position:0%
+documents from the hospital after getting our treatment done, the
+ 
+
+00:02:08.669 --> 00:02:08.679 align:start position:0%
+ 
+ 
+
+00:02:08.679 --> 00:02:11.270 align:start position:0%
+ 
+reinsurance <00:02:09.099><c>discharge </c><00:02:09.519><c>summary </c><00:02:09.939><c>is </c><00:02:10.359><c>done, </c><00:02:10.779><c>the </c><00:02:11.199><c>medicine</c>
+
+00:02:11.270 --> 00:02:11.280 align:start position:0%
+reinsurance discharge summary is done, the medicine
+ 
+
+00:02:11.280 --> 00:02:13.589 align:start position:0%
+reinsurance discharge summary is done, the medicine
+bills <00:02:11.492><c>are </c><00:02:11.704><c>done, </c><00:02:11.916><c>the </c><00:02:12.128><c>lab </c><00:02:12.340><c>test </c><00:02:12.552><c>bills </c><00:02:12.764><c>are </c><00:02:12.976><c>done </c><00:02:13.188><c>or </c><00:02:13.400><c>any</c>
+
+00:02:13.589 --> 00:02:13.599 align:start position:0%
+bills are done, the lab test bills are done or any
+ 
+
+00:02:13.599 --> 00:02:15.750 align:start position:0%
+bills are done, the lab test bills are done or any
+other <00:02:13.919><c>charges, </c><00:02:14.239><c>whatever </c><00:02:14.559><c>you </c><00:02:14.879><c>have </c><00:02:15.199><c>paid </c><00:02:15.519><c>there</c>
+
+00:02:15.750 --> 00:02:15.760 align:start position:0%
+other charges, whatever you have paid there
+ 
+
+00:02:15.760 --> 00:02:18.390 align:start position:0%
+other charges, whatever you have paid there
+The <00:02:16.186><c>bill </c><00:02:16.612><c>is </c><00:02:17.038><c>collected </c><00:02:17.464><c>from </c><00:02:17.890><c>the </c><00:02:18.316><c>hospital</c>
+
+00:02:18.390 --> 00:02:18.400 align:start position:0%
+The bill is collected from the hospital
+ 
+
+00:02:18.400 --> 00:02:20.430 align:start position:0%
+The bill is collected from the hospital
+and <00:02:18.563><c>then </c><00:02:18.726><c>after </c><00:02:18.889><c>filling </c><00:02:19.052><c>up </c><00:02:19.215><c>Form </c><00:02:19.378><c>A </c><00:02:19.541><c>and </c><00:02:19.704><c>B </c><00:02:19.867><c>of </c><00:02:20.030><c>reimbursement, </c><00:02:20.193><c>the</c>
+
+00:02:20.430 --> 00:02:20.440 align:start position:0%
+and then after filling up Form A and B of reimbursement, the
+ 
+
+00:02:20.440 --> 00:02:22.710 align:start position:0%
+and then after filling up Form A and B of reimbursement, the
+documents <00:02:20.685><c>are </c><00:02:20.930><c>sent </c><00:02:21.175><c>to </c><00:02:21.420><c>the </c><00:02:21.665><c>insurance </c><00:02:21.910><c>company. </c><00:02:22.155><c>So</c>
+
+00:02:22.710 --> 00:02:22.720 align:start position:0%
+documents are sent to the insurance company. So
+ 
+
+00:02:22.720 --> 00:02:25.110 align:start position:0%
+documents are sent to the insurance company. So
+what <00:02:23.453><c>happens </c><00:02:24.186><c>is </c><00:02:24.919><c>that</c>
+
+00:02:25.110 --> 00:02:25.120 align:start position:0%
+what happens is that
+ 
+
+00:02:25.120 --> 00:02:28.030 align:start position:0%
+what happens is that
+when <00:02:25.450><c>the </c><00:02:25.780><c>insurance </c><00:02:26.110><c>company </c><00:02:26.440><c>receives </c><00:02:26.770><c>the </c><00:02:27.100><c>final </c><00:02:27.430><c>bill, </c><00:02:27.760><c>they</c>
+
+00:02:28.030 --> 00:02:28.040 align:start position:0%
+when the insurance company receives the final bill, they
+ 
+
+00:02:28.040 --> 00:02:30.350 align:start position:0%
+when the insurance company receives the final bill, they
+feel <00:02:28.191><c>that </c><00:02:28.342><c>there </c><00:02:28.493><c>are </c><00:02:28.644><c>some </c><00:02:28.795><c>deficiencies </c><00:02:28.946><c>in </c><00:02:29.097><c>this </c><00:02:29.248><c>bill, </c><00:02:29.399><c>that</c>
+
+00:02:30.350 --> 00:02:30.360 align:start position:0%
+feel that there are some deficiencies in this bill, that
+ 
+
+00:02:30.360 --> 00:02:32.470 align:start position:0%
+feel that there are some deficiencies in this bill, that
+this <00:02:30.673><c>bill </c><00:02:30.986><c>has </c><00:02:31.299><c>not </c><00:02:31.612><c>been </c><00:02:31.925><c>prepared </c><00:02:32.238><c>properly</c>
+
+00:02:32.470 --> 00:02:32.480 align:start position:0%
+this bill has not been prepared properly
+ 
+
+00:02:32.480 --> 00:02:35.430 align:start position:0%
+this bill has not been prepared properly
+or <00:02:32.891><c>the </c><00:02:33.302><c>bill </c><00:02:33.713><c>has </c><00:02:34.124><c>been </c><00:02:34.535><c>made </c><00:02:34.946><c>very </c><00:02:35.357><c>overcharged,</c>
+
+00:02:35.430 --> 00:02:35.440 align:start position:0%
+or the bill has been made very overcharged,
+ 
+
+00:02:35.440 --> 00:02:37.430 align:start position:0%
+or the bill has been made very overcharged,
+too <00:02:35.746><c>many </c><00:02:36.052><c>charges </c><00:02:36.358><c>have </c><00:02:36.664><c>been </c><00:02:36.970><c>levied, </c><00:02:37.276><c>so</c>
+
+00:02:37.430 --> 00:02:37.440 align:start position:0%
+too many charges have been levied, so
+ 
+
+00:02:37.440 --> 00:02:39.470 align:start position:0%
+too many charges have been levied, so
+what <00:02:37.714><c>happens </c><00:02:37.988><c>in </c><00:02:38.262><c>that </c><00:02:38.536><c>condition </c><00:02:38.810><c>is </c><00:02:39.084><c>that </c><00:02:39.358><c>it</c>
+
+00:02:39.470 --> 00:02:39.480 align:start position:0%
+what happens in that condition is that it
+ 
+
+00:02:39.480 --> 00:02:42.149 align:start position:0%
+what happens in that condition is that it
+asks <00:02:39.724><c>for </c><00:02:39.968><c>the </c><00:02:40.212><c>breakup </c><00:02:40.456><c>of </c><00:02:40.700><c>the </c><00:02:40.944><c>bill </c><00:02:41.188><c>from </c><00:02:41.432><c>the </c><00:02:41.676><c>candidate, </c><00:02:41.920><c>so</c>
+
+00:02:42.149 --> 00:02:42.159 align:start position:0%
+asks for the breakup of the bill from the candidate, so
+ 
+
+00:02:42.159 --> 00:02:44.910 align:start position:0%
+asks for the breakup of the bill from the candidate, so
+how <00:02:42.452><c>does </c><00:02:42.745><c>that </c><00:02:43.038><c>candidate </c><00:02:43.331><c>answer </c><00:02:43.624><c>this, </c><00:02:43.917><c>I </c><00:02:44.210><c>am </c><00:02:44.503><c>going </c><00:02:44.796><c>to</c>
+
+00:02:44.910 --> 00:02:44.920 align:start position:0%
+how does that candidate answer this, I am going to
+ 
+
+00:02:44.920 --> 00:02:46.710 align:start position:0%
+how does that candidate answer this, I am going to
+tell <00:02:45.148><c>you </c><00:02:45.376><c>in </c><00:02:45.604><c>this </c><00:02:45.832><c>video, </c><00:02:46.060><c>in </c><00:02:46.288><c>that </c><00:02:46.516><c>a</c>
+
+00:02:46.710 --> 00:02:46.720 align:start position:0%
+tell you in this video, in that a
+ 
+
+00:02:46.720 --> 00:02:49.550 align:start position:0%
+tell you in this video, in that a
+query <00:02:47.097><c>is </c><00:02:47.474><c>raised, </c><00:02:47.851><c>firstly </c><00:02:48.228><c>if </c><00:02:48.605><c>there </c><00:02:48.982><c>is </c><00:02:49.359><c>a</c>
+
+00:02:49.550 --> 00:02:49.560 align:start position:0%
+query is raised, firstly if there is a
+ 
+
+00:02:49.560 --> 00:02:51.750 align:start position:0%
+query is raised, firstly if there is a
+package <00:02:49.764><c>bill, </c><00:02:49.968><c>like </c><00:02:50.172><c>if </c><00:02:50.376><c>a </c><00:02:50.580><c>surgery </c><00:02:50.784><c>has </c><00:02:50.988><c>been </c><00:02:51.192><c>done, </c><00:02:51.396><c>then</c>
+
+00:02:51.750 --> 00:02:51.760 align:start position:0%
+package bill, like if a surgery has been done, then
+ 
+
+00:02:51.760 --> 00:02:54.070 align:start position:0%
+package bill, like if a surgery has been done, then
+almost <00:02:52.120><c>a </c><00:02:52.480><c>package </c><00:02:52.840><c>of </c><00:02:53.200><c>surgery </c><00:02:53.560><c>is </c><00:02:53.920><c>made,</c>
+
+00:02:54.070 --> 00:02:54.080 align:start position:0%
+almost a package of surgery is made,
+ 
+
+00:02:54.080 --> 00:02:56.670 align:start position:0%
+almost a package of surgery is made,
+every <00:02:54.906><c>insurance </c><00:02:55.732><c>company </c><00:02:56.558><c>has</c>
+
+00:02:56.670 --> 00:02:56.680 align:start position:0%
+every insurance company has
+ 
+
+00:02:56.680 --> 00:02:59.149 align:start position:0%
+every insurance company has
+a <00:02:56.964><c>package </c><00:02:57.248><c>in </c><00:02:57.532><c>the </c><00:02:57.816><c>rate </c><00:02:58.100><c>fixed </c><00:02:58.384><c>with </c><00:02:58.668><c>the </c><00:02:58.952><c>hospital,</c>
+
+00:02:59.149 --> 00:02:59.159 align:start position:0%
+a package in the rate fixed with the hospital,
+ 
+
+00:02:59.159 --> 00:03:00.910 align:start position:0%
+a package in the rate fixed with the hospital,
+billing <00:02:59.382><c>is </c><00:02:59.605><c>done </c><00:02:59.828><c>according </c><00:03:00.051><c>to </c><00:03:00.274><c>that, </c><00:03:00.497><c>so </c><00:03:00.720><c>if</c>
+
+00:03:00.910 --> 00:03:00.920 align:start position:0%
+billing is done according to that, so if
+ 
+
+00:03:00.920 --> 00:03:03.630 align:start position:0%
+billing is done according to that, so if
+they <00:03:01.470><c>feel </c><00:03:02.020><c>that </c><00:03:02.570><c>too </c><00:03:03.120><c>much</c>
+
+00:03:03.630 --> 00:03:03.640 align:start position:0%
+they feel that too much
+ 
+
+00:03:03.640 --> 00:03:06.070 align:start position:0%
+they feel that too much
+means <00:03:03.919><c>overcharge </c><00:03:04.198><c>has </c><00:03:04.477><c>been </c><00:03:04.756><c>levied </c><00:03:05.035><c>in </c><00:03:05.314><c>it, </c><00:03:05.593><c>then </c><00:03:05.872><c>they</c>
+
+00:03:06.070 --> 00:03:06.080 align:start position:0%
+means overcharge has been levied in it, then they
+ 
+
+00:03:06.080 --> 00:03:08.149 align:start position:0%
+means overcharge has been levied in it, then they
+can <00:03:06.406><c>ask </c><00:03:06.732><c>for </c><00:03:07.058><c>a </c><00:03:07.384><c>breakup, </c><00:03:07.710><c>that </c><00:03:08.036><c>brother,</c>
+
+00:03:08.149 --> 00:03:08.159 align:start position:0%
+can ask for a breakup, that brother,
+ 
+
+00:03:08.159 --> 00:03:10.110 align:start position:0%
+can ask for a breakup, that brother,
+what <00:03:08.219><c>was </c><00:03:08.279><c>the </c><00:03:08.339><c>charge </c><00:03:08.399><c>of </c><00:03:08.459><c>the </c><00:03:08.519><c>surgery </c><00:03:08.579><c>or </c><00:03:08.639><c>how </c><00:03:08.699><c>much </c><00:03:08.759><c>anesthesia, </c><00:03:08.819><c>how </c><00:03:08.879><c>much </c><00:03:08.939><c>was </c><00:03:08.999><c>the</c>
+
+00:03:10.110 --> 00:03:10.120 align:start position:0%
+what was the charge of the surgery or how much anesthesia, how much was the
+ 
+
+00:03:10.120 --> 00:03:13.030 align:start position:0%
+what was the charge of the surgery or how much anesthesia, how much was the
+charge <00:03:11.440><c>for </c><00:03:12.760><c>anesthesia</c>
+
+00:03:13.030 --> 00:03:13.040 align:start position:0%
+charge for anesthesia
+ 
+
+00:03:13.040 --> 00:03:15.949 align:start position:0%
+charge for anesthesia
+and <00:03:13.272><c>how </c><00:03:13.504><c>much </c><00:03:13.736><c>medicine </c><00:03:13.968><c>was </c><00:03:14.200><c>used </c><00:03:14.432><c>in </c><00:03:14.664><c>it </c><00:03:14.896><c>or </c><00:03:15.128><c>how </c><00:03:15.360><c>many</c>
+
+00:03:15.949 --> 00:03:15.959 align:start position:0%
+and how much medicine was used in it or how many
+ 
+
+00:03:15.959 --> 00:03:17.949 align:start position:0%
+and how much medicine was used in it or how many
+lab <00:03:16.194><c>tests </c><00:03:16.429><c>did </c><00:03:16.664><c>you </c><00:03:16.899><c>people </c><00:03:17.134><c>get </c><00:03:17.369><c>done, </c><00:03:17.604><c>then </c><00:03:17.839><c>they</c>
+
+00:03:17.949 --> 00:03:17.959 align:start position:0%
+lab tests did you people get done, then they
+ 
+
+00:03:17.959 --> 00:03:20.789 align:start position:0%
+lab tests did you people get done, then they
+ask <00:03:18.455><c>for </c><00:03:18.951><c>the </c><00:03:19.447><c>total </c><00:03:19.943><c>bill </c><00:03:20.439><c>breakup,</c>
+
+00:03:20.789 --> 00:03:20.799 align:start position:0%
+ask for the total bill breakup,
+ 
+
+00:03:20.799 --> 00:03:23.070 align:start position:0%
+ask for the total bill breakup,
+this <00:03:20.965><c>is </c><00:03:21.131><c>from </c><00:03:21.297><c>you  </c><00:03:21.463><c>Keep </c><00:03:21.629><c>in </c><00:03:21.795><c>mind </c><00:03:21.961><c>that </c><00:03:22.127><c>if </c><00:03:22.293><c>you </c><00:03:22.459><c>ever </c><00:03:22.625><c>have </c><00:03:22.791><c>a </c><00:03:22.957><c>cashless</c>
+
+00:03:23.070 --> 00:03:23.080 align:start position:0%
+this is from you  Keep in mind that if you ever have a cashless
+ 
+
+00:03:23.080 --> 00:03:24.789 align:start position:0%
+this is from you  Keep in mind that if you ever have a cashless
+or
+
+00:03:24.789 --> 00:03:24.799 align:start position:0%
+or
+ 
+
+00:03:24.799 --> 00:03:28.470 align:start position:0%
+or
+reimbursement, <00:03:25.222><c>the </c><00:03:25.645><c>hospital </c><00:03:26.068><c>will </c><00:03:26.491><c>always </c><00:03:26.914><c>answer </c><00:03:27.337><c>it. </c><00:03:27.760><c>The</c>
+
+00:03:28.470 --> 00:03:28.480 align:start position:0%
+reimbursement, the hospital will always answer it. The
+ 
+
+00:03:28.480 --> 00:03:31.470 align:start position:0%
+reimbursement, the hospital will always answer it. The
+hospital <00:03:31.360><c>will</c>
+
+00:03:31.470 --> 00:03:31.480 align:start position:0%
+hospital will
+ 
+
+00:03:31.480 --> 00:03:33.830 align:start position:0%
+hospital will
+prepare <00:03:31.697><c>a </c><00:03:31.914><c>bill </c><00:03:32.131><c>breakup </c><00:03:32.348><c>on </c><00:03:32.565><c>its </c><00:03:32.782><c>letterhead. </c><00:03:32.999><c>The </c><00:03:33.216><c>hospital </c><00:03:33.433><c>will</c>
+
+00:03:33.830 --> 00:03:33.840 align:start position:0%
+prepare a bill breakup on its letterhead. The hospital will
+ 
+
+00:03:33.840 --> 00:03:36.550 align:start position:0%
+prepare a bill breakup on its letterhead. The hospital will
+stamp <00:03:34.273><c>it. </c><00:03:34.706><c>The </c><00:03:35.139><c>author </c><00:03:35.572><c>will </c><00:03:36.005><c>sign </c><00:03:36.438><c>it.</c>
+
+00:03:36.550 --> 00:03:38.910 align:start position:0%
+stamp it. The author will sign it.
+ 
+
+00:03:38.910 --> 00:03:38.920 align:start position:0%
+ 
+ 
+
+00:03:38.920 --> 00:03:41.070 align:start position:0%
+ 
+After <00:03:39.613><c>that, </c><00:03:40.306><c>you </c><00:03:40.999><c>will</c>
+
+00:03:41.070 --> 00:03:41.080 align:start position:0%
+After that, you will
+ 
+
+00:03:41.080 --> 00:03:44.390 align:start position:0%
+After that, you will
+send <00:03:41.227><c>this </c><00:03:41.374><c>document </c><00:03:41.521><c>to </c><00:03:41.668><c>the </c><00:03:41.815><c>insurance </c><00:03:41.962><c>company </c><00:03:42.109><c>and </c><00:03:42.256><c>your </c><00:03:42.403><c>claim </c><00:03:42.550><c>will </c><00:03:42.697><c>be </c><00:03:42.844><c>processed. </c><00:03:42.991><c>If</c>
+
+00:03:44.390 --> 00:03:48.149 align:start position:0%
+send this document to the insurance company and your claim will be processed. If
+ 
+
+00:03:48.149 --> 00:03:48.159 align:start position:0%
+ 
+ 
+
+00:03:48.159 --> 00:03:50.949 align:start position:0%
+ 
+you <00:03:48.592><c>respond </c><00:03:49.025><c>properly, </c><00:03:49.458><c>only </c><00:03:49.891><c>then </c><00:03:50.324><c>will </c><00:03:50.757><c>the</c>
+
+00:03:50.949 --> 00:03:50.959 align:start position:0%
+you respond properly, only then will the
+ 
+
+00:03:50.959 --> 00:03:54.110 align:start position:0%
+you respond properly, only then will the
+claim <00:03:51.274><c>be </c><00:03:51.589><c>passed. </c><00:03:51.904><c>Along </c><00:03:52.219><c>with </c><00:03:52.534><c>the </c><00:03:52.849><c>package </c><00:03:53.164><c>bill, </c><00:03:53.479><c>this</c>
+
+00:03:54.110 --> 00:03:54.120 align:start position:0%
+claim be passed. Along with the package bill, this
+ 
+
+00:03:54.120 --> 00:03:56.869 align:start position:0%
+claim be passed. Along with the package bill, this
+insurance <00:03:55.319><c>company </c><00:03:56.518><c>also</c>
+
+00:03:56.869 --> 00:03:56.879 align:start position:0%
+insurance company also
+ 
+
+00:03:56.879 --> 00:03:59.110 align:start position:0%
+insurance company also
+places <00:03:57.219><c>a </c><00:03:57.559><c>query </c><00:03:57.899><c>in </c><00:03:58.239><c>the </c><00:03:58.579><c>open </c><00:03:58.919><c>billing.</c>
+
+00:03:59.110 --> 00:03:59.120 align:start position:0%
+places a query in the open billing.
+ 
+
+00:03:59.120 --> 00:04:01.710 align:start position:0%
+places a query in the open billing.
+Sometimes, <00:03:59.319><c>I </c><00:03:59.518><c>am </c><00:03:59.717><c>going </c><00:03:59.916><c>to </c><00:04:00.115><c>tell </c><00:04:00.314><c>you </c><00:04:00.513><c>within </c><00:04:00.712><c>the </c><00:04:00.911><c>open </c><00:04:01.110><c>bill </c><00:04:01.309><c>itself </c><00:04:01.508><c>what</c>
+
+00:04:01.710 --> 00:04:01.720 align:start position:0%
+Sometimes, I am going to tell you within the open bill itself what
+ 
+
+00:04:01.720 --> 00:04:03.509 align:start position:0%
+Sometimes, I am going to tell you within the open bill itself what
+type <00:04:02.240><c>of </c><00:04:02.760><c>query </c><00:04:03.280><c>is</c>
+
+00:04:03.509 --> 00:04:03.519 align:start position:0%
+type of query is
+ 
+
+00:04:03.519 --> 00:04:06.470 align:start position:0%
+type of query is
+placed <00:04:04.412><c>and </c><00:04:05.305><c>how </c><00:04:06.198><c>you</c>
+
+00:04:06.470 --> 00:04:06.480 align:start position:0%
+placed and how you
+ 
+
+00:04:06.480 --> 00:04:09.470 align:start position:0%
+placed and how you
+can <00:04:06.686><c>respond </c><00:04:06.892><c>to </c><00:04:07.098><c>it. </c><00:04:07.304><c>You </c><00:04:07.510><c>can </c><00:04:07.716><c>also </c><00:04:07.922><c>take </c><00:04:08.128><c>help </c><00:04:08.334><c>from </c><00:04:08.540><c>the </c><00:04:08.746><c>hospital </c><00:04:08.952><c>and </c><00:04:09.158><c>the</c>
+
+00:04:09.470 --> 00:04:09.480 align:start position:0%
+can respond to it. You can also take help from the hospital and the
+ 
+
+00:04:09.480 --> 00:04:11.429 align:start position:0%
+can respond to it. You can also take help from the hospital and the
+TPA <00:04:09.856><c>team </c><00:04:10.232><c>of </c><00:04:10.608><c>the </c><00:04:10.984><c>hospital. </c><00:04:11.360><c>In</c>
+
+00:04:11.429 --> 00:04:11.439 align:start position:0%
+TPA team of the hospital. In
+ 
+
+00:04:11.439 --> 00:04:14.069 align:start position:0%
+TPA team of the hospital. In
+case <00:04:12.659><c>of </c><00:04:13.879><c>reimbursement,</c>
+
+00:04:14.069 --> 00:04:14.079 align:start position:0%
+case of reimbursement,
+ 
+
+00:04:14.079 --> 00:04:16.110 align:start position:0%
+case of reimbursement,
+they <00:04:14.559><c>will </c><00:04:15.039><c>help </c><00:04:15.519><c>you </c><00:04:15.999><c>completely.</c>
+
+00:04:16.110 --> 00:04:16.120 align:start position:0%
+they will help you completely.
+ 
+
+00:04:16.120 --> 00:04:18.909 align:start position:0%
+they will help you completely.
+You <00:04:16.329><c>can </c><00:04:16.538><c>go </c><00:04:16.747><c>to </c><00:04:16.956><c>the </c><00:04:17.165><c>hospital </c><00:04:17.374><c>and </c><00:04:17.583><c>get </c><00:04:17.792><c>your </c><00:04:18.001><c>bill </c><00:04:18.210><c>breakup </c><00:04:18.419><c>done </c><00:04:18.628><c>and</c>
+
+00:04:18.909 --> 00:04:18.919 align:start position:0%
+You can go to the hospital and get your bill breakup done and
+ 
+
+00:04:18.919 --> 00:04:21.110 align:start position:0%
+You can go to the hospital and get your bill breakup done and
+send <00:04:19.259><c>it </c><00:04:19.599><c>to </c><00:04:19.939><c>the </c><00:04:20.279><c>insurance </c><00:04:20.619><c>company. </c><00:04:20.959><c>So,</c>
+
+00:04:21.110 --> 00:04:21.120 align:start position:0%
+send it to the insurance company. So,
+ 
+
+00:04:21.120 --> 00:04:23.030 align:start position:0%
+send it to the insurance company. So,
+let <00:04:21.406><c>me </c><00:04:21.692><c>explain </c><00:04:21.978><c>to </c><00:04:22.264><c>you </c><00:04:22.550><c>in </c><00:04:22.836><c>detail</c>
+
+00:04:23.030 --> 00:04:23.040 align:start position:0%
+let me explain to you in detail
+ 
+
+00:04:23.040 --> 00:04:26.550 align:start position:0%
+let me explain to you in detail
+how <00:04:23.513><c>bills </c><00:04:23.986><c>are </c><00:04:24.459><c>created </c><00:04:24.932><c>and </c><00:04:25.405><c>how </c><00:04:25.878><c>they</c>
+
+00:04:26.550 --> 00:04:26.560 align:start position:0%
+how bills are created and how they
+ 
+
+00:04:26.560 --> 00:04:28.710 align:start position:0%
+how bills are created and how they
+place <00:04:26.879><c>the </c><00:04:27.198><c>bill </c><00:04:27.517><c>breakup </c><00:04:27.836><c>query.  </c><00:04:28.155><c>And </c><00:04:28.474><c>how</c>
+
+00:04:28.710 --> 00:04:28.720 align:start position:0%
+place the bill breakup query.  And how
+ 
+
+00:04:28.720 --> 00:04:31.189 align:start position:0%
+place the bill breakup query.  And how
+can <00:04:29.000><c>we </c><00:04:29.280><c>answer </c><00:04:29.560><c>it </c><00:04:29.840><c>in </c><00:04:30.120><c>collaboration </c><00:04:30.400><c>with </c><00:04:30.680><c>the </c><00:04:30.960><c>hospital?</c>
+
+00:04:31.189 --> 00:04:31.199 align:start position:0%
+can we answer it in collaboration with the hospital?
+ 
+
+00:04:31.199 --> 00:04:33.350 align:start position:0%
+can we answer it in collaboration with the hospital?
+So <00:04:31.387><c>look </c><00:04:31.575><c>at </c><00:04:31.763><c>the </c><00:04:31.951><c>screen. </c><00:04:32.139><c>I'm </c><00:04:32.327><c>going </c><00:04:32.515><c>to </c><00:04:32.703><c>explain </c><00:04:32.891><c>to </c><00:04:33.079><c>you</c>
+
+00:04:33.350 --> 00:04:33.360 align:start position:0%
+So look at the screen. I'm going to explain to you
+ 
+
+00:04:33.360 --> 00:04:35.430 align:start position:0%
+So look at the screen. I'm going to explain to you
+how <00:04:33.548><c>to </c><00:04:33.736><c>answer </c><00:04:33.924><c>the </c><00:04:34.112><c>bill </c><00:04:34.300><c>breakup </c><00:04:34.488><c>query. </c><00:04:34.676><c>I'm </c><00:04:34.864><c>going </c><00:04:35.052><c>to </c><00:04:35.240><c>explain</c>
+
+00:04:35.430 --> 00:04:35.440 align:start position:0%
+how to answer the bill breakup query. I'm going to explain
+ 
+
+00:04:35.440 --> 00:04:37.790 align:start position:0%
+how to answer the bill breakup query. I'm going to explain
+everything <00:04:36.186><c>in </c><00:04:36.932><c>detail. </c><00:04:37.678><c>To</c>
+
+00:04:37.790 --> 00:04:37.800 align:start position:0%
+everything in detail. To
+ 
+
+00:04:37.800 --> 00:04:40.710 align:start position:0%
+everything in detail. To
+explain <00:04:38.733><c>this </c><00:04:39.666><c>to </c><00:04:40.599><c>you,</c>
+
+00:04:40.710 --> 00:04:40.720 align:start position:0%
+explain this to you,
+ 
+
+00:04:40.720 --> 00:04:44.070 align:start position:0%
+explain this to you,
+I've <00:04:41.271><c>created </c><00:04:41.822><c>a </c><00:04:42.373><c>final </c><00:04:42.924><c>bill. </c><00:04:43.475><c>The</c>
+
+00:04:44.070 --> 00:04:44.080 align:start position:0%
+I've created a final bill. The
+ 
+
+00:04:44.080 --> 00:04:46.430 align:start position:0%
+I've created a final bill. The
+final <00:04:44.536><c>hospital </c><00:04:44.992><c>bill </c><00:04:45.448><c>is </c><00:04:45.904><c>like </c><00:04:46.360><c>this.</c>
+
+00:04:46.430 --> 00:04:46.440 align:start position:0%
+final hospital bill is like this.
+ 
+
+00:04:46.440 --> 00:04:48.830 align:start position:0%
+final hospital bill is like this.
+This <00:04:46.888><c>is </c><00:04:47.336><c>a </c><00:04:47.784><c>final </c><00:04:48.232><c>bill. </c><00:04:48.680><c>I've</c>
+
+00:04:48.830 --> 00:04:48.840 align:start position:0%
+This is a final bill. I've
+ 
+
+00:04:48.840 --> 00:04:50.950 align:start position:0%
+This is a final bill. I've
+created <00:04:49.025><c>a </c><00:04:49.210><c>temporary </c><00:04:49.395><c>bill </c><00:04:49.580><c>to </c><00:04:49.765><c>explain </c><00:04:49.950><c>it </c><00:04:50.135><c>to </c><00:04:50.320><c>you. </c><00:04:50.505><c>It </c><00:04:50.690><c>has </c><00:04:50.875><c>the</c>
+
+00:04:50.950 --> 00:04:50.960 align:start position:0%
+created a temporary bill to explain it to you. It has the
+ 
+
+00:04:50.960 --> 00:04:52.950 align:start position:0%
+created a temporary bill to explain it to you. It has the
+name <00:04:51.420><c>of </c><00:04:51.880><c>the </c><00:04:52.340><c>hospital, </c><00:04:52.800><c>the</c>
+
+00:04:52.950 --> 00:04:52.960 align:start position:0%
+name of the hospital, the
+ 
+
+00:04:52.960 --> 00:04:55.310 align:start position:0%
+name of the hospital, the
+address, <00:04:53.479><c>the </c><00:04:53.998><c>patient's </c><00:04:54.517><c>name </c><00:04:55.036><c>(</c>
+
+00:04:55.310 --> 00:04:55.320 align:start position:0%
+address, the patient's name (
+ 
+
+00:04:55.320 --> 00:04:57.990 align:start position:0%
+address, the patient's name (
+Rohit), <00:04:55.830><c>his </c><00:04:56.340><c>age </c><00:04:56.850><c>(one </c><00:04:57.360><c>year),</c>
+
+00:04:57.990 --> 00:04:58.000 align:start position:0%
+Rohit), his age (one year),
+ 
+
+00:04:58.000 --> 00:05:00.029 align:start position:0%
+Rohit), his age (one year),
+and <00:04:58.490><c>the </c><00:04:58.980><c>bill </c><00:04:59.470><c>date. </c><00:04:59.960><c>The</c>
+
+00:05:00.029 --> 00:05:00.039 align:start position:0%
+and the bill date. The
+ 
+
+00:05:00.039 --> 00:05:01.990 align:start position:0%
+and the bill date. The
+registration <00:05:00.188><c>number </c><00:05:00.337><c>is </c><00:05:00.486><c>written </c><00:05:00.635><c>here, </c><00:05:00.784><c>the </c><00:05:00.933><c>bill </c><00:05:01.082><c>number </c><00:05:01.231><c>is </c><00:05:01.380><c>written </c><00:05:01.529><c>here. </c><00:05:01.678><c>The</c>
+
+00:05:01.990 --> 00:05:02.000 align:start position:0%
+registration number is written here, the bill number is written here. The
+ 
+
+00:05:02.000 --> 00:05:04.749 align:start position:0%
+registration number is written here, the bill number is written here. The
+date <00:05:02.420><c>of </c><00:05:02.840><c>admission </c><00:05:03.260><c>and </c><00:05:03.680><c>the </c><00:05:04.100><c>time </c><00:05:04.520><c>of</c>
+
+00:05:04.749 --> 00:05:04.759 align:start position:0%
+date of admission and the time of
+ 
+
+00:05:04.759 --> 00:05:07.510 align:start position:0%
+date of admission and the time of
+admission <00:05:05.559><c>are </c><00:05:06.359><c>written, </c><00:05:07.159><c>the</c>
+
+00:05:07.510 --> 00:05:07.520 align:start position:0%
+admission are written, the
+ 
+
+00:05:07.520 --> 00:05:09.950 align:start position:0%
+admission are written, the
+date <00:05:07.703><c>of </c><00:05:07.886><c>discharge, </c><00:05:08.069><c>and </c><00:05:08.252><c>the </c><00:05:08.435><c>pay </c><00:05:08.618><c>time </c><00:05:08.801><c>are </c><00:05:08.984><c>written </c><00:05:09.167><c>here. </c><00:05:09.350><c>So, </c><00:05:09.533><c>according </c><00:05:09.716><c>to</c>
+
+00:05:09.950 --> 00:05:09.960 align:start position:0%
+date of discharge, and the pay time are written here. So, according to
+ 
+
+00:05:09.960 --> 00:05:13.430 align:start position:0%
+date of discharge, and the pay time are written here. So, according to
+this <00:05:10.568><c>bill, </c><00:05:11.176><c>the </c><00:05:11.784><c>patient </c><00:05:12.392><c>has </c><00:05:13.000><c>been</c>
+
+00:05:13.430 --> 00:05:13.440 align:start position:0%
+this bill, the patient has been
+ 
+
+00:05:13.440 --> 00:05:16.790 align:start position:0%
+this bill, the patient has been
+in <00:05:13.968><c>this </c><00:05:14.496><c>hospital </c><00:05:15.024><c>for </c><00:05:15.552><c>nine </c><00:05:16.080><c>days.</c>
+
+00:05:16.790 --> 00:05:16.800 align:start position:0%
+in this hospital for nine days.
+ 
+
+00:05:16.800 --> 00:05:18.990 align:start position:0%
+in this hospital for nine days.
+I'm <00:05:17.102><c>explaining </c><00:05:17.404><c>to </c><00:05:17.706><c>you </c><00:05:18.008><c>what </c><00:05:18.310><c>the </c><00:05:18.612><c>hospital </c><00:05:18.914><c>billed.</c>
+
+00:05:18.990 --> 00:05:19.000 align:start position:0%
+I'm explaining to you what the hospital billed.
+ 
+
+00:05:19.000 --> 00:05:21.710 align:start position:0%
+I'm explaining to you what the hospital billed.
+Look, <00:05:19.786><c>the </c><00:05:20.572><c>patient </c><00:05:21.358><c>is</c>
+
+00:05:21.710 --> 00:05:21.720 align:start position:0%
+Look, the patient is
+ 
+
+00:05:21.720 --> 00:05:23.830 align:start position:0%
+Look, the patient is
+in <00:05:22.112><c>the </c><00:05:22.504><c>NICU. </c><00:05:22.896><c>There's </c><00:05:23.288><c>an </c><00:05:23.680><c>ICU</c>
+
+00:05:23.830 --> 00:05:23.840 align:start position:0%
+in the NICU. There's an ICU
+ 
+
+00:05:23.840 --> 00:05:26.350 align:start position:0%
+in the NICU. There's an ICU
+where <00:05:24.359><c>older </c><00:05:24.878><c>adults </c><00:05:25.397><c>are </c><00:05:25.916><c>admitted.</c>
+
+00:05:26.350 --> 00:05:26.360 align:start position:0%
+where older adults are admitted.
+ 
+
+00:05:26.360 --> 00:05:28.870 align:start position:0%
+where older adults are admitted.
+And <00:05:26.860><c>the </c><00:05:27.360><c>pediatric </c><00:05:27.860><c>hospital, </c><00:05:28.360><c>the</c>
+
+00:05:28.870 --> 00:05:28.880 align:start position:0%
+And the pediatric hospital, the
+ 
+
+00:05:28.880 --> 00:05:31.670 align:start position:0%
+And the pediatric hospital, the
+NIC, <00:05:29.400><c>is </c><00:05:29.920><c>for </c><00:05:30.440><c>children. </c><00:05:30.960><c>So,</c>
+
+00:05:31.670 --> 00:05:31.680 align:start position:0%
+NIC, is for children. So,
+ 
+
+00:05:31.680 --> 00:05:34.670 align:start position:0%
+NIC, is for children. So,
+it's <00:05:31.930><c>one </c><00:05:32.180><c>year </c><00:05:32.430><c>old.  </c><00:05:32.680><c>If </c><00:05:32.930><c>this </c><00:05:33.180><c>is </c><00:05:33.430><c>the </c><00:05:33.680><c>bill </c><00:05:33.930><c>of </c><00:05:34.180><c>a </c><00:05:34.430><c>child,</c>
+
+00:05:34.670 --> 00:05:34.680 align:start position:0%
+it's one year old.  If this is the bill of a child,
+ 
+
+00:05:34.680 --> 00:05:37.230 align:start position:0%
+it's one year old.  If this is the bill of a child,
+this <00:05:35.011><c>child </c><00:05:35.342><c>is </c><00:05:35.673><c>admitted </c><00:05:36.004><c>in </c><00:05:36.335><c>NICU, </c><00:05:36.666><c>then </c><00:05:36.997><c>the</c>
+
+00:05:37.230 --> 00:05:37.240 align:start position:0%
+this child is admitted in NICU, then the
+ 
+
+00:05:37.240 --> 00:05:40.590 align:start position:0%
+this child is admitted in NICU, then the
+charge <00:05:37.685><c>for </c><00:05:38.130><c>one </c><00:05:38.575><c>day </c><00:05:39.020><c>is </c><00:05:39.465><c>5000, </c><00:05:39.910><c>if </c><00:05:40.355><c>he</c>
+
+00:05:40.590 --> 00:05:40.600 align:start position:0%
+charge for one day is 5000, if he
+ 
+
+00:05:40.600 --> 00:05:45.029 align:start position:0%
+charge for one day is 5000, if he
+stays <00:05:40.960><c>for </c><00:05:41.320><c>three </c><00:05:41.680><c>days </c><00:05:42.040><c>then </c><00:05:42.400><c>we </c><00:05:42.760><c>will </c><00:05:43.120><c>do </c><00:05:43.480><c>5000 </c><00:05:43.840><c>* </c><00:05:44.200><c>3, </c><00:05:44.560><c>so</c>
+
+00:05:45.029 --> 00:05:45.039 align:start position:0%
+stays for three days then we will do 5000 * 3, so
+ 
+
+00:05:45.039 --> 00:05:48.430 align:start position:0%
+stays for three days then we will do 5000 * 3, so
+its <00:05:45.376><c>NIU </c><00:05:45.713><c>charge </c><00:05:46.050><c>is </c><00:05:46.387><c>made </c><00:05:46.724><c>up </c><00:05:47.061><c>of </c><00:05:47.398><c>000, </c><00:05:47.735><c>doctor </c><00:05:48.072><c>visit,</c>
+
+00:05:48.430 --> 00:05:48.440 align:start position:0%
+its NIU charge is made up of 000, doctor visit,
+ 
+
+00:05:48.440 --> 00:05:50.550 align:start position:0%
+its NIU charge is made up of 000, doctor visit,
+doctor <00:05:48.784><c>visit </c><00:05:49.128><c>means </c><00:05:49.472><c>the </c><00:05:49.816><c>doctor's </c><00:05:50.160><c>visit,</c>
+
+00:05:50.550 --> 00:05:50.560 align:start position:0%
+doctor visit means the doctor's visit,
+ 
+
+00:05:50.560 --> 00:05:52.590 align:start position:0%
+doctor visit means the doctor's visit,
+like <00:05:50.790><c>when </c><00:05:51.020><c>he </c><00:05:51.250><c>takes </c><00:05:51.480><c>rounds, </c><00:05:51.710><c>then </c><00:05:51.940><c>there </c><00:05:52.170><c>is </c><00:05:52.400><c>a</c>
+
+00:05:52.590 --> 00:05:52.600 align:start position:0%
+like when he takes rounds, then there is a
+ 
+
+00:05:52.600 --> 00:05:54.670 align:start position:0%
+like when he takes rounds, then there is a
+charge <00:05:52.868><c>for </c><00:05:53.136><c>it, </c><00:05:53.404><c>his </c><00:05:53.672><c>charges </c><00:05:53.940><c>and </c><00:05:54.208><c>these </c><00:05:54.476><c>rates</c>
+
+00:05:54.670 --> 00:05:54.680 align:start position:0%
+charge for it, his charges and these rates
+ 
+
+00:05:54.680 --> 00:05:56.790 align:start position:0%
+charge for it, his charges and these rates
+etc. <00:05:55.460><c>are </c><00:05:56.240><c>all</c>
+
+00:05:56.790 --> 00:05:56.800 align:start position:0%
+etc. are all
+ 
+
+00:05:56.800 --> 00:05:58.870 align:start position:0%
+etc. are all
+decided <00:05:56.978><c>at </c><00:05:57.156><c>the </c><00:05:57.334><c>time </c><00:05:57.512><c>of </c><00:05:57.690><c>the </c><00:05:57.868><c>hospital's </c><00:05:58.046><c>agreement </c><00:05:58.224><c>with </c><00:05:58.402><c>the </c><00:05:58.580><c>insurance </c><00:05:58.758><c>company,</c>
+
+00:05:58.870 --> 00:05:58.880 align:start position:0%
+decided at the time of the hospital's agreement with the insurance company,
+ 
+
+00:05:58.880 --> 00:06:00.990 align:start position:0%
+decided at the time of the hospital's agreement with the insurance company,
+so <00:05:59.319><c>the </c><00:05:59.758><c>hospital </c><00:06:00.197><c>does </c><00:06:00.636><c>the</c>
+
+00:06:00.990 --> 00:06:01.000 align:start position:0%
+so the hospital does the
+ 
+
+00:06:01.000 --> 00:06:03.270 align:start position:0%
+so the hospital does the
+billing <00:06:01.160><c>accordingly </c><00:06:01.320><c>and </c><00:06:01.480><c>can </c><00:06:01.640><c>charge </c><00:06:01.800><c>the </c><00:06:01.960><c>same, </c><00:06:02.120><c>if </c><00:06:02.280><c>the</c>
+
+00:06:03.270 --> 00:06:03.280 align:start position:0%
+billing accordingly and can charge the same, if the
+ 
+
+00:06:03.280 --> 00:06:05.830 align:start position:0%
+billing accordingly and can charge the same, if the
+hospital
+
+00:06:05.830 --> 00:06:05.840 align:start position:0%
+hospital
+ 
+
+00:06:05.840 --> 00:06:07.870 align:start position:0%
+hospital
+charges <00:06:05.989><c>more </c><00:06:06.138><c>than </c><00:06:06.287><c>that </c><00:06:06.436><c>from </c><00:06:06.585><c>the </c><00:06:06.734><c>insurance </c><00:06:06.883><c>company </c><00:06:07.032><c>then </c><00:06:07.181><c>it </c><00:06:07.330><c>will </c><00:06:07.479><c>be </c><00:06:07.628><c>deducted</c>
+
+00:06:07.870 --> 00:06:07.880 align:start position:0%
+charges more than that from the insurance company then it will be deducted
+ 
+
+00:06:07.880 --> 00:06:10.790 align:start position:0%
+charges more than that from the insurance company then it will be deducted
+from <00:06:08.333><c>there, </c><00:06:08.786><c>so </c><00:06:09.239><c>there </c><00:06:09.692><c>are </c><00:06:10.145><c>two </c><00:06:10.598><c>doctor's</c>
+
+00:06:10.790 --> 00:06:10.800 align:start position:0%
+from there, so there are two doctor's
+ 
+
+00:06:10.800 --> 00:06:14.270 align:start position:0%
+from there, so there are two doctor's
+visits <00:06:11.120><c>in </c><00:06:11.440><c>this </c><00:06:11.760><c>per </c><00:06:12.080><c>day, </c><00:06:12.400><c>each </c><00:06:12.720><c>time </c><00:06:13.040><c>of </c><00:06:13.360><c>800, </c><00:06:13.680><c>that </c><00:06:14.000><c>is,</c>
+
+00:06:14.270 --> 00:06:14.280 align:start position:0%
+visits in this per day, each time of 800, that is,
+ 
+
+00:06:14.280 --> 00:06:16.909 align:start position:0%
+visits in this per day, each time of 800, that is,
+morning's <00:06:14.959><c>800, </c><00:06:15.638><c>evening's </c><00:06:16.317><c>800,</c>
+
+00:06:16.909 --> 00:06:16.919 align:start position:0%
+morning's 800, evening's 800,
+ 
+
+00:06:16.919 --> 00:06:21.830 align:start position:0%
+morning's 800, evening's 800,
+so <00:06:17.220><c>00 </c><00:06:17.521><c>for </c><00:06:17.822><c>one </c><00:06:18.123><c>day, </c><00:06:18.424><c>if </c><00:06:18.725><c>we </c><00:06:19.026><c>do </c><00:06:19.327><c>1600 </c><00:06:19.628><c>* </c><00:06:19.929><c>3, </c><00:06:20.230><c>then </c><00:06:20.531><c>it </c><00:06:20.832><c>will</c>
+
+00:06:21.830 --> 00:06:21.840 align:start position:0%
+so 00 for one day, if we do 1600 * 3, then it will
+ 
+
+00:06:21.840 --> 00:06:23.150 align:start position:0%
+so 00 for one day, if we do 1600 * 3, then it will
+come <00:06:22.240><c>to</c>
+
+00:06:23.150 --> 00:06:23.160 align:start position:0%
+come to
+ 
+
+00:06:23.160 --> 00:06:26.990 align:start position:0%
+come to
+4800, <00:06:23.791><c>okay, </c><00:06:24.422><c>the </c><00:06:25.053><c>medicine </c><00:06:25.684><c>charged </c><00:06:26.315><c>is</c>
+
+00:06:26.990 --> 00:06:27.000 align:start position:0%
+4800, okay, the medicine charged is
+ 
+
+00:06:27.000 --> 00:06:31.029 align:start position:0%
+4800, okay, the medicine charged is
+12752, <00:06:28.919><c>this</c>
+
+00:06:31.029 --> 00:06:31.039 align:start position:0%
+12752, this
+ 
+
+00:06:31.039 --> 00:06:34.029 align:start position:0%
+12752, this
+12752, <00:06:31.290><c>one </c><00:06:31.541><c>thing </c><00:06:31.792><c>is </c><00:06:32.043><c>to </c><00:06:32.294><c>be </c><00:06:32.545><c>remembered, </c><00:06:32.796><c>whatever </c><00:06:33.047><c>charges </c><00:06:33.298><c>you </c><00:06:33.549><c>people </c><00:06:33.800><c>are</c>
+
+00:06:34.029 --> 00:06:34.039 align:start position:0%
+12752, one thing is to be remembered, whatever charges you people are
+ 
+
+00:06:34.039 --> 00:06:36.070 align:start position:0%
+12752, one thing is to be remembered, whatever charges you people are
+showing <00:06:34.546><c>here, </c><00:06:35.053><c>supporting </c><00:06:35.560><c>that</c>
+
+00:06:36.070 --> 00:06:36.080 align:start position:0%
+showing here, supporting that
+ 
+
+00:06:36.080 --> 00:06:38.430 align:start position:0%
+showing here, supporting that
+Bills <00:06:36.239><c>will </c><00:06:36.398><c>be </c><00:06:36.557><c>charged </c><00:06:36.716><c>in </c><00:06:36.875><c>this, </c><00:06:37.034><c>for </c><00:06:37.193><c>example, </c><00:06:37.352><c>there </c><00:06:37.511><c>will </c><00:06:37.670><c>be </c><00:06:37.829><c>no </c><00:06:37.988><c>bill </c><00:06:38.147><c>for </c><00:06:38.306><c>NICU,</c>
+
+00:06:38.430 --> 00:06:38.440 align:start position:0%
+Bills will be charged in this, for example, there will be no bill for NICU,
+ 
+
+00:06:38.440 --> 00:06:40.189 align:start position:0%
+Bills will be charged in this, for example, there will be no bill for NICU,
+it <00:06:38.839><c>is </c><00:06:39.238><c>just </c><00:06:39.637><c>a </c><00:06:40.036><c>charge,</c>
+
+00:06:40.189 --> 00:06:40.199 align:start position:0%
+it is just a charge,
+ 
+
+00:06:40.199 --> 00:06:42.350 align:start position:0%
+it is just a charge,
+days <00:06:40.425><c>will </c><00:06:40.651><c>be </c><00:06:40.877><c>written </c><00:06:41.103><c>in </c><00:06:41.329><c>it, </c><00:06:41.555><c>doctor </c><00:06:41.781><c>visit </c><00:06:42.007><c>will </c><00:06:42.233><c>also</c>
+
+00:06:42.350 --> 00:06:42.360 align:start position:0%
+days will be written in it, doctor visit will also
+ 
+
+00:06:42.360 --> 00:06:43.950 align:start position:0%
+days will be written in it, doctor visit will also
+not <00:06:42.471><c>be </c><00:06:42.582><c>written, </c><00:06:42.693><c>there </c><00:06:42.804><c>is </c><00:06:42.915><c>no </c><00:06:43.026><c>supporting </c><00:06:43.137><c>charge </c><00:06:43.248><c>in </c><00:06:43.359><c>this </c><00:06:43.470><c>also,</c>
+
+00:06:43.950 --> 00:06:43.960 align:start position:0%
+not be written, there is no supporting charge in this also,
+ 
+
+00:06:43.960 --> 00:06:46.469 align:start position:0%
+not be written, there is no supporting charge in this also,
+but <00:06:44.272><c>for </c><00:06:44.584><c>the </c><00:06:44.896><c>medicine </c><00:06:45.208><c>of </c><00:06:45.520><c>Rs</c>
+
+00:06:46.469 --> 00:06:46.479 align:start position:0%
+but for the medicine of Rs
+ 
+
+00:06:46.479 --> 00:06:49.870 align:start position:0%
+but for the medicine of Rs
+12752 <00:06:47.119><c>which </c><00:06:47.759><c>you </c><00:06:48.399><c>have </c><00:06:49.039><c>purchased </c><00:06:49.679><c>or</c>
+
+00:06:49.870 --> 00:06:49.880 align:start position:0%
+12752 which you have purchased or
+ 
+
+00:06:49.880 --> 00:06:52.510 align:start position:0%
+12752 which you have purchased or
+which <00:06:50.145><c>has </c><00:06:50.410><c>been </c><00:06:50.675><c>given </c><00:06:50.940><c>by </c><00:06:51.205><c>the </c><00:06:51.470><c>hospital, </c><00:06:51.735><c>it </c><00:06:52.000><c>is</c>
+
+00:06:52.510 --> 00:06:52.520 align:start position:0%
+which has been given by the hospital, it is
+ 
+
+00:06:52.520 --> 00:06:54.749 align:start position:0%
+which has been given by the hospital, it is
+very <00:06:52.817><c>important </c><00:06:53.114><c>to </c><00:06:53.411><c>put </c><00:06:53.708><c>its </c><00:06:54.005><c>bill </c><00:06:54.302><c>in </c><00:06:54.599><c>supporting,</c>
+
+00:06:54.749 --> 00:06:54.759 align:start position:0%
+very important to put its bill in supporting,
+ 
+
+00:06:54.759 --> 00:06:56.189 align:start position:0%
+very important to put its bill in supporting,
+otherwise <00:06:54.887><c>there </c><00:06:55.015><c>will </c><00:06:55.143><c>be </c><00:06:55.271><c>a </c><00:06:55.399><c>query</c>
+
+00:06:56.189 --> 00:06:56.199 align:start position:0%
+otherwise there will be a query
+ 
+
+00:06:56.199 --> 00:06:59.950 align:start position:0%
+otherwise there will be a query
+100%, <00:06:56.466><c>so </c><00:06:56.733><c>in </c><00:06:57.000><c>supporting </c><00:06:57.267><c>a </c><00:06:57.534><c>bill </c><00:06:57.801><c>of </c><00:06:58.068><c>Rs </c><00:06:58.335><c>12752 </c><00:06:58.602><c>will </c><00:06:58.869><c>be </c><00:06:59.136><c>charged </c><00:06:59.403><c>for </c><00:06:59.670><c>the</c>
+
+00:06:59.950 --> 00:06:59.960 align:start position:0%
+100%, so in supporting a bill of Rs 12752 will be charged for the
+ 
+
+00:06:59.960 --> 00:07:01.990 align:start position:0%
+100%, so in supporting a bill of Rs 12752 will be charged for the
+medicine, <00:07:00.328><c>which </c><00:07:00.696><c>all </c><00:07:01.064><c>the </c><00:07:01.432><c>medicines </c><00:07:01.800><c>are</c>
+
+00:07:01.990 --> 00:07:02.000 align:start position:0%
+medicine, which all the medicines are
+ 
+
+00:07:02.000 --> 00:07:05.909 align:start position:0%
+medicine, which all the medicines are
+used <00:07:02.508><c>in </c><00:07:03.016><c>it, </c><00:07:03.524><c>after </c><00:07:04.032><c>that </c><00:07:04.540><c>laboratory </c><00:07:05.048><c>charges, </c><00:07:05.556><c>lab</c>
+
+00:07:05.909 --> 00:07:05.919 align:start position:0%
+used in it, after that laboratory charges, lab
+ 
+
+00:07:05.919 --> 00:07:09.029 align:start position:0%
+used in it, after that laboratory charges, lab
+charges <00:07:06.341><c>of </c><00:07:06.763><c>Rs </c><00:07:07.185><c>800 </c><00:07:07.607><c>are </c><00:07:08.029><c>charged </c><00:07:08.451><c>in </c><00:07:08.873><c>this,</c>
+
+00:07:09.029 --> 00:07:09.039 align:start position:0%
+charges of Rs 800 are charged in this,
+ 
+
+00:07:09.039 --> 00:07:11.670 align:start position:0%
+charges of Rs 800 are charged in this,
+you <00:07:09.239><c>will </c><00:07:09.439><c>have </c><00:07:09.639><c>to </c><00:07:09.839><c>give </c><00:07:10.039><c>the </c><00:07:10.239><c>breakup </c><00:07:10.439><c>of </c><00:07:10.639><c>the </c><00:07:10.839><c>lab </c><00:07:11.039><c>as </c><00:07:11.239><c>to </c><00:07:11.439><c>which</c>
+
+00:07:11.670 --> 00:07:11.680 align:start position:0%
+you will have to give the breakup of the lab as to which
+ 
+
+00:07:11.680 --> 00:07:14.550 align:start position:0%
+you will have to give the breakup of the lab as to which
+tests <00:07:12.133><c>were </c><00:07:12.586><c>done </c><00:07:13.039><c>under </c><00:07:13.492><c>Rs </c><00:07:13.945><c>800, </c><00:07:14.398><c>whatever</c>
+
+00:07:14.550 --> 00:07:14.560 align:start position:0%
+tests were done under Rs 800, whatever
+ 
+
+00:07:14.560 --> 00:07:16.670 align:start position:0%
+tests were done under Rs 800, whatever
+reports <00:07:14.695><c>etc. </c><00:07:14.830><c>of </c><00:07:14.965><c>that </c><00:07:15.100><c>will </c><00:07:15.235><c>have </c><00:07:15.370><c>to </c><00:07:15.505><c>be </c><00:07:15.640><c>given </c><00:07:15.775><c>in </c><00:07:15.910><c>supporting, </c><00:07:16.045><c>only </c><00:07:16.180><c>then </c><00:07:16.315><c>the</c>
+
+00:07:16.670 --> 00:07:16.680 align:start position:0%
+reports etc. of that will have to be given in supporting, only then the
+ 
+
+00:07:16.680 --> 00:07:19.950 align:start position:0%
+reports etc. of that will have to be given in supporting, only then the
+company <00:07:17.419><c>will </c><00:07:18.158><c>accept, </c><00:07:18.897><c>then </c><00:07:19.636><c>your</c>
+
+00:07:19.950 --> 00:07:19.960 align:start position:0%
+company will accept, then your
+ 
+
+00:07:19.960 --> 00:07:23.430 align:start position:0%
+company will accept, then your
+claim <00:07:20.486><c>will </c><00:07:21.012><c>be </c><00:07:21.538><c>passed, </c><00:07:22.064><c>fifth </c><00:07:22.590><c>is </c><00:07:23.116><c>consumable</c>
+
+00:07:23.430 --> 00:07:23.440 align:start position:0%
+claim will be passed, fifth is consumable
+ 
+
+00:07:23.440 --> 00:07:26.670 align:start position:0%
+claim will be passed, fifth is consumable
+goods, <00:07:23.851><c>consumable </c><00:07:24.262><c>charge, </c><00:07:24.673><c>these </c><00:07:25.084><c>are </c><00:07:25.495><c>some </c><00:07:25.906><c>such </c><00:07:26.317><c>items</c>
+
+00:07:26.670 --> 00:07:26.680 align:start position:0%
+goods, consumable charge, these are some such items
+ 
+
+00:07:26.680 --> 00:07:31.110 align:start position:0%
+goods, consumable charge, these are some such items
+which <00:07:27.262><c>are </c><00:07:27.844><c>of </c><00:07:28.426><c>this </c><00:07:29.008><c>type, </c><00:07:29.590><c>which </c><00:07:30.172><c>you </c><00:07:30.754><c>can</c>
+
+00:07:31.110 --> 00:07:31.120 align:start position:0%
+which are of this type, which you can
+ 
+
+00:07:31.120 --> 00:07:33.430 align:start position:0%
+which are of this type, which you can
+put <00:07:31.355><c>in </c><00:07:31.590><c>non-payable </c><00:07:31.825><c>type, </c><00:07:32.060><c>you </c><00:07:32.295><c>are </c><00:07:32.530><c>those </c><00:07:32.765><c>types </c><00:07:33.000><c>of</c>
+
+00:07:33.430 --> 00:07:33.440 align:start position:0%
+put in non-payable type, you are those types of
+ 
+
+00:07:33.440 --> 00:07:36.629 align:start position:0%
+put in non-payable type, you are those types of
+charges <00:07:34.015><c>which </c><00:07:34.590><c>the </c><00:07:35.165><c>insurance </c><00:07:35.740><c>company </c><00:07:36.315><c>does</c>
+
+00:07:36.629 --> 00:07:36.639 align:start position:0%
+charges which the insurance company does
+ 
+
+00:07:36.639 --> 00:07:40.350 align:start position:0%
+charges which the insurance company does
+not <00:07:37.069><c>pass, </c><00:07:37.499><c>in </c><00:07:37.929><c>it </c><00:07:38.359><c>there </c><00:07:38.789><c>are </c><00:07:39.219><c>such </c><00:07:39.649><c>items </c><00:07:40.079><c>which</c>
+
+00:07:40.350 --> 00:07:40.360 align:start position:0%
+not pass, in it there are such items which
+ 
+
+00:07:40.360 --> 00:07:42.550 align:start position:0%
+not pass, in it there are such items which
+mean, <00:07:40.568><c>apart </c><00:07:40.776><c>from </c><00:07:40.984><c>a </c><00:07:41.192><c>sick </c><00:07:41.400><c>person, </c><00:07:41.608><c>any </c><00:07:41.816><c>person </c><00:07:42.024><c>in </c><00:07:42.232><c>normal </c><00:07:42.440><c>life</c>
+
+00:07:42.550 --> 00:07:42.560 align:start position:0%
+mean, apart from a sick person, any person in normal life
+ 
+
+00:07:42.560 --> 00:07:44.670 align:start position:0%
+mean, apart from a sick person, any person in normal life
+also  <00:07:42.834><c>It </c><00:07:43.108><c>can </c><00:07:43.382><c>be </c><00:07:43.656><c>used, </c><00:07:43.930><c>there </c><00:07:44.204><c>are </c><00:07:44.478><c>some</c>
+
+00:07:44.670 --> 00:07:44.680 align:start position:0%
+also  It can be used, there are some
+ 
+
+00:07:44.680 --> 00:07:47.149 align:start position:0%
+also  It can be used, there are some
+plastic <00:07:45.073><c>items, </c><00:07:45.466><c>some </c><00:07:45.859><c>are </c><00:07:46.252><c>of </c><00:07:46.645><c>this </c><00:07:47.038><c>type</c>
+
+00:07:47.149 --> 00:07:47.159 align:start position:0%
+plastic items, some are of this type
+ 
+
+00:07:47.159 --> 00:07:48.909 align:start position:0%
+plastic items, some are of this type
+like <00:07:47.959><c>Huggies, </c><00:07:48.759><c>diapers,</c>
+
+00:07:48.909 --> 00:07:48.919 align:start position:0%
+like Huggies, diapers,
+ 
+
+00:07:48.919 --> 00:07:52.550 align:start position:0%
+like Huggies, diapers,
+wipes <00:07:50.092><c>or </c><00:07:51.265><c>baby </c><00:07:52.438><c>milk,</c>
+
+00:07:52.550 --> 00:07:52.560 align:start position:0%
+wipes or baby milk,
+ 
+
+00:07:52.560 --> 00:07:55.270 align:start position:0%
+wipes or baby milk,
+cotton <00:07:53.079><c>rolls </c><00:07:53.598><c>or </c><00:07:54.117><c>there </c><00:07:54.636><c>are</c>
+
+00:07:55.270 --> 00:07:55.280 align:start position:0%
+cotton rolls or there are
+ 
+
+00:07:55.280 --> 00:07:57.510 align:start position:0%
+cotton rolls or there are
+some <00:07:55.893><c>plastic </c><00:07:56.506><c>items </c><00:07:57.119><c>which</c>
+
+00:07:57.510 --> 00:07:57.520 align:start position:0%
+some plastic items which
+ 
+
+00:07:57.520 --> 00:07:59.830 align:start position:0%
+some plastic items which
+come <00:07:57.799><c>under </c><00:07:58.078><c>consumable </c><00:07:58.357><c>goods </c><00:07:58.636><c>like </c><00:07:58.915><c>gloves </c><00:07:59.194><c>etc. </c><00:07:59.473><c>which </c><00:07:59.752><c>are</c>
+
+00:07:59.830 --> 00:07:59.840 align:start position:0%
+come under consumable goods like gloves etc. which are
+ 
+
+00:07:59.840 --> 00:08:02.629 align:start position:0%
+come under consumable goods like gloves etc. which are
+used <00:08:00.340><c>in </c><00:08:00.840><c>treatment, </c><00:08:01.340><c>so </c><00:08:01.840><c>the</c>
+
+00:08:02.629 --> 00:08:02.639 align:start position:0%
+used in treatment, so the
+ 
+
+00:08:02.639 --> 00:08:05.270 align:start position:0%
+used in treatment, so the
+hospital <00:08:02.923><c>has </c><00:08:03.207><c>included </c><00:08:03.491><c>000 </c><00:08:03.775><c>in </c><00:08:04.059><c>consumables </c><00:08:04.343><c>in </c><00:08:04.627><c>this, </c><00:08:04.911><c>so </c><00:08:05.195><c>the</c>
+
+00:08:05.270 --> 00:08:05.280 align:start position:0%
+hospital has included 000 in consumables in this, so the
+ 
+
+00:08:05.280 --> 00:08:07.869 align:start position:0%
+hospital has included 000 in consumables in this, so the
+total <00:08:05.660><c>bill </c><00:08:06.040><c>that </c><00:08:06.420><c>has </c><00:08:06.800><c>been </c><00:08:07.180><c>made </c><00:08:07.560><c>is</c>
+
+00:08:07.869 --> 00:08:07.879 align:start position:0%
+total bill that has been made is
+ 
+
+00:08:07.879 --> 00:08:09.589 align:start position:0%
+total bill that has been made is
+
+
+00:08:09.589 --> 00:08:09.599 align:start position:0%
+ 
+ 
+
+00:08:09.599 --> 00:08:12.950 align:start position:0%
+ 
+of <00:08:12.840><c>9352,</c>
+
+00:08:12.950 --> 00:08:12.960 align:start position:0%
+of 9352,
+ 
+
+00:08:12.960 --> 00:08:15.629 align:start position:0%
+of 9352,
+now <00:08:15.120><c>the</c>
+
+00:08:15.629 --> 00:08:17.430 align:start position:0%
+now the
+ 
+
+00:08:17.430 --> 00:08:17.440 align:start position:0%
+ 
+ 
+
+00:08:17.440 --> 00:08:20.830 align:start position:0%
+ 
+candidate <00:08:17.692><c>has </c><00:08:17.944><c>sent </c><00:08:18.196><c>the </c><00:08:18.448><c>remembrance </c><00:08:18.700><c>form </c><00:08:18.952><c>to </c><00:08:19.204><c>the </c><00:08:19.456><c>insurance </c><00:08:19.708><c>company </c><00:08:19.960><c>by </c><00:08:20.212><c>filling </c><00:08:20.464><c>it, </c><00:08:20.716><c>the</c>
+
+00:08:20.830 --> 00:08:20.840 align:start position:0%
+candidate has sent the remembrance form to the insurance company by filling it, the
+ 
+
+00:08:20.840 --> 00:08:23.189 align:start position:0%
+candidate has sent the remembrance form to the insurance company by filling it, the
+insurance <00:08:21.173><c>company </c><00:08:21.506><c>has </c><00:08:21.839><c>put </c><00:08:22.172><c>a </c><00:08:22.505><c>query </c><00:08:22.838><c>there,</c>
+
+00:08:23.189 --> 00:08:23.199 align:start position:0%
+insurance company has put a query there,
+ 
+
+00:08:23.199 --> 00:08:24.950 align:start position:0%
+insurance company has put a query there,
+what <00:08:23.465><c>query </c><00:08:23.731><c>has </c><00:08:23.997><c>been </c><00:08:24.263><c>put, </c><00:08:24.529><c>I </c><00:08:24.795><c>will</c>
+
+00:08:24.950 --> 00:08:24.960 align:start position:0%
+what query has been put, I will
+ 
+
+00:08:24.960 --> 00:08:27.309 align:start position:0%
+what query has been put, I will
+show <00:08:25.130><c>you </c><00:08:25.300><c>that </c><00:08:25.470><c>query, </c><00:08:25.640><c>it </c><00:08:25.810><c>has </c><00:08:25.980><c>been </c><00:08:26.150><c>put </c><00:08:26.320><c>a </c><00:08:26.490><c>query </c><00:08:26.660><c>in </c><00:08:26.830><c>this, </c><00:08:27.000><c>missing</c>
+
+00:08:27.309 --> 00:08:27.319 align:start position:0%
+show you that query, it has been put a query in this, missing
+ 
+
+00:08:27.319 --> 00:08:29.670 align:start position:0%
+show you that query, it has been put a query in this, missing
+document <00:08:27.775><c>query, </c><00:08:28.231><c>break </c><00:08:28.687><c>up </c><00:08:29.143><c>for </c><00:08:29.599><c>the</c>
+
+00:08:29.670 --> 00:08:29.680 align:start position:0%
+document query, break up for the
+ 
+
+00:08:29.680 --> 00:08:32.070 align:start position:0%
+document query, break up for the
+hospital <00:08:30.063><c>main </c><00:08:30.446><c>final </c><00:08:30.829><c>bill, </c><00:08:31.212><c>original </c><00:08:31.595><c>kindly</c>
+
+00:08:32.070 --> 00:08:32.080 align:start position:0%
+hospital main final bill, original kindly
+ 
+
+00:08:32.080 --> 00:08:34.990 align:start position:0%
+hospital main final bill, original kindly
+provide <00:08:32.760><c>breaking, </c><00:08:33.440><c>provide </c><00:08:34.120><c>breakup </c><00:08:34.800><c>of</c>
+
+00:08:34.990 --> 00:08:35.000 align:start position:0%
+provide breaking, provide breakup of
+ 
+
+00:08:35.000 --> 00:08:39.430 align:start position:0%
+provide breaking, provide breakup of
+consumable <00:08:35.579><c>charges </c><00:08:36.158><c>mentioned </c><00:08:36.737><c>in </c><00:08:37.316><c>the </c><00:08:37.895><c>final </c><00:08:38.474><c>bill,</c>
+
+00:08:39.430 --> 00:08:39.440 align:start position:0%
+consumable charges mentioned in the final bill,
+ 
+
+00:08:39.440 --> 00:08:42.630 align:start position:0%
+consumable charges mentioned in the final bill,
+see <00:08:39.751><c>this, </c><00:08:40.062><c>they </c><00:08:40.373><c>are </c><00:08:40.684><c>saying </c><00:08:40.995><c>that </c><00:08:41.306><c>you </c><00:08:41.617><c>people </c><00:08:41.928><c>have </c><00:08:42.239><c>shown</c>
+
+00:08:42.630 --> 00:08:42.640 align:start position:0%
+see this, they are saying that you people have shown
+ 
+
+00:08:42.640 --> 00:08:45.430 align:start position:0%
+see this, they are saying that you people have shown
+these <00:08:43.000><c>consumable </c><00:08:43.360><c>charges </c><00:08:43.720><c>in </c><00:08:44.080><c>the </c><00:08:44.440><c>final </c><00:08:44.800><c>bill, </c><00:08:45.160><c>so</c>
+
+00:08:45.430 --> 00:08:45.440 align:start position:0%
+these consumable charges in the final bill, so
+ 
+
+00:08:45.440 --> 00:08:49.070 align:start position:0%
+these consumable charges in the final bill, so
+we <00:08:45.973><c>want </c><00:08:46.506><c>a </c><00:08:47.039><c>breakup </c><00:08:47.572><c>of </c><00:08:48.105><c>that, </c><00:08:48.638><c>breakup</c>
+
+00:08:49.070 --> 00:08:49.080 align:start position:0%
+we want a breakup of that, breakup
+ 
+
+00:08:49.080 --> 00:08:52.710 align:start position:0%
+we want a breakup of that, breakup
+of <00:08:49.760><c>consumable </c><00:08:50.440><c>charges, </c><00:08:51.120><c>okay, </c><00:08:51.800><c>so </c><00:08:52.480><c>consumable</c>
+
+00:08:52.710 --> 00:08:52.720 align:start position:0%
+of consumable charges, okay, so consumable
+ 
+
+00:08:52.720 --> 00:08:55.550 align:start position:0%
+of consumable charges, okay, so consumable
+charges  <00:08:53.097><c>Which </c><00:08:53.474><c>were </c><00:08:53.851><c>these </c><00:08:54.228><c>consumer </c><00:08:54.605><c>bill </c><00:08:54.982><c>charges? </c><00:08:55.359><c>These</c>
+
+00:08:55.550 --> 00:08:55.560 align:start position:0%
+charges  Which were these consumer bill charges? These
+ 
+
+00:08:55.560 --> 00:09:00.310 align:start position:0%
+charges  Which were these consumer bill charges? These
+000 <00:08:56.480><c>were </c><00:08:57.400><c>these, </c><00:08:58.320><c>these </c><00:08:59.240><c>000 </c><00:09:00.160><c>are</c>
+
+00:09:00.310 --> 00:09:00.320 align:start position:0%
+000 were these, these 000 are
+ 
+
+00:09:00.320 --> 00:09:02.710 align:start position:0%
+000 were these, these 000 are
+consumer <00:09:00.839><c>bill </c><00:09:01.358><c>charges, </c><00:09:01.877><c>so </c><00:09:02.396><c>the</c>
+
+00:09:02.710 --> 00:09:02.720 align:start position:0%
+consumer bill charges, so the
+ 
+
+00:09:02.720 --> 00:09:04.990 align:start position:0%
+consumer bill charges, so the
+insurance <00:09:03.028><c>company </c><00:09:03.336><c>has </c><00:09:03.644><c>asked </c><00:09:03.952><c>for </c><00:09:04.260><c>its </c><00:09:04.568><c>breakup </c><00:09:04.876><c>that</c>
+
+00:09:04.990 --> 00:09:05.000 align:start position:0%
+insurance company has asked for its breakup that
+ 
+
+00:09:05.000 --> 00:09:07.790 align:start position:0%
+insurance company has asked for its breakup that
+you <00:09:05.382><c>have </c><00:09:05.764><c>charged </c><00:09:06.146><c>000 </c><00:09:06.528><c>in </c><00:09:06.910><c>the </c><00:09:07.292><c>bill, </c><00:09:07.674><c>you</c>
+
+00:09:07.790 --> 00:09:07.800 align:start position:0%
+you have charged 000 in the bill, you
+ 
+
+00:09:07.800 --> 00:09:09.750 align:start position:0%
+you have charged 000 in the bill, you
+people <00:09:07.982><c>did </c><00:09:08.164><c>not </c><00:09:08.346><c>send </c><00:09:08.528><c>its </c><00:09:08.710><c>breakup, </c><00:09:08.892><c>you </c><00:09:09.074><c>did </c><00:09:09.256><c>not </c><00:09:09.438><c>tell</c>
+
+00:09:09.750 --> 00:09:09.760 align:start position:0%
+people did not send its breakup, you did not tell
+ 
+
+00:09:09.760 --> 00:09:11.790 align:start position:0%
+people did not send its breakup, you did not tell
+what <00:09:10.150><c>all </c><00:09:10.540><c>items </c><00:09:10.930><c>were </c><00:09:11.320><c>used</c>
+
+00:09:11.790 --> 00:09:11.800 align:start position:0%
+what all items were used
+ 
+
+00:09:11.800 --> 00:09:13.870 align:start position:0%
+what all items were used
+in <00:09:11.982><c>the </c><00:09:12.164><c>consumer </c><00:09:12.346><c>bill, </c><00:09:12.528><c>so </c><00:09:12.710><c>please </c><00:09:12.892><c>tell </c><00:09:13.074><c>us </c><00:09:13.256><c>its </c><00:09:13.438><c>breakup,</c>
+
+00:09:13.870 --> 00:09:13.880 align:start position:0%
+in the consumer bill, so please tell us its breakup,
+ 
+
+00:09:13.880 --> 00:09:17.710 align:start position:0%
+in the consumer bill, so please tell us its breakup,
+many <00:09:14.029><c>times </c><00:09:14.178><c>the </c><00:09:14.327><c>insurance </c><00:09:14.476><c>company </c><00:09:14.625><c>can </c><00:09:14.774><c>ask </c><00:09:14.923><c>for </c><00:09:15.072><c>the </c><00:09:15.221><c>breakup </c><00:09:15.370><c>of </c><00:09:15.519><c>the </c><00:09:15.668><c>entire </c><00:09:15.817><c>bill </c><00:09:15.966><c>from </c><00:09:16.115><c>the </c><00:09:16.264><c>hospital </c><00:09:16.413><c>or </c><00:09:16.562><c>the </c><00:09:16.711><c>candidate </c><00:09:16.860><c>who </c><00:09:17.009><c>is </c><00:09:17.158><c>the</c>
+
+00:09:17.710 --> 00:09:17.720 align:start position:0%
+many times the insurance company can ask for the breakup of the entire bill from the hospital or the candidate who is the
+ 
+
+00:09:17.720 --> 00:09:19.269 align:start position:0%
+many times the insurance company can ask for the breakup of the entire bill from the hospital or the candidate who is the
+policy <00:09:19.040><c>holder,</c>
+
+00:09:19.269 --> 00:09:21.829 align:start position:0%
+policy holder,
+ 
+
+00:09:21.829 --> 00:09:21.839 align:start position:0%
+ 
+ 
+
+00:09:21.839 --> 00:09:24.590 align:start position:0%
+ 
+but <00:09:22.429><c>in </c><00:09:23.019><c>this </c><00:09:23.609><c>they </c><00:09:24.199><c>have</c>
+
+00:09:24.590 --> 00:09:24.600 align:start position:0%
+but in this they have
+ 
+
+00:09:24.600 --> 00:09:27.630 align:start position:0%
+but in this they have
+asked <00:09:24.911><c>for </c><00:09:25.222><c>only </c><00:09:25.533><c>the </c><00:09:25.844><c>consumer </c><00:09:26.155><c>bill </c><00:09:26.466><c>charge, </c><00:09:26.777><c>why </c><00:09:27.088><c>have </c><00:09:27.399><c>they</c>
+
+00:09:27.630 --> 00:09:27.640 align:start position:0%
+asked for only the consumer bill charge, why have they
+ 
+
+00:09:27.640 --> 00:09:30.230 align:start position:0%
+asked for only the consumer bill charge, why have they
+asked <00:09:28.360><c>because </c><00:09:29.080><c>in </c><00:09:29.800><c>this</c>
+
+00:09:30.230 --> 00:09:30.240 align:start position:0%
+asked because in this
+ 
+
+00:09:30.240 --> 00:09:32.630 align:start position:0%
+asked because in this
+they <00:09:30.554><c>have </c><00:09:30.868><c>probably </c><00:09:31.182><c>sent </c><00:09:31.496><c>the </c><00:09:31.810><c>medicine </c><00:09:32.124><c>lab </c><00:09:32.438><c>charge,</c>
+
+00:09:32.630 --> 00:09:32.640 align:start position:0%
+they have probably sent the medicine lab charge,
+ 
+
+00:09:32.640 --> 00:09:34.990 align:start position:0%
+they have probably sent the medicine lab charge,
+sent <00:09:32.843><c>the </c><00:09:33.046><c>medicine, </c><00:09:33.249><c>there </c><00:09:33.452><c>is </c><00:09:33.655><c>no </c><00:09:33.858><c>mention </c><00:09:34.061><c>of </c><00:09:34.264><c>doctor </c><00:09:34.467><c>visit, </c><00:09:34.670><c>there </c><00:09:34.873><c>is</c>
+
+00:09:34.990 --> 00:09:35.000 align:start position:0%
+sent the medicine, there is no mention of doctor visit, there is
+ 
+
+00:09:35.000 --> 00:09:36.829 align:start position:0%
+sent the medicine, there is no mention of doctor visit, there is
+no <00:09:35.440><c>mention </c><00:09:35.880><c>of </c><00:09:36.320><c>ICU </c><00:09:36.760><c>also,</c>
+
+00:09:36.829 --> 00:09:36.839 align:start position:0%
+no mention of ICU also,
+ 
+
+00:09:36.839 --> 00:09:39.110 align:start position:0%
+no mention of ICU also,
+in <00:09:37.271><c>the </c><00:09:37.703><c>detail </c><00:09:38.135><c>supporting </c><00:09:38.567><c>of </c><00:09:38.999><c>both,</c>
+
+00:09:39.110 --> 00:09:39.120 align:start position:0%
+in the detail supporting of both,
+ 
+
+00:09:39.120 --> 00:09:43.069 align:start position:0%
+in the detail supporting of both,
+bills <00:09:39.575><c>etc. </c><00:09:40.030><c>of </c><00:09:40.485><c>12752 </c><00:09:40.940><c>and </c><00:09:41.395><c>5800 </c><00:09:41.850><c>have </c><00:09:42.305><c>been </c><00:09:42.760><c>sent,</c>
+
+00:09:43.069 --> 00:09:43.079 align:start position:0%
+bills etc. of 12752 and 5800 have been sent,
+ 
+
+00:09:43.079 --> 00:09:45.230 align:start position:0%
+bills etc. of 12752 and 5800 have been sent,
+so <00:09:43.283><c>they </c><00:09:43.487><c>did </c><00:09:43.691><c>not </c><00:09:43.895><c>ask </c><00:09:44.099><c>about </c><00:09:44.303><c>this, </c><00:09:44.507><c>they </c><00:09:44.711><c>did </c><00:09:44.915><c>not</c>
+
+00:09:45.230 --> 00:09:45.240 align:start position:0%
+so they did not ask about this, they did not
+ 
+
+00:09:45.240 --> 00:09:47.630 align:start position:0%
+so they did not ask about this, they did not
+ask, <00:09:45.467><c>but </c><00:09:45.694><c>they </c><00:09:45.921><c>might </c><00:09:46.148><c>not </c><00:09:46.375><c>have </c><00:09:46.602><c>sent </c><00:09:46.829><c>the </c><00:09:47.056><c>consumer </c><00:09:47.283><c>bill </c><00:09:47.510><c>charge,</c>
+
+00:09:47.630 --> 00:09:47.640 align:start position:0%
+ask, but they might not have sent the consumer bill charge,
+ 
+
+00:09:47.640 --> 00:09:49.470 align:start position:0%
+ask, but they might not have sent the consumer bill charge,
+so
+
+00:09:49.470 --> 00:09:49.480 align:start position:0%
+so
+ 
+
+00:09:49.480 --> 00:09:52.430 align:start position:0%
+so
+they <00:09:49.789><c>have </c><00:09:50.098><c>put </c><00:09:50.407><c>a </c><00:09:50.716><c>query </c><00:09:51.025><c>in </c><00:09:51.334><c>this, </c><00:09:51.643><c>this </c><00:09:51.952><c>breakup,</c>
+
+00:09:52.430 --> 00:09:52.440 align:start position:0%
+they have put a query in this, this breakup,
+ 
+
+00:09:52.440 --> 00:09:55.470 align:start position:0%
+they have put a query in this, this breakup,
+this <00:09:53.016><c>breakup </c><00:09:53.592><c>query, </c><00:09:54.168><c>from </c><00:09:54.744><c>here </c><00:09:55.320><c>this</c>
+
+00:09:55.470 --> 00:09:55.480 align:start position:0%
+this breakup query, from here this
+ 
+
+00:09:55.480 --> 00:09:58.230 align:start position:0%
+this breakup query, from here this
+breakup <00:09:55.800><c>of </c><00:09:56.120><c>consumer </c><00:09:56.440><c>bill </c><00:09:56.760><c>charge </c><00:09:57.080><c>has </c><00:09:57.400><c>come, </c><00:09:57.720><c>so </c><00:09:58.040><c>what</c>
+
+00:09:58.230 --> 00:09:58.240 align:start position:0%
+breakup of consumer bill charge has come, so what
+ 
+
+00:09:58.240 --> 00:10:01.829 align:start position:0%
+breakup of consumer bill charge has come, so what
+answer <00:09:58.510><c>will </c><00:09:58.780><c>you </c><00:09:59.050><c>give </c><00:09:59.320><c>to </c><00:09:59.590><c>this, </c><00:09:59.860><c>how </c><00:10:00.130><c>will </c><00:10:00.400><c>you </c><00:10:00.670><c>answer </c><00:10:00.940><c>this  </c><00:10:01.210><c>We </c><00:10:01.480><c>do</c>
+
+00:10:01.829 --> 00:10:01.839 align:start position:0%
+answer will you give to this, how will you answer this  We do
+ 
+
+00:10:01.839 --> 00:10:04.350 align:start position:0%
+answer will you give to this, how will you answer this  We do
+not <00:10:01.981><c>have </c><00:10:02.123><c>to </c><00:10:02.265><c>pay, </c><00:10:02.407><c>we </c><00:10:02.549><c>have </c><00:10:02.691><c>to </c><00:10:02.833><c>talk </c><00:10:02.975><c>to </c><00:10:03.117><c>the </c><00:10:03.259><c>hospital, </c><00:10:03.401><c>we </c><00:10:03.543><c>have </c><00:10:03.685><c>to </c><00:10:03.827><c>go </c><00:10:03.969><c>to </c><00:10:04.111><c>the</c>
+
+00:10:04.350 --> 00:10:04.360 align:start position:0%
+not have to pay, we have to talk to the hospital, we have to go to the
+ 
+
+00:10:04.360 --> 00:10:06.750 align:start position:0%
+not have to pay, we have to talk to the hospital, we have to go to the
+hospital, <00:10:05.480><c>there </c><00:10:06.600><c>is</c>
+
+00:10:06.750 --> 00:10:06.760 align:start position:0%
+hospital, there is
+ 
+
+00:10:06.760 --> 00:10:09.190 align:start position:0%
+hospital, there is
+a <00:10:06.932><c>team </c><00:10:07.104><c>of </c><00:10:07.276><c>the </c><00:10:07.448><c>TP </c><00:10:07.620><c>of </c><00:10:07.792><c>the </c><00:10:07.964><c>hospital, </c><00:10:08.136><c>we </c><00:10:08.308><c>have </c><00:10:08.480><c>to </c><00:10:08.652><c>go </c><00:10:08.824><c>there </c><00:10:08.996><c>and</c>
+
+00:10:09.190 --> 00:10:09.200 align:start position:0%
+a team of the TP of the hospital, we have to go there and
+ 
+
+00:10:09.200 --> 00:10:10.949 align:start position:0%
+a team of the TP of the hospital, we have to go there and
+tell <00:10:09.323><c>them </c><00:10:09.446><c>that </c><00:10:09.569><c>this </c><00:10:09.692><c>query </c><00:10:09.815><c>has </c><00:10:09.938><c>been </c><00:10:10.061><c>raised, </c><00:10:10.184><c>we </c><00:10:10.307><c>have </c><00:10:10.430><c>to </c><00:10:10.553><c>take </c><00:10:10.676><c>a</c>
+
+00:10:10.949 --> 00:10:10.959 align:start position:0%
+tell them that this query has been raised, we have to take a
+ 
+
+00:10:10.959 --> 00:10:13.310 align:start position:0%
+tell them that this query has been raised, we have to take a
+print <00:10:11.509><c>out </c><00:10:12.059><c>of </c><00:10:12.609><c>it </c><00:10:13.159><c>or</c>
+
+00:10:13.310 --> 00:10:13.320 align:start position:0%
+print out of it or
+ 
+
+00:10:13.320 --> 00:10:15.350 align:start position:0%
+print out of it or
+you <00:10:13.533><c>can </c><00:10:13.746><c>show </c><00:10:13.959><c>the </c><00:10:14.172><c>soft </c><00:10:14.385><c>copy </c><00:10:14.598><c>in </c><00:10:14.811><c>the </c><00:10:15.024><c>mobile </c><00:10:15.237><c>also</c>
+
+00:10:15.350 --> 00:10:15.360 align:start position:0%
+you can show the soft copy in the mobile also
+ 
+
+00:10:15.360 --> 00:10:17.670 align:start position:0%
+you can show the soft copy in the mobile also
+that <00:10:15.538><c>this </c><00:10:15.716><c>query </c><00:10:15.894><c>has </c><00:10:16.072><c>been </c><00:10:16.250><c>raised, </c><00:10:16.428><c>how </c><00:10:16.606><c>can </c><00:10:16.784><c>we </c><00:10:16.962><c>answer </c><00:10:17.140><c>it, </c><00:10:17.318><c>so</c>
+
+00:10:17.670 --> 00:10:17.680 align:start position:0%
+that this query has been raised, how can we answer it, so
+ 
+
+00:10:17.680 --> 00:10:21.910 align:start position:0%
+that this query has been raised, how can we answer it, so
+what <00:10:18.373><c>will </c><00:10:19.066><c>the </c><00:10:19.759><c>hospital </c><00:10:20.452><c>people </c><00:10:21.145><c>do? </c><00:10:21.838><c>000</c>
+
+00:10:21.910 --> 00:10:21.920 align:start position:0%
+what will the hospital people do? 000
+ 
+
+00:10:21.920 --> 00:10:24.150 align:start position:0%
+what will the hospital people do? 000
+They <00:10:23.680><c>have</c>
+
+00:10:24.150 --> 00:10:24.160 align:start position:0%
+They have
+ 
+
+00:10:24.160 --> 00:10:27.190 align:start position:0%
+They have
+made <00:10:24.304><c>a </c><00:10:24.448><c>detail </c><00:10:24.592><c>of </c><00:10:24.736><c>the </c><00:10:24.880><c>consumer </c><00:10:25.024><c>bill </c><00:10:25.168><c>charges </c><00:10:25.312><c>that </c><00:10:25.456><c>they </c><00:10:25.600><c>have </c><00:10:25.744><c>levied, </c><00:10:25.888><c>they </c><00:10:26.032><c>will </c><00:10:26.176><c>print </c><00:10:26.320><c>it </c><00:10:26.464><c>on </c><00:10:26.608><c>their </c><00:10:26.752><c>letter</c>
+
+00:10:27.190 --> 00:10:27.200 align:start position:0%
+made a detail of the consumer bill charges that they have levied, they will print it on their letter
+ 
+
+00:10:27.200 --> 00:10:29.710 align:start position:0%
+made a detail of the consumer bill charges that they have levied, they will print it on their letter
+head,
+
+00:10:29.710 --> 00:10:29.720 align:start position:0%
+head,
+ 
+
+00:10:29.720 --> 00:10:32.630 align:start position:0%
+head,
+sign <00:10:30.389><c>it, </c><00:10:31.058><c>then </c><00:10:31.727><c>they </c><00:10:32.396><c>will</c>
+
+00:10:32.630 --> 00:10:32.640 align:start position:0%
+sign it, then they will
+ 
+
+00:10:32.640 --> 00:10:35.710 align:start position:0%
+sign it, then they will
+tell <00:10:32.843><c>that </c><00:10:33.046><c>this </c><00:10:33.249><c>is </c><00:10:33.452><c>the </c><00:10:33.655><c>breakup </c><00:10:33.858><c>of </c><00:10:34.061><c>the </c><00:10:34.264><c>consumer </c><00:10:34.467><c>bill </c><00:10:34.670><c>charges </c><00:10:34.873><c>that </c><00:10:35.076><c>we </c><00:10:35.279><c>have</c>
+
+00:10:35.710 --> 00:10:35.720 align:start position:0%
+tell that this is the breakup of the consumer bill charges that we have
+ 
+
+00:10:35.720 --> 00:10:36.670 align:start position:0%
+tell that this is the breakup of the consumer bill charges that we have
+taken, <00:10:35.779><c>in </c><00:10:35.838><c>that</c>
+
+00:10:36.670 --> 00:10:39.949 align:start position:0%
+taken, in that
+ 
+
+00:10:39.949 --> 00:10:39.959 align:start position:0%
+ 
+ 
+
+00:10:39.959 --> 00:10:42.230 align:start position:0%
+ 
+we <00:10:40.172><c>have </c><00:10:40.385><c>used </c><00:10:40.598><c>these </c><00:10:40.811><c>items, </c><00:10:41.024><c>we </c><00:10:41.237><c>have </c><00:10:41.450><c>levied </c><00:10:41.663><c>these </c><00:10:41.876><c>charges,</c>
+
+00:10:42.230 --> 00:10:42.240 align:start position:0%
+we have used these items, we have levied these charges,
+ 
+
+00:10:42.240 --> 00:10:44.710 align:start position:0%
+we have used these items, we have levied these charges,
+so <00:10:42.560><c>after </c><00:10:42.880><c>printing </c><00:10:43.200><c>this </c><00:10:43.520><c>sign </c><00:10:43.840><c>you </c><00:10:44.160><c>have </c><00:10:44.480><c>to</c>
+
+00:10:44.710 --> 00:10:44.720 align:start position:0%
+so after printing this sign you have to
+ 
+
+00:10:44.720 --> 00:10:46.990 align:start position:0%
+so after printing this sign you have to
+send <00:10:44.999><c>it </c><00:10:45.278><c>to </c><00:10:45.557><c>the </c><00:10:45.836><c>insurance </c><00:10:46.115><c>company, </c><00:10:46.394><c>the</c>
+
+00:10:46.990 --> 00:10:47.000 align:start position:0%
+send it to the insurance company, the
+ 
+
+00:10:47.000 --> 00:10:48.949 align:start position:0%
+send it to the insurance company, the
+insurance <00:10:47.390><c>company </c><00:10:47.780><c>will </c><00:10:48.170><c>review </c><00:10:48.560><c>it,</c>
+
+00:10:48.949 --> 00:10:48.959 align:start position:0%
+insurance company will review it,
+ 
+
+00:10:48.959 --> 00:10:52.629 align:start position:0%
+insurance company will review it,
+after <00:10:49.559><c>reviewing </c><00:10:50.159><c>it, </c><00:10:50.759><c>if </c><00:10:51.359><c>it </c><00:10:51.959><c>is </c><00:10:52.559><c>satisfied</c>
+
+00:10:52.629 --> 00:10:52.639 align:start position:0%
+after reviewing it, if it is satisfied
+ 
+
+00:10:52.639 --> 00:10:55.470 align:start position:0%
+after reviewing it, if it is satisfied
+with <00:10:52.949><c>your </c><00:10:53.259><c>query </c><00:10:53.569><c>then </c><00:10:53.879><c>it </c><00:10:54.189><c>will </c><00:10:54.499><c>give </c><00:10:54.809><c>approval, </c><00:10:55.119><c>if</c>
+
+00:10:55.470 --> 00:10:55.480 align:start position:0%
+with your query then it will give approval, if
+ 
+
+00:10:55.480 --> 00:10:57.190 align:start position:0%
+with your query then it will give approval, if
+not <00:10:56.120><c>then </c><00:10:56.760><c>they</c>
+
+00:10:57.190 --> 00:10:57.200 align:start position:0%
+not then they
+ 
+
+00:10:57.200 --> 00:11:00.310 align:start position:0%
+not then they
+can <00:10:57.453><c>ask </c><00:10:57.706><c>for </c><00:10:57.959><c>more </c><00:10:58.212><c>additional </c><00:10:58.465><c>documents </c><00:10:58.718><c>related </c><00:10:58.971><c>to </c><00:10:59.224><c>the </c><00:10:59.477><c>claim,</c>
+
+00:11:00.310 --> 00:11:00.320 align:start position:0%
+can ask for more additional documents related to the claim,
+ 
+
+00:11:00.320 --> 00:11:03.629 align:start position:0%
+can ask for more additional documents related to the claim,
+so <00:11:00.543><c>in </c><00:11:00.766><c>the </c><00:11:00.989><c>thousand </c><00:11:01.212><c>charges </c><00:11:01.435><c>that </c><00:11:01.658><c>the </c><00:11:01.881><c>hospital </c><00:11:02.104><c>has </c><00:11:02.327><c>levied, </c><00:11:02.550><c>the </c><00:11:02.773><c>charge </c><00:11:02.996><c>for</c>
+
+00:11:03.629 --> 00:11:03.639 align:start position:0%
+so in the thousand charges that the hospital has levied, the charge for
+ 
+
+00:11:03.639 --> 00:11:06.629 align:start position:0%
+so in the thousand charges that the hospital has levied, the charge for
+BD <00:11:04.239><c>10 </c><00:11:04.839><c>ml </c><00:11:05.439><c>is </c><00:11:06.039><c>Rs.</c>
+
+00:11:06.629 --> 00:11:06.639 align:start position:0%
+BD 10 ml is Rs.
+ 
+
+00:11:06.639 --> 00:11:12.350 align:start position:0%
+BD 10 ml is Rs.
+10, <00:11:07.422><c>this </c><00:11:08.205><c>is </c><00:11:08.988><c>Rs.  </c><00:11:09.771><c>This </c><00:11:10.554><c>is </c><00:11:11.337><c>3 </c><00:11:12.120><c>Rs.</c>
+
+00:11:12.350 --> 00:11:12.360 align:start position:0%
+10, this is Rs.  This is 3 Rs.
+ 
+
+00:11:12.360 --> 00:11:15.269 align:start position:0%
+10, this is Rs.  This is 3 Rs.
+This <00:11:13.039><c>is </c><00:11:13.718><c>applied </c><00:11:14.397><c>for </c><00:11:15.076><c>Rs.</c>
+
+00:11:15.269 --> 00:11:15.279 align:start position:0%
+This is applied for Rs.
+ 
+
+00:11:15.279 --> 00:11:17.470 align:start position:0%
+This is applied for Rs.
+This <00:11:15.373><c>is </c><00:11:15.467><c>applied </c><00:11:15.561><c>for </c><00:11:15.655><c>Rs. </c><00:11:15.749><c>Okay, </c><00:11:15.843><c>after </c><00:11:15.937><c>this, </c><00:11:16.031><c>in </c><00:11:16.125><c>the </c><00:11:16.219><c>same </c><00:11:16.313><c>way, </c><00:11:16.407><c>they </c><00:11:16.501><c>have </c><00:11:16.595><c>applied </c><00:11:16.689><c>all </c><00:11:16.783><c>these </c><00:11:16.877><c>things </c><00:11:16.971><c>in </c><00:11:17.065><c>it,</c>
+
+00:11:17.470 --> 00:11:17.480 align:start position:0%
+This is applied for Rs. Okay, after this, in the same way, they have applied all these things in it,
+ 
+
+00:11:17.480 --> 00:11:21.230 align:start position:0%
+This is applied for Rs. Okay, after this, in the same way, they have applied all these things in it,
+gloves <00:11:17.940><c>etc., </c><00:11:18.400><c>tags </c><00:11:18.860><c>of </c><00:11:19.320><c>Rs. </c><00:11:19.780><c>0, </c><00:11:20.240><c>drum</c>
+
+00:11:21.230 --> 00:11:21.240 align:start position:0%
+gloves etc., tags of Rs. 0, drum
+ 
+
+00:11:21.240 --> 00:11:23.670 align:start position:0%
+gloves etc., tags of Rs. 0, drum
+at <00:11:21.640><c>the </c><00:11:22.040><c>end, </c><00:11:22.440><c>R, </c><00:11:22.840><c>they </c><00:11:23.240><c>have</c>
+
+00:11:23.670 --> 00:11:23.680 align:start position:0%
+at the end, R, they have
+ 
+
+00:11:23.680 --> 00:11:29.590 align:start position:0%
+at the end, R, they have
+applied <00:11:24.006><c>all </c><00:11:24.332><c>these </c><00:11:24.658><c>things, </c><00:11:24.984><c>so </c><00:11:25.310><c>after </c><00:11:25.636><c>that, </c><00:11:25.962><c>what </c><00:11:26.288><c>happens </c><00:11:26.614><c>is </c><00:11:26.940><c>that </c><00:11:27.266><c>they </c><00:11:27.592><c>have</c>
+
+00:11:29.590 --> 00:11:29.600 align:start position:0%
+applied all these things, so after that, what happens is that they have
+ 
+
+00:11:29.600 --> 00:11:32.829 align:start position:0%
+applied all these things, so after that, what happens is that they have
+given <00:11:29.836><c>this </c><00:11:30.072><c>breakup </c><00:11:30.308><c>of </c><00:11:30.544><c>Rs. </c><00:11:30.780><c>000, </c><00:11:31.016><c>now </c><00:11:31.252><c>it </c><00:11:31.488><c>will </c><00:11:31.724><c>be </c><00:11:31.960><c>stamped </c><00:11:32.196><c>on </c><00:11:32.432><c>it, </c><00:11:32.668><c>so</c>
+
+00:11:32.829 --> 00:11:32.839 align:start position:0%
+given this breakup of Rs. 000, now it will be stamped on it, so
+ 
+
+00:11:32.839 --> 00:11:35.430 align:start position:0%
+given this breakup of Rs. 000, now it will be stamped on it, so
+it <00:11:33.335><c>will </c><00:11:33.831><c>become </c><00:11:34.327><c>a </c><00:11:34.823><c>valid </c><00:11:35.319><c>document,</c>
+
+00:11:35.430 --> 00:11:35.440 align:start position:0%
+it will become a valid document,
+ 
+
+00:11:35.440 --> 00:11:37.710 align:start position:0%
+it will become a valid document,
+after <00:11:35.691><c>the </c><00:11:35.942><c>hospital </c><00:11:36.193><c>stamp </c><00:11:36.444><c>is </c><00:11:36.695><c>put </c><00:11:36.946><c>on </c><00:11:37.197><c>the</c>
+
+00:11:37.710 --> 00:11:37.720 align:start position:0%
+after the hospital stamp is put on the
+ 
+
+00:11:37.720 --> 00:11:39.870 align:start position:0%
+after the hospital stamp is put on the
+hospital <00:11:38.120><c>letterhead, </c><00:11:38.520><c>it </c><00:11:38.920><c>will </c><00:11:39.320><c>become </c><00:11:39.720><c>a</c>
+
+00:11:39.870 --> 00:11:39.880 align:start position:0%
+hospital letterhead, it will become a
+ 
+
+00:11:39.880 --> 00:11:42.389 align:start position:0%
+hospital letterhead, it will become a
+complete <00:11:40.253><c>valid </c><00:11:40.626><c>document </c><00:11:40.999><c>that </c><00:11:41.372><c>this </c><00:11:41.745><c>is </c><00:11:42.118><c>a</c>
+
+00:11:42.389 --> 00:11:42.399 align:start position:0%
+complete valid document that this is a
+ 
+
+00:11:42.399 --> 00:11:44.990 align:start position:0%
+complete valid document that this is a
+verified <00:11:42.909><c>document </c><00:11:43.419><c>from </c><00:11:43.929><c>the </c><00:11:44.439><c>hospital</c>
+
+00:11:44.990 --> 00:11:45.000 align:start position:0%
+verified document from the hospital
+ 
+
+00:11:45.000 --> 00:11:48.350 align:start position:0%
+verified document from the hospital
+and <00:11:45.395><c>the </c><00:11:45.790><c>insurance </c><00:11:46.185><c>company </c><00:11:46.580><c>will </c><00:11:46.975><c>give </c><00:11:47.370><c>approval, </c><00:11:47.765><c>let </c><00:11:48.160><c>me</c>
+
+00:11:48.350 --> 00:11:48.360 align:start position:0%
+and the insurance company will give approval, let me
+ 
+
+00:11:48.360 --> 00:11:51.310 align:start position:0%
+and the insurance company will give approval, let me
+tell <00:11:48.813><c>you </c><00:11:49.266><c>one </c><00:11:49.719><c>thing,</c>
+
+00:11:51.310 --> 00:11:51.320 align:start position:0%
+tell you one thing,
+ 
+
+00:11:51.320 --> 00:11:54.150 align:start position:0%
+tell you one thing,
+see, <00:11:51.595><c>there </c><00:11:51.870><c>is </c><00:11:52.145><c>a </c><00:11:52.420><c>query </c><00:11:52.695><c>for </c><00:11:52.970><c>consumer </c><00:11:53.245><c>bill </c><00:11:53.520><c>charge </c><00:11:53.795><c>of </c><00:11:54.070><c>Rs.</c>
+
+00:11:54.150 --> 00:11:54.160 align:start position:0%
+see, there is a query for consumer bill charge of Rs.
+ 
+
+00:11:54.160 --> 00:11:57.509 align:start position:0%
+see, there is a query for consumer bill charge of Rs.
+000, <00:11:54.443><c>in </c><00:11:54.726><c>this </c><00:11:55.009><c>a </c><00:11:55.292><c>breakup </c><00:11:55.575><c>has </c><00:11:55.858><c>been </c><00:11:56.141><c>asked </c><00:11:56.424><c>for, </c><00:11:56.707><c>suppose </c><00:11:56.990><c>if </c><00:11:57.273><c>a</c>
+
+00:11:57.509 --> 00:12:00.310 align:start position:0%
+000, in this a breakup has been asked for, suppose if a
+ 
+
+00:12:00.310 --> 00:12:00.320 align:start position:0%
+ 
+ 
+
+00:12:00.320 --> 00:12:02.470 align:start position:0%
+ 
+bill <00:12:00.483><c>breakup </c><00:12:00.646><c>is </c><00:12:00.809><c>asked </c><00:12:00.972><c>for </c><00:12:01.135><c>during </c><00:12:01.298><c>the </c><00:12:01.461><c>surgery, </c><00:12:01.624><c>even </c><00:12:01.787><c>then </c><00:12:01.950><c>the </c><00:12:02.113><c>hospital </c><00:12:02.276><c>will</c>
+
+00:12:02.470 --> 00:12:02.480 align:start position:0%
+bill breakup is asked for during the surgery, even then the hospital will
+ 
+
+00:12:02.480 --> 00:12:04.509 align:start position:0%
+bill breakup is asked for during the surgery, even then the hospital will
+answer <00:12:02.639><c>it, </c><00:12:02.798><c>you </c><00:12:02.957><c>have </c><00:12:03.116><c>to </c><00:12:03.275><c>go </c><00:12:03.434><c>there </c><00:12:03.593><c>to </c><00:12:03.752><c>the </c><00:12:03.911><c>hospital, </c><00:12:04.070><c>you </c><00:12:04.229><c>have </c><00:12:04.388><c>to</c>
+
+00:12:04.509 --> 00:12:04.519 align:start position:0%
+answer it, you have to go there to the hospital, you have to
+ 
+
+00:12:04.519 --> 00:12:06.670 align:start position:0%
+answer it, you have to go there to the hospital, you have to
+show <00:12:04.774><c>all </c><00:12:05.029><c>your </c><00:12:05.284><c>documents, </c><00:12:05.539><c>you </c><00:12:05.794><c>have </c><00:12:06.049><c>to </c><00:12:06.304><c>show </c><00:12:06.559><c>the</c>
+
+00:12:06.670 --> 00:12:06.680 align:start position:0%
+show all your documents, you have to show the
+ 
+
+00:12:06.680 --> 00:12:09.110 align:start position:0%
+show all your documents, you have to show the
+query, <00:12:07.219><c>then </c><00:12:07.758><c>the </c><00:12:08.297><c>hospital </c><00:12:08.836><c>will</c>
+
+00:12:09.110 --> 00:12:09.120 align:start position:0%
+query, then the hospital will
+ 
+
+00:12:09.120 --> 00:12:11.790 align:start position:0%
+query, then the hospital will
+prepare <00:12:09.479><c>a </c><00:12:09.838><c>complete </c><00:12:10.197><c>breakup </c><00:12:10.556><c>of </c><00:12:10.915><c>it </c><00:12:11.274><c>that</c>
+
+00:12:11.790 --> 00:12:11.800 align:start position:0%
+prepare a complete breakup of it that
+ 
+
+00:12:11.800 --> 00:12:14.389 align:start position:0%
+prepare a complete breakup of it that
+how <00:12:12.080><c>many </c><00:12:12.360><c>medicines </c><00:12:12.640><c>have </c><00:12:12.920><c>been </c><00:12:13.200><c>used </c><00:12:13.480><c>in </c><00:12:13.760><c>the </c><00:12:14.040><c>surgery, </c><00:12:14.320><c>have</c>
+
+00:12:14.389 --> 00:12:14.399 align:start position:0%
+how many medicines have been used in the surgery, have
+ 
+
+00:12:14.399 --> 00:12:17.509 align:start position:0%
+how many medicines have been used in the surgery, have
+they <00:12:14.691><c>charged </c><00:12:14.983><c>for </c><00:12:15.275><c>the </c><00:12:15.567><c>surgery </c><00:12:15.859><c>and </c><00:12:16.151><c>have </c><00:12:16.443><c>they </c><00:12:16.735><c>charged </c><00:12:17.027><c>for </c><00:12:17.319><c>the</c>
+
+00:12:17.509 --> 00:12:17.519 align:start position:0%
+they charged for the surgery and have they charged for the
+ 
+
+00:12:17.519 --> 00:12:19.910 align:start position:0%
+they charged for the surgery and have they charged for the
+anesthesia <00:12:17.959><c>charges </c><00:12:18.399><c>etc. </c><00:12:18.839><c>or </c><00:12:19.279><c>has </c><00:12:19.719><c>any</c>
+
+00:12:19.910 --> 00:12:19.920 align:start position:0%
+anesthesia charges etc. or has any
+ 
+
+00:12:19.920 --> 00:12:21.750 align:start position:0%
+anesthesia charges etc. or has any
+anesthesiologist <00:12:20.248><c>come </c><00:12:20.576><c>from </c><00:12:20.904><c>outside, </c><00:12:21.232><c>has </c><00:12:21.560><c>a</c>
+
+00:12:21.750 --> 00:12:21.760 align:start position:0%
+anesthesiologist come from outside, has a
+ 
+
+00:12:21.760 --> 00:12:23.790 align:start position:0%
+anesthesiologist come from outside, has a
+doctor <00:12:22.022><c>visit </c><00:12:22.284><c>etc. </c><00:12:22.546><c>been </c><00:12:22.808><c>charged  </c><00:12:23.070><c>So, </c><00:12:23.332><c>we </c><00:12:23.594><c>will</c>
+
+00:12:23.790 --> 00:12:23.800 align:start position:0%
+doctor visit etc. been charged  So, we will
+ 
+
+00:12:23.800 --> 00:12:26.550 align:start position:0%
+doctor visit etc. been charged  So, we will
+mention <00:12:24.280><c>all </c><00:12:24.760><c>that </c><00:12:25.240><c>under </c><00:12:25.720><c>breakup,</c>
+
+00:12:26.550 --> 00:12:26.560 align:start position:0%
+mention all that under breakup,
+ 
+
+00:12:26.560 --> 00:12:28.430 align:start position:0%
+mention all that under breakup,
+so <00:12:26.698><c>it </c><00:12:26.836><c>is </c><00:12:26.974><c>very </c><00:12:27.112><c>simple, </c><00:12:27.250><c>there </c><00:12:27.388><c>is </c><00:12:27.526><c>no </c><00:12:27.664><c>need </c><00:12:27.802><c>to </c><00:12:27.940><c>panic </c><00:12:28.078><c>in </c><00:12:28.216><c>this, </c><00:12:28.354><c>if</c>
+
+00:12:28.430 --> 00:12:28.440 align:start position:0%
+so it is very simple, there is no need to panic in this, if
+ 
+
+00:12:28.440 --> 00:12:30.389 align:start position:0%
+so it is very simple, there is no need to panic in this, if
+you <00:12:29.000><c>have </c><00:12:29.560><c>any </c><00:12:30.120><c>confusion</c>
+
+00:12:30.389 --> 00:12:30.399 align:start position:0%
+you have any confusion
+ 
+
+00:12:30.399 --> 00:12:31.750 align:start position:0%
+you have any confusion
+
+
+00:12:31.750 --> 00:12:31.760 align:start position:0%
+ 
+ 
+
+00:12:31.760 --> 00:12:34.509 align:start position:0%
+ 
+related <00:12:32.160><c>to </c><00:12:32.560><c>this </c><00:12:32.960><c>query </c><00:12:33.360><c>then </c><00:12:33.760><c>you </c><00:12:34.160><c>can</c>
+
+00:12:34.509 --> 00:12:34.519 align:start position:0%
+related to this query then you can
+ 
+
+00:12:34.519 --> 00:12:36.949 align:start position:0%
+related to this query then you can
+write <00:12:34.708><c>to </c><00:12:34.897><c>me </c><00:12:35.086><c>in </c><00:12:35.275><c>the </c><00:12:35.464><c>comment </c><00:12:35.653><c>section. </c><00:12:35.842><c>So </c><00:12:36.031><c>in </c><00:12:36.220><c>today's </c><00:12:36.409><c>video, </c><00:12:36.598><c>I</c>
+
+00:12:36.949 --> 00:12:36.959 align:start position:0%
+write to me in the comment section. So in today's video, I
+ 
+
+00:12:36.959 --> 00:12:38.710 align:start position:0%
+write to me in the comment section. So in today's video, I
+told <00:12:38.600><c>you</c>
+
+00:12:38.710 --> 00:12:38.720 align:start position:0%
+told you
+ 
+
+00:12:38.720 --> 00:12:41.189 align:start position:0%
+told you
+how <00:12:39.010><c>to </c><00:12:39.300><c>answer </c><00:12:39.590><c>the </c><00:12:39.880><c>bill </c><00:12:40.170><c>breakup </c><00:12:40.460><c>query, </c><00:12:40.750><c>whether </c><00:12:41.040><c>some</c>
+
+00:12:41.189 --> 00:12:41.199 align:start position:0%
+how to answer the bill breakup query, whether some
+ 
+
+00:12:41.199 --> 00:12:42.990 align:start position:0%
+how to answer the bill breakup query, whether some
+documents <00:12:41.344><c>have </c><00:12:41.489><c>to </c><00:12:41.634><c>be </c><00:12:41.779><c>prepared </c><00:12:41.924><c>and </c><00:12:42.069><c>sent </c><00:12:42.214><c>to </c><00:12:42.359><c>us </c><00:12:42.504><c>from </c><00:12:42.649><c>the </c><00:12:42.794><c>hospital,</c>
+
+00:12:42.990 --> 00:12:43.000 align:start position:0%
+documents have to be prepared and sent to us from the hospital,
+ 
+
+00:12:43.000 --> 00:12:45.790 align:start position:0%
+documents have to be prepared and sent to us from the hospital,
+how <00:12:43.432><c>to </c><00:12:43.864><c>answer </c><00:12:44.296><c>it, </c><00:12:44.728><c>what </c><00:12:45.160><c>is</c>
+
+00:12:45.790 --> 00:12:45.800 align:start position:0%
+how to answer it, what is
+ 
+
+00:12:45.800 --> 00:12:48.590 align:start position:0%
+how to answer it, what is
+its <00:12:47.080><c>process, </c><00:12:48.360><c>so</c>
+
+00:12:48.590 --> 00:12:48.600 align:start position:0%
+its process, so
+ 
+
+00:12:48.600 --> 00:12:50.470 align:start position:0%
+its process, so
+I <00:12:48.763><c>told </c><00:12:48.926><c>you </c><00:12:49.089><c>all </c><00:12:49.252><c>about </c><00:12:49.415><c>that </c><00:12:49.578><c>in </c><00:12:49.741><c>this </c><00:12:49.904><c>video, </c><00:12:50.067><c>this </c><00:12:50.230><c>is </c><00:12:50.393><c>the</c>
+
+00:12:50.470 --> 00:12:50.480 align:start position:0%
+I told you all about that in this video, this is the
+ 
+
+00:12:50.480 --> 00:12:53.629 align:start position:0%
+I told you all about that in this video, this is the
+bill <00:12:51.999><c>breakup </c><00:12:53.518><c>query,</c>
+
+00:12:53.629 --> 00:12:53.639 align:start position:0%
+bill breakup query,
+ 
+
+00:12:53.639 --> 00:12:55.470 align:start position:0%
+bill breakup query,
+apart <00:12:53.873><c>from </c><00:12:54.107><c>this, </c><00:12:54.341><c>if </c><00:12:54.575><c>you </c><00:12:54.809><c>get </c><00:12:55.043><c>any </c><00:12:55.277><c>other</c>
+
+00:12:55.470 --> 00:12:55.480 align:start position:0%
+apart from this, if you get any other
+ 
+
+00:12:55.480 --> 00:12:57.550 align:start position:0%
+apart from this, if you get any other
+query <00:12:55.675><c>then </c><00:12:55.870><c>you </c><00:12:56.065><c>can </c><00:12:56.260><c>share </c><00:12:56.455><c>it </c><00:12:56.650><c>with </c><00:12:56.845><c>me, </c><00:12:57.040><c>I </c><00:12:57.235><c>have</c>
+
+00:12:57.550 --> 00:12:57.560 align:start position:0%
+query then you can share it with me, I have
+ 
+
+00:12:57.560 --> 00:12:58.829 align:start position:0%
+query then you can share it with me, I have
+
+
+00:12:58.829 --> 00:12:58.839 align:start position:0%
+ 
+ 
+
+00:12:58.839 --> 00:13:01.509 align:start position:0%
+ 
+given <00:12:59.215><c>it </c><00:12:59.591><c>to </c><00:12:59.967><c>you, </c><00:13:00.343><c>you </c><00:13:00.719><c>can</c>
+
+00:13:01.509 --> 00:13:01.519 align:start position:0%
+given it to you, you can
+ 
+
+00:13:01.519 --> 00:13:04.590 align:start position:0%
+given it to you, you can
+send <00:13:02.012><c>me </c><00:13:02.505><c>your </c><00:13:02.998><c>questions </c><00:13:03.491><c>on </c><00:13:03.984><c>that </c><00:13:04.477><c>or</c>
+
+00:13:04.590 --> 00:13:04.600 align:start position:0%
+send me your questions on that or
+ 
+
+00:13:04.600 --> 00:13:06.389 align:start position:0%
+send me your questions on that or
+you <00:13:04.759><c>can </c><00:13:04.918><c>also </c><00:13:05.077><c>write </c><00:13:05.236><c>in </c><00:13:05.395><c>the </c><00:13:05.554><c>comment </c><00:13:05.713><c>section </c><00:13:05.872><c>of </c><00:13:06.031><c>the </c><00:13:06.190><c>video</c>
+
+00:13:06.389 --> 00:13:06.399 align:start position:0%
+you can also write in the comment section of the video
+ 
+
+00:13:06.399 --> 00:13:08.389 align:start position:0%
+you can also write in the comment section of the video
+that <00:13:06.627><c>there </c><00:13:06.855><c>is </c><00:13:07.083><c>this </c><00:13:07.311><c>query </c><00:13:07.539><c>under </c><00:13:07.767><c>my </c><00:13:07.995><c>claim,</c>
+
+00:13:08.389 --> 00:13:08.399 align:start position:0%
+that there is this query under my claim,
+ 
+
+00:13:08.399 --> 00:13:10.750 align:start position:0%
+that there is this query under my claim,
+I <00:13:08.654><c>will </c><00:13:08.909><c>give </c><00:13:09.164><c>you </c><00:13:09.419><c>the </c><00:13:09.674><c>solution </c><00:13:09.929><c>to </c><00:13:10.184><c>this </c><00:13:10.439><c>query,</c>
+
+00:13:10.750 --> 00:13:10.760 align:start position:0%
+I will give you the solution to this query,
+ 
+
+00:13:10.760 --> 00:13:13.150 align:start position:0%
+I will give you the solution to this query,
+how <00:13:10.944><c>can </c><00:13:11.128><c>you </c><00:13:11.312><c>answer </c><00:13:11.496><c>it, </c><00:13:11.680><c>whether </c><00:13:11.864><c>it </c><00:13:12.048><c>has </c><00:13:12.232><c>to </c><00:13:12.416><c>be </c><00:13:12.600><c>answered</c>
+
+00:13:13.150 --> 00:13:13.160 align:start position:0%
+how can you answer it, whether it has to be answered
+ 
+
+00:13:13.160 --> 00:13:15.150 align:start position:0%
+how can you answer it, whether it has to be answered
+through <00:13:13.759><c>the </c><00:13:14.358><c>hospital </c><00:13:14.957><c>team</c>
+
+00:13:15.150 --> 00:13:15.160 align:start position:0%
+through the hospital team
+ 
+
+00:13:15.160 --> 00:13:17.350 align:start position:0%
+through the hospital team
+or <00:13:15.349><c>you </c><00:13:15.538><c>have </c><00:13:15.727><c>to </c><00:13:15.916><c>do </c><00:13:16.105><c>it </c><00:13:16.294><c>individually, </c><00:13:16.483><c>so </c><00:13:16.672><c>if </c><00:13:16.861><c>you </c><00:13:17.050><c>have </c><00:13:17.239><c>any</c>
+
+00:13:17.350 --> 00:13:18.949 align:start position:0%
+or you have to do it individually, so if you have any
+ 
+
+00:13:18.949 --> 00:13:18.959 align:start position:0%
+ 
+ 
+
+00:13:18.959 --> 00:13:20.389 align:start position:0%
+ 
+query <00:13:19.183><c>related </c><00:13:19.407><c>to </c><00:13:19.631><c>this </c><00:13:19.855><c>or </c><00:13:20.079><c>any</c>
+
+00:13:20.389 --> 00:13:20.399 align:start position:0%
+query related to this or any
+ 
+
+00:13:20.399 --> 00:13:22.350 align:start position:0%
+query related to this or any
+question <00:13:20.656><c>related </c><00:13:20.913><c>to </c><00:13:21.170><c>health </c><00:13:21.427><c>insurance, </c><00:13:21.684><c>then </c><00:13:21.941><c>you </c><00:13:22.198><c>can</c>
+
+00:13:22.350 --> 00:13:22.360 align:start position:0%
+question related to health insurance, then you can
+ 
+
+00:13:22.360 --> 00:13:24.750 align:start position:0%
+question related to health insurance, then you can
+write <00:13:22.706><c>in </c><00:13:23.052><c>the </c><00:13:23.398><c>comment </c><00:13:23.744><c>section.  </c><00:13:24.090><c>If </c><00:13:24.436><c>you</c>
+
+00:13:24.750 --> 00:13:24.760 align:start position:0%
+write in the comment section.  If you
+ 
+
+00:13:24.760 --> 00:13:26.710 align:start position:0%
+write in the comment section.  If you
+liked <00:13:24.944><c>the </c><00:13:25.128><c>video </c><00:13:25.312><c>then </c><00:13:25.496><c>please </c><00:13:25.680><c>like </c><00:13:25.864><c>and </c><00:13:26.048><c>subscribe </c><00:13:26.232><c>to </c><00:13:26.416><c>the </c><00:13:26.600><c>channel.</c>
+
+00:13:26.710 --> 00:13:26.720 align:start position:0%
+liked the video then please like and subscribe to the channel.
+ 
+
+00:13:26.720 --> 00:13:29.030 align:start position:0%
+liked the video then please like and subscribe to the channel.
+See <00:13:28.800><c>you</c>
+
+00:13:29.030 --> 00:13:29.040 align:start position:0%
+See you
+ 
+
+00:13:29.040 --> 00:13:31.910 align:start position:0%
+See you
+in <00:13:29.192><c>the </c><00:13:29.344><c>next </c><00:13:29.496><c>video, </c><00:13:29.648><c>till </c><00:13:29.800><c>then</c>
+
+00:13:31.910 --> 00:13:31.920 align:start position:0%
+in the next video, till then
+ 
+
+00:13:31.920 --> 00:13:34.920 align:start position:0%
+in the next video, till then
+goodbye.
+

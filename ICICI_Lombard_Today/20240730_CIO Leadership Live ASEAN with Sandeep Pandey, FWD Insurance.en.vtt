@@ -1,0 +1,1704 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:04.320 --> 00:00:09.720
+hello and welcome to CIO leadership live in asan&nbsp;
+my name is sharine Robert editor of asan based&nbsp;&nbsp;
+
+00:00:09.720 --> 00:00:14.920
+in Singapore and we're back for another episode&nbsp;
+in conversation with it leaders across southeast&nbsp;&nbsp;
+
+00:00:14.920 --> 00:00:20.640
+Asia and Hong Kong around leadership Innovation&nbsp;
+and business strategy today I'm joined by San&nbsp;&nbsp;
+
+00:00:20.640 --> 00:00:28.360
+Pand group Chief technology and operations officer&nbsp;
+of FWD Insurance in Hong Kong welcome sand thank&nbsp;&nbsp;
+
+00:00:28.360 --> 00:00:34.680
+you sharim it's it's it's a pleasure to be with&nbsp;
+you today awesome um so just to give yourself an&nbsp;&nbsp;
+
+00:00:34.680 --> 00:00:39.320
+opportunity to introduce yourself to our audience&nbsp;
+um maybe share a bit more about the role that&nbsp;&nbsp;
+
+00:00:39.320 --> 00:00:46.680
+you have um it's a really long title so give some&nbsp;
+insight into what actually you do on a day-to-day&nbsp;&nbsp;
+
+00:00:46.680 --> 00:00:52.680
+thank you yes as as my title says I look after the&nbsp;
+technology and operations as you know I have I've&nbsp;&nbsp;
+
+00:00:52.680 --> 00:00:58.640
+been in the technology uh for quite some time and&nbsp;
+I also done country operations role in my previous&nbsp;&nbsp;
+
+00:00:58.640 --> 00:01:03.320
+experiences as well so just introducing myself&nbsp;
+I'm the group Chief technology and operations&nbsp;&nbsp;
+
+00:01:03.320 --> 00:01:10.400
+officer for FWD and what does that mean is I'm&nbsp;
+responsible for the customer the operations as&nbsp;&nbsp;
+
+00:01:10.400 --> 00:01:15.840
+well as um you know the technology for FWB From&nbsp;
+endtoend perspective group wide across all the&nbsp;&nbsp;
+
+00:01:15.840 --> 00:01:21.800
+10 markets we operate in and you know if you&nbsp;
+see predominantly my experience I started from&nbsp;&nbsp;
+
+00:01:21.800 --> 00:01:27.720
+manufacturing of course I started from fmcg and&nbsp;
+then I moved into um Financial Services uh you&nbsp;&nbsp;
+
+00:01:27.720 --> 00:01:36.560
+know way back in 20 early 2000s from you know AIG&nbsp;
+to AIA and bua and now FWD and it is always been I&nbsp;&nbsp;
+
+00:01:36.560 --> 00:01:42.440
+I'm so excited to see how insurance industry has&nbsp;
+really transformed in the last 15 20 years where&nbsp;&nbsp;
+
+00:01:42.440 --> 00:01:47.920
+technology has really become a center stage of uh&nbsp;
+you know the driving the business strategy as well&nbsp;&nbsp;
+
+00:01:47.920 --> 00:01:55.120
+right so that has always been the uh thing which&nbsp;
+has driven me so in in my current uh you know the&nbsp;&nbsp;
+
+00:01:55.120 --> 00:02:00.640
+role I look at the customer operations from end to&nbsp;
+end perspective and what does that mean insing is&nbsp;&nbsp;
+
+00:02:00.640 --> 00:02:05.000
+like how do we we are very passionate if you know&nbsp;
+our vision is to change the way people feel about&nbsp;&nbsp;
+
+00:02:05.000 --> 00:02:10.600
+insurance so I'm very passionate about how do we&nbsp;
+create uh the 360 of customer experience which&nbsp;&nbsp;
+
+00:02:10.600 --> 00:02:16.400
+I talk about the customer experience side of it&nbsp;
+because we're a customer Le company the also the&nbsp;&nbsp;
+
+00:02:16.400 --> 00:02:22.200
+distribution experience because our agents Bank&nbsp;
+Partners Brokers everybody is important and last&nbsp;&nbsp;
+
+00:02:22.200 --> 00:02:27.720
+but not least is also the employ experience side&nbsp;
+of it so so we need to look at all three sides&nbsp;&nbsp;
+
+00:02:27.720 --> 00:02:34.880
+of the customer experience in my view and then we&nbsp;
+should be creating those Solutions which cater to&nbsp;&nbsp;
+
+00:02:34.880 --> 00:02:42.240
+our end customer also our uh employe experience&nbsp;
+as well as for our distribution uh you asked me&nbsp;&nbsp;
+
+00:02:42.240 --> 00:02:46.800
+what does your day look like so of course on&nbsp;
+a on a day-to-day basis it's all about so I&nbsp;&nbsp;
+
+00:02:46.800 --> 00:02:53.000
+bucket uh every one of us our leaders role in two&nbsp;
+buckets enabling the growth and uh looking at the&nbsp;&nbsp;
+
+00:02:53.000 --> 00:02:58.400
+operational efficiency right because we need to&nbsp;
+do both so of course uh you know insurance is a&nbsp;&nbsp;
+
+00:02:58.400 --> 00:03:04.120
+sales-driven organization so you have to actively&nbsp;
+sell insurance and we need to enable that and that&nbsp;&nbsp;
+
+00:03:04.120 --> 00:03:08.560
+brings the growth that brings the protection that&nbsp;
+brings the you know the savings product through&nbsp;&nbsp;
+
+00:03:08.560 --> 00:03:14.520
+our channels but of course we need to also operate&nbsp;
+efficiently and that brings the simplification&nbsp;&nbsp;
+
+00:03:14.520 --> 00:03:20.080
+side of it you know the agility side of it and we&nbsp;
+will talk some of the things I'm sure about cloud&nbsp;&nbsp;
+
+00:03:20.080 --> 00:03:24.800
+and how some of the new Texs are enabling that&nbsp;
+so you know to be honest on a day-to-day basis&nbsp;&nbsp;
+
+00:03:24.800 --> 00:03:30.960
+I engage with businesses a lot really understand&nbsp;
+we have a clear threeyear you know the technology&nbsp;&nbsp;
+
+00:03:30.960 --> 00:03:38.480
+and operations strategy in align with our business&nbsp;
+strategy and and day-to-day basis my role would be&nbsp;&nbsp;
+
+00:03:38.480 --> 00:03:43.880
+around ensuring U are we actively listening to our&nbsp;
+customers uh what are the things which are coming&nbsp;&nbsp;
+
+00:03:43.880 --> 00:03:50.040
+in large programs how are they progressing how's&nbsp;
+Employee Engagement sentiments are and so on and&nbsp;&nbsp;
+
+00:03:50.040 --> 00:03:56.040
+so forth right so that that to me is is what uh&nbsp;
+my role involves on day-to-day basis you're kind&nbsp;&nbsp;
+
+00:03:56.040 --> 00:04:02.000
+of in a unique position um in terms of managing&nbsp;
+both technology and people um especially having&nbsp;&nbsp;
+
+00:04:02.000 --> 00:04:08.400
+such a close relationship with customers of in an&nbsp;
+organization that is really about um making sure&nbsp;&nbsp;
+
+00:04:08.400 --> 00:04:14.880
+customers benefit from you know the products that&nbsp;
+you're selling um I I'm curious to know as as I&nbsp;&nbsp;
+
+00:04:14.880 --> 00:04:19.120
+Was preparing for our chat today I was learning&nbsp;
+a bit more about you know your experience your&nbsp;&nbsp;
+
+00:04:19.120 --> 00:04:24.880
+background uh and as you mentioned you've been&nbsp;
+um in the insurance sector for quite a some time&nbsp;&nbsp;
+
+00:04:24.880 --> 00:04:32.520
+now and um primarily managing technology um so&nbsp;
+in in your mind in your view how have you seen&nbsp;&nbsp;
+
+00:04:32.520 --> 00:04:38.360
+technology evolved across the years um and&nbsp;
+currently how does that impact the way you&nbsp;&nbsp;
+
+00:04:38.360 --> 00:04:45.680
+execute strategies that's a great question I think&nbsp;
+technology if even if you you know go back from&nbsp;&nbsp;
+
+00:04:45.680 --> 00:04:51.480
+Industrial Age to our you know the information&nbsp;
+age to the you know the U then now we are in Ai&nbsp;&nbsp;
+
+00:04:51.480 --> 00:04:58.200
+and gen Age Technology has always enable people to&nbsp;
+become more uh efficient right for example right&nbsp;&nbsp;
+
+00:04:58.200 --> 00:05:03.360
+so you know manufacturing process for example&nbsp;
+has already always got automated in Insurance&nbsp;&nbsp;
+
+00:05:03.360 --> 00:05:09.400
+Financial Services as well the things are on&nbsp;
+paper your your requirement to have that paperless&nbsp;&nbsp;
+
+00:05:09.400 --> 00:05:14.960
+experience for example your requirement to have&nbsp;
+that you know the quick turnaround time when we&nbsp;&nbsp;
+
+00:05:14.960 --> 00:05:21.200
+submit a servicing request or a caims request&nbsp;
+your requirement to ensure that I give you a&nbsp;&nbsp;
+
+00:05:21.200 --> 00:05:27.400
+personalized experience uh you know in a in a more&nbsp;
+simplified way and I cut through the I cut through&nbsp;&nbsp;
+
+00:05:27.400 --> 00:05:33.720
+the uh red tape quickly and you know get to where&nbsp;
+you want to get to as a as a customer rather than&nbsp;&nbsp;
+
+00:05:33.720 --> 00:05:39.600
+having to go through so many screens and so many&nbsp;
+things has been the evolution the evolution has&nbsp;&nbsp;
+
+00:05:39.600 --> 00:05:47.680
+been also moving away from paper based transaction&nbsp;
+to really digital based experience or in the last&nbsp;&nbsp;
+
+00:05:47.680 --> 00:05:53.640
+you know the Advent of uh all this uh digital age&nbsp;
+and digital insurance as you know we have been we&nbsp;&nbsp;
+
+00:05:53.640 --> 00:05:58.160
+have been bagging digital insurer of the year&nbsp;
+for quite some time and we but we need to and&nbsp;&nbsp;
+
+00:05:58.160 --> 00:06:03.760
+we cater to all segment ments sh it's not just&nbsp;
+a particular segment so the solutioning which&nbsp;&nbsp;
+
+00:06:03.760 --> 00:06:11.520
+we have to do needs to be catering to all stret of&nbsp;
+our uh customers not just not just for that matter&nbsp;&nbsp;
+
+00:06:11.520 --> 00:06:18.800
+genz or or or um uh you know genx has to be old&nbsp;
+right so that that's so that brings to the fact&nbsp;&nbsp;
+
+00:06:18.800 --> 00:06:24.840
+that and technology has Evol and today we take&nbsp;
+smartphone as as for granted like you know so&nbsp;&nbsp;
+
+00:06:24.840 --> 00:06:29.840
+it's it's a computer in your hand literally it has&nbsp;
+everything you do and spend a lot of time there so&nbsp;&nbsp;
+
+00:06:29.840 --> 00:06:37.000
+technology has evolved a lot in the last uh 15 20&nbsp;
+years and so has the insurance industry embracing&nbsp;&nbsp;
+
+00:06:37.000 --> 00:06:43.560
+that technology has also evolved uh you know gone&nbsp;
+on those days where Insurance used to be a lagger&nbsp;&nbsp;
+
+00:06:43.560 --> 00:06:48.720
+you know it used to be behind uh you know the&nbsp;
+banking industry I would argue that the Innovation&nbsp;&nbsp;
+
+00:06:48.720 --> 00:06:54.000
+which have happened in the last 15 years in&nbsp;
+insurance is happened far more faster and at the&nbsp;&nbsp;
+
+00:06:54.000 --> 00:07:00.640
+pace uh you know in and which is what is exciting&nbsp;
+so I've seen lot of those ins Transformations have&nbsp;&nbsp;
+
+00:07:00.640 --> 00:07:07.040
+happened through this uh you know the digital&nbsp;
+transformation and honestly speaking we are&nbsp;&nbsp;
+
+00:07:07.040 --> 00:07:13.240
+as good as our if our customers really like that&nbsp;
+experience then it makes sense for example you can&nbsp;&nbsp;
+
+00:07:13.240 --> 00:07:19.200
+invest in all kind of Technology all kind of these&nbsp;
+uh digital tools but if they don't use it if they&nbsp;&nbsp;
+
+00:07:19.200 --> 00:07:24.920
+don't experience it and if they don't appreciate&nbsp;
+it it's of no point another thing which I feel has&nbsp;&nbsp;
+
+00:07:24.920 --> 00:07:33.000
+also we don't talk much about is having the should&nbsp;
+uplift in place shoting right so for example&nbsp;&nbsp;
+
+00:07:33.000 --> 00:07:39.240
+infrastructure as a code Cloud Transformations&nbsp;
+like you know I would say information security&nbsp;&nbsp;
+
+00:07:39.240 --> 00:07:45.200
+which are normally taken for granted is this&nbsp;
+also gone through a huge transformation over&nbsp;&nbsp;
+
+00:07:45.200 --> 00:07:51.720
+the last uh you know the I would say last 15 20&nbsp;
+years because the threat actors are changing it&nbsp;&nbsp;
+
+00:07:51.720 --> 00:07:56.720
+is becoming more they becoming more sophisticated&nbsp;
+your that Landscapes are changing so you have to&nbsp;&nbsp;
+
+00:07:56.720 --> 00:08:02.000
+look at technology from end to- end perspective&nbsp;
+you have to look at from your fundamentals how&nbsp;&nbsp;
+
+00:08:02.000 --> 00:08:08.600
+do you look at that informational security and&nbsp;
+then creating those the the CX the DX and also&nbsp;&nbsp;
+
+00:08:08.600 --> 00:08:13.000
+the employee experience which I talk about and&nbsp;
+what are those digital tools which is going to&nbsp;&nbsp;
+
+00:08:13.000 --> 00:08:18.560
+move the nle to enable both the growth as well as&nbsp;
+the operational efficiency which we need to look&nbsp;&nbsp;
+
+00:08:18.560 --> 00:08:23.800
+at I hope that makes sense yeah and I definitely&nbsp;
+agree with the approach I especially love the&nbsp;&nbsp;
+
+00:08:23.800 --> 00:08:29.000
+part about you know leaving no customer behind&nbsp;
+I'm sure my parents my grandparents generation&nbsp;&nbsp;
+
+00:08:29.000 --> 00:08:33.920
+would app appreciate that a lot especially&nbsp;
+because um in this technology age where it's&nbsp;&nbsp;
+
+00:08:33.920 --> 00:08:39.800
+also advancing really quick um it's tough for&nbsp;
+them to keep up um they've come from a time&nbsp;&nbsp;
+
+00:08:39.800 --> 00:08:44.680
+where all these digital tools did not exist where&nbsp;
+they were going to make an insurance claim it was&nbsp;&nbsp;
+
+00:08:44.680 --> 00:08:49.520
+going to their trusted advisor you know to seek&nbsp;
+that to seek that kind of application process and&nbsp;&nbsp;
+
+00:08:49.520 --> 00:08:55.640
+things like that um so it's entirely different um&nbsp;
+experience by them right now U and we'll get into&nbsp;&nbsp;
+
+00:08:55.640 --> 00:09:00.720
+a bit more about you know how you're meeting those&nbsp;
+customer expectations very customer expectations&nbsp;&nbsp;
+
+00:09:00.720 --> 00:09:06.280
+you know um dat on in this conversation um but&nbsp;
+first I wanted to focus a bit more on that club&nbsp;&nbsp;
+
+00:09:06.280 --> 00:09:13.720
+transformation that you were speaking about uh for&nbsp;
+FWD how has that um Journey been like um and how&nbsp;&nbsp;
+
+00:09:13.720 --> 00:09:19.280
+it given the time that you've had to implement and&nbsp;
+also see the results of it where where do you see&nbsp;&nbsp;
+
+00:09:19.280 --> 00:09:24.920
+it impacting the business the most another great&nbsp;
+question sing I think you got a list of all great&nbsp;&nbsp;
+
+00:09:24.920 --> 00:09:29.760
+questions today I'm sure so Cloud for us from&nbsp;
+the beginning was a holistic business strategy&nbsp;&nbsp;
+
+00:09:29.760 --> 00:09:34.640
+and that's where we differentiate it was not just&nbsp;
+a technology strategy right from the beginning the&nbsp;&nbsp;
+
+00:09:34.640 --> 00:09:40.320
+commitment from all the way from our you know the&nbsp;
+board to the top management and to the businesses&nbsp;&nbsp;
+
+00:09:40.320 --> 00:09:45.680
+were always there so about three three and a half&nbsp;
+years ago when I came in I saw that opportunity&nbsp;&nbsp;
+
+00:09:45.680 --> 00:09:52.720
+to say you know what if you really want to be&nbsp;
+the the customer light company which we we are&nbsp;&nbsp;
+
+00:09:52.720 --> 00:09:58.400
+we need to make sure that we're quickly moving and&nbsp;
+embracing these uh you know the ad advancement of&nbsp;&nbsp;
+
+00:09:58.400 --> 00:10:05.160
+uh Cloud which is happening having your workload&nbsp;
+in data center is not being able to give you that&nbsp;&nbsp;
+
+00:10:05.160 --> 00:10:09.520
+efficiency and that I'm I'm not just talking&nbsp;
+about the cost efficiency but the scale the&nbsp;&nbsp;
+
+00:10:09.520 --> 00:10:15.120
+stability and the experience of year after and&nbsp;
+also the turnaround times right so your speed&nbsp;&nbsp;
+
+00:10:15.120 --> 00:10:21.600
+to Market your way to ensure that we are able to&nbsp;
+spin off uh you know the workloads and switch it&nbsp;&nbsp;
+
+00:10:21.600 --> 00:10:28.000
+off when we don't need demand based that workload&nbsp;
+is very important and most important thing when&nbsp;&nbsp;
+
+00:10:28.000 --> 00:10:32.120
+we started this uh cloud transformation Journey&nbsp;
+shooting we were at the right at the center of&nbsp;&nbsp;
+
+00:10:32.120 --> 00:10:38.000
+covid right as you can see and imagine if you&nbsp;
+didn't have that kind of a you know enablement&nbsp;&nbsp;
+
+00:10:38.000 --> 00:10:43.640
+for our you know staff to work remotely enablement&nbsp;
+for our distribution and for our customers to be&nbsp;&nbsp;
+
+00:10:43.640 --> 00:10:49.480
+able to interact with us uh seamlessly it would&nbsp;
+have become another challenge right so you trying&nbsp;&nbsp;
+
+00:10:49.480 --> 00:10:55.200
+to get servers during that time it would have&nbsp;
+been months before you could you could get uh&nbsp;&nbsp;
+
+00:10:55.200 --> 00:11:02.640
+any any workload so it has enabled our business&nbsp;
+to be resilient it has enabled our business to be&nbsp;&nbsp;
+
+00:11:02.640 --> 00:11:10.160
+continue to focus on what we want to do for&nbsp;
+our customers but also ensuring that we are&nbsp;&nbsp;
+
+00:11:10.160 --> 00:11:15.400
+embracing these advancements in the in the cloud&nbsp;
+transformation which has been happening so when&nbsp;&nbsp;
+
+00:11:15.400 --> 00:11:23.160
+we started in December 2021 we were at like 20 we&nbsp;
+were like 27% today we are at 97% on cloud right&nbsp;&nbsp;
+
+00:11:23.160 --> 00:11:31.320
+so we have done the rapid uh deployment into cloud&nbsp;
+and not like living any any again you know markets&nbsp;&nbsp;
+
+00:11:31.320 --> 00:11:37.800
+behind so we have done if you look at across our&nbsp;
+markets our markets are 0 90% at least each of the&nbsp;&nbsp;
+
+00:11:37.800 --> 00:11:43.120
+markets up and certain markets are even 100%&nbsp;
+on Cloud for example right so that's been our&nbsp;&nbsp;
+
+00:11:43.120 --> 00:11:49.640
+Cloud transformation Journey the differentiation&nbsp;
+I always make uh sharen is that your Tech strategy&nbsp;&nbsp;
+
+00:11:49.640 --> 00:11:54.600
+has to be 100% aligned with your business strategy&nbsp;
+and if we are looking at changing the way people&nbsp;&nbsp;
+
+00:11:54.600 --> 00:11:59.560
+feel about insurance we want to enable that growth&nbsp;
+we want to be customer Le company we want want to&nbsp;&nbsp;
+
+00:11:59.560 --> 00:12:07.520
+create a differentiated experience then we got&nbsp;
+to have the cloud infrastructure in the back end&nbsp;&nbsp;
+
+00:12:07.520 --> 00:12:13.320
+already transformed and our Cloud transformation&nbsp;
+was not just about lifting and shifting&nbsp;&nbsp;
+
+00:12:13.320 --> 00:12:20.720
+applications to the cloud it was also about&nbsp;
+actually transforming modernizing and getting&nbsp;&nbsp;
+
+00:12:20.720 --> 00:12:28.200
+rid of those old applications while we were doing&nbsp;
+that 33% of our application as state is completely&nbsp;&nbsp;
+
+00:12:28.200 --> 00:12:34.200
+decommissioned modernized as a virtue in the&nbsp;
+last three years so we actually removed you know&nbsp;&nbsp;
+
+00:12:34.200 --> 00:12:41.360
+the number of applications of 33% of our entire&nbsp;
+applications to actually get that uh so we had two&nbsp;&nbsp;
+
+00:12:41.360 --> 00:12:47.400
+clear kpis we Al we wanted to do Cloud adoption or&nbsp;
+what we call it as a you know the cloud adoption&nbsp;&nbsp;
+
+00:12:47.400 --> 00:12:54.600
+kpi but also application rationalization kpi&nbsp;
+which means we need to modernize our applications&nbsp;&nbsp;
+
+00:12:54.600 --> 00:13:00.400
+as well on not just lift and shift uh to the to&nbsp;
+the um thr data center to to Cloud because that's&nbsp;&nbsp;
+
+00:13:00.400 --> 00:13:05.720
+going to increase the cost we all know that if you&nbsp;
+just remove lift and shift so that's why we were&nbsp;&nbsp;
+
+00:13:05.720 --> 00:13:11.760
+very conscious about doing it the right from the&nbsp;
+beginning putting that business strategy alignment&nbsp;&nbsp;
+
+00:13:11.760 --> 00:13:17.560
+how it is going to enable product turnaround times&nbsp;
+how it is going to enable my in resiliency uh you&nbsp;&nbsp;
+
+00:13:17.560 --> 00:13:23.280
+know stability scalability how it is going to&nbsp;
+ensure that I have that distinct competitive&nbsp;&nbsp;
+
+00:13:23.280 --> 00:13:29.160
+Advantage but also most important of it Al that&nbsp;
+it is efficiently run once it is gone into the&nbsp;&nbsp;
+
+00:13:29.160 --> 00:13:34.520
+the cloud we have done Cloud finops to make sure&nbsp;
+that you know they be constantly looking at how&nbsp;&nbsp;
+
+00:13:34.520 --> 00:13:41.080
+the workloads are managed on the cloud as well so&nbsp;
+sorry for having more detailed uh you know answers&nbsp;&nbsp;
+
+00:13:41.080 --> 00:13:47.320
+on that but I think it's important for audience&nbsp;
+to understand that you know it's a driving a cloud&nbsp;&nbsp;
+
+00:13:47.320 --> 00:13:53.720
+transformation is very different from on paper to&nbsp;
+actually executing it and we we very clear from&nbsp;&nbsp;
+
+00:13:53.720 --> 00:13:59.360
+the beginning that we going to have a multicloud&nbsp;
+strategy U so we have our two key Cloud sour so&nbsp;&nbsp;
+
+00:13:59.360 --> 00:14:07.280
+every brand available out there but definitely&nbsp;
+we had AWS as well as Azure two key providers&nbsp;&nbsp;
+
+00:14:07.280 --> 00:14:12.440
+on our our cloud and so we were very clear&nbsp;
+like you know so arguably people will say&nbsp;&nbsp;
+
+00:14:12.440 --> 00:14:18.160
+that oh I have multicloud but if you go around&nbsp;
+and see 90 to 95% of their workload will be on&nbsp;&nbsp;
+
+00:14:18.160 --> 00:14:23.480
+just one of the cloud providers we are really&nbsp;
+very different we are truly multicloud and you&nbsp;&nbsp;
+
+00:14:23.480 --> 00:14:29.240
+know our workloads are roughly une equally&nbsp;
+divided between the two workload it gives us&nbsp;&nbsp;
+
+00:14:29.240 --> 00:14:35.120
+bit of uh you again resilience among the cloud&nbsp;
+providers we don't want to put all our eggs in&nbsp;&nbsp;
+
+00:14:35.120 --> 00:14:41.080
+our one basket it also gives us I would say&nbsp;
+the negotiation and and Competitive Edge in&nbsp;&nbsp;
+
+00:14:41.080 --> 00:14:47.120
+terms of ensuring that the you know the both the&nbsp;
+key Cloud providers are interested and giving us&nbsp;&nbsp;
+
+00:14:47.120 --> 00:14:52.160
+that kind of U attention which we need uh&nbsp;
+because we can never forget sharing that&nbsp;&nbsp;
+
+00:14:52.160 --> 00:14:57.200
+we are a regulated business we are a regulated&nbsp;
+business in each market so another key important&nbsp;&nbsp;
+
+00:14:57.200 --> 00:15:02.640
+thing is that even The Regulators have really&nbsp;
+become very Progressive or the in the last 10&nbsp;&nbsp;
+
+00:15:02.640 --> 00:15:07.720
+years as you can see they are they're looking at&nbsp;
+how uh Insurance Industries are going to embrace&nbsp;&nbsp;
+
+00:15:07.720 --> 00:15:15.240
+this and keep still our pdpa uh responsibility&nbsp;
+our data security responsibility information&nbsp;&nbsp;
+
+00:15:15.240 --> 00:15:20.080
+security responsibility and with that with Cloud&nbsp;
+it becomes much better because your visibility&nbsp;&nbsp;
+
+00:15:20.080 --> 00:15:27.200
+becomes better your ability to protect it and and&nbsp;
+and uh deliver it faster becomes uh better and of&nbsp;&nbsp;
+
+00:15:27.200 --> 00:15:33.080
+course you need to keep on uh protecting it and&nbsp;
+your layer security micro segmentation those all&nbsp;&nbsp;
+
+00:15:33.080 --> 00:15:41.280
+become very important uh so see it's also about&nbsp;
+execution right so making sure that our regulatory&nbsp;&nbsp;
+
+00:15:41.280 --> 00:15:50.320
+requirements are fulfilled making sure that we&nbsp;
+do not have any thinkk taken for granted in each&nbsp;&nbsp;
+
+00:15:50.320 --> 00:15:55.960
+market not just in Hong Kong but in Singapore in&nbsp;
+Malaysia in Indonesia and making sure we have both&nbsp;&nbsp;
+
+00:15:55.960 --> 00:16:01.480
+sides of the regulations Tak care so that was our&nbsp;
+Focus of course last but not least on the cloud&nbsp;&nbsp;
+
+00:16:01.480 --> 00:16:07.400
+also becomes very important is the talent because&nbsp;
+everybody is going to fight for the same Talent so&nbsp;&nbsp;
+
+00:16:07.400 --> 00:16:13.600
+how do you ensure that so we launched Technology&nbsp;
+Academy two years plus ago to make sure that our&nbsp;&nbsp;
+
+00:16:13.600 --> 00:16:18.840
+skills are upskills and reskilled internally to&nbsp;
+take care of that so you need to take care of&nbsp;&nbsp;
+
+00:16:18.840 --> 00:16:23.560
+all elements of it the strategy side of it the&nbsp;
+implementation side of it business alignment&nbsp;&nbsp;
+
+00:16:23.560 --> 00:16:30.240
+side of it also making sure how it's going to be&nbsp;
+proof points based kpi Le but also are people led&nbsp;&nbsp;
+
+00:16:30.240 --> 00:16:35.080
+because ultimately you need rights at of people&nbsp;
+to be able to to manage that uh you know from&nbsp;&nbsp;
+
+00:16:35.080 --> 00:16:39.760
+end to end perspective so that has been our Cloud&nbsp;
+transformation Journey which I'm very proud of the&nbsp;&nbsp;
+
+00:16:39.760 --> 00:16:45.400
+team in the group as well as in the markets for&nbsp;
+the achievements we have had and we have a lot&nbsp;&nbsp;
+
+00:16:45.400 --> 00:16:52.440
+of accredition from uh you know the industry for&nbsp;
+for for doing it differently for doing it at speed&nbsp;&nbsp;
+
+00:16:52.440 --> 00:16:59.000
+and also been a very good good success story for&nbsp;
+for us at at trid and you're absolutely right with&nbsp;&nbsp;
+
+00:16:59.000 --> 00:17:04.440
+the devils in the details I'm sure you have&nbsp;
+taken the time to you know put thought careful&nbsp;&nbsp;
+
+00:17:04.440 --> 00:17:09.280
+thought into how you want to actually combine&nbsp;
+the best set of tools and infrastructure and&nbsp;&nbsp;
+
+00:17:09.280 --> 00:17:16.440
+people in the process all in one you know to&nbsp;
+create this um journey and transformation um&nbsp;&nbsp;
+
+00:17:16.440 --> 00:17:23.520
+and as you mentioned you you manage 10 different&nbsp;
+markets 10 very different markets um which would&nbsp;&nbsp;
+
+00:17:23.520 --> 00:17:31.200
+have their own set of you know um cultures people&nbsp;
+process technology um how do you see technology&nbsp;&nbsp;
+
+00:17:31.200 --> 00:17:38.880
+operations and adoption differ among the markets&nbsp;
+that you operate um and if yes why do you think&nbsp;&nbsp;
+
+00:17:38.880 --> 00:17:46.800
+it differs in in vastly in vast ways or not um&nbsp;
+and in Your Capacity how do you close the gaps&nbsp;&nbsp;
+
+00:17:46.800 --> 00:17:52.040
+so that you can offer you know that sense of&nbsp;
+UniFi and senors experience that both employees&nbsp;&nbsp;
+
+00:17:52.040 --> 00:17:58.840
+and customers across the board like cine that's&nbsp;
+that's again great question so I think from the&nbsp;&nbsp;
+
+00:17:59.560 --> 00:18:03.960
+I I'm been very fortunate to be able to work in&nbsp;
+the group office roles as well as in the markets&nbsp;&nbsp;
+
+00:18:03.960 --> 00:18:07.800
+roles so if you see I worked in Hong Kong market&nbsp;
+I've worked in Singapore I've worked in Malaysia&nbsp;&nbsp;
+
+00:18:07.800 --> 00:18:13.640
+market so I've been able to appreciate both sides&nbsp;
+of the coin very you know uh quickly because&nbsp;&nbsp;
+
+00:18:13.640 --> 00:18:17.720
+sometimes you have never worked in group office&nbsp;
+you would you would always say that I don't know&nbsp;&nbsp;
+
+00:18:17.720 --> 00:18:20.840
+why group is trying to do they don't understand&nbsp;
+the market perspective but if you have also never&nbsp;&nbsp;
+
+00:18:20.840 --> 00:18:26.120
+worked in Market you think that this is your paint&nbsp;
+of glass and everybody needs to follow that so it&nbsp;&nbsp;
+
+00:18:26.120 --> 00:18:32.800
+comes to me very naturally uh to me to be honest&nbsp;
+and that's why that's what I uh actually push my&nbsp;&nbsp;
+
+00:18:32.800 --> 00:18:38.560
+leadership team to is that we have to understand&nbsp;
+and think from from both perspective so we just&nbsp;&nbsp;
+
+00:18:38.560 --> 00:18:44.400
+don't do a top down strategy Sharin we also do&nbsp;
+the bottom up so we go to I went to every Market&nbsp;&nbsp;
+
+00:18:44.400 --> 00:18:50.880
+CEOs every Market CTO to say hey this is what&nbsp;
+the technology strategy or op strategy should&nbsp;&nbsp;
+
+00:18:50.880 --> 00:18:55.920
+look like what do you think and then they say oh&nbsp;
+in in Philippines Market some we need to look at&nbsp;&nbsp;
+
+00:18:55.920 --> 00:19:01.960
+this in Singapore Market you need to look at that&nbsp;
+so we collected every On's I would say the voices&nbsp;&nbsp;
+
+00:19:01.960 --> 00:19:07.320
+and ensure that we refresh and we go back to them&nbsp;
+and close the loop I'm a huge fan of closing the&nbsp;&nbsp;
+
+00:19:07.320 --> 00:19:13.760
+loop I do not like things to be open dangling out&nbsp;
+there right so even if I have delegated something&nbsp;&nbsp;
+
+00:19:13.760 --> 00:19:20.120
+I would always like to make sure that that that&nbsp;
+piece of uh thing was closed so same way here so&nbsp;&nbsp;
+
+00:19:20.120 --> 00:19:26.760
+we we just not do one time collection of the input&nbsp;
+and just roll out the strategy we again go back&nbsp;&nbsp;
+
+00:19:26.760 --> 00:19:32.360
+and back and back and make sure that after that&nbsp;
+it is our strategy so today we don't talk about&nbsp;&nbsp;
+
+00:19:32.360 --> 00:19:38.000
+the technology strategy as is group technology&nbsp;
+strategy is from great it is our strategy so if&nbsp;&nbsp;
+
+00:19:38.000 --> 00:19:44.680
+you go to Philippines you see the same strategy if&nbsp;
+you go to Indonesia you see the same uh you know&nbsp;&nbsp;
+
+00:19:44.680 --> 00:19:51.160
+Tech and on strategy but of course the apis are&nbsp;
+specific for the market they you know there are&nbsp;&nbsp;
+
+00:19:51.160 --> 00:19:58.440
+there is a notar and there's a you know the group&nbsp;
+like this which we need to uh you know achieve but&nbsp;&nbsp;
+
+00:19:58.440 --> 00:20:03.240
+as starting point would be different and we need&nbsp;
+to be appreciative of your earlier point of the&nbsp;&nbsp;
+
+00:20:03.240 --> 00:20:09.520
+culture a Japan uh Works in a very different&nbsp;
+way versus Hong Kong versus Singapore so you&nbsp;&nbsp;
+
+00:20:09.520 --> 00:20:15.640
+need to be able to look at your people process&nbsp;
+and Tech all the three elements of it to create&nbsp;&nbsp;
+
+00:20:15.640 --> 00:20:21.920
+that solution and it's not one siiz fit all as&nbsp;
+well sh so when we create Solutions I like to&nbsp;&nbsp;
+
+00:20:21.920 --> 00:20:28.880
+always give this notion of you'll hear a lot about&nbsp;
+one modularity which is becoming another unique&nbsp;&nbsp;
+
+00:20:28.880 --> 00:20:33.920
+from our side A lot of people are asking me&nbsp;
+about one modularity is because truly making&nbsp;&nbsp;
+
+00:20:33.920 --> 00:20:40.960
+your back and architecture modular what does that&nbsp;
+mean that means that I really have a stack 1 to&nbsp;&nbsp;
+
+00:20:40.960 --> 00:20:48.840
+10 just to give an example and ultimately&nbsp;
+we are Insurance business right so 1 to S&nbsp;&nbsp;
+
+00:20:48.840 --> 00:20:53.760
+would be common for example either we're in the&nbsp;
+protection business or we're in the savings so&nbsp;&nbsp;
+
+00:20:53.760 --> 00:20:58.600
+that fundamentals of insurance servicing&nbsp;
+claims new business will remain the same&nbsp;&nbsp;
+
+00:20:59.480 --> 00:21:07.000
+but the way I do that selling in Singapore&nbsp;
+for example if I'm 100% digital The Experience&nbsp;&nbsp;
+
+00:21:07.000 --> 00:21:13.640
+would be different or through ifas and broker LS&nbsp;
+versus agency versus Bank assurance that would be&nbsp;&nbsp;
+
+00:21:13.640 --> 00:21:20.200
+different and and the solution which I built needs&nbsp;
+to cater to these differentiations of the market&nbsp;&nbsp;
+
+00:21:20.200 --> 00:21:26.640
+and that's why I say it is 1 to7 we built as as&nbsp;
+a common stack and Lead that flexibility of 8910&nbsp;&nbsp;
+
+00:21:26.640 --> 00:21:32.840
+for Market by market to have that customization&nbsp;
+so that when you go to Indonesia not just the&nbsp;&nbsp;
+
+00:21:32.840 --> 00:21:39.800
+language requirements in this like or Hong Kong&nbsp;
+both and even Japan but also the experience is&nbsp;&nbsp;
+
+00:21:39.800 --> 00:21:45.280
+consistent in line with what a Japanese customer&nbsp;
+would expect it's in line with consistent with&nbsp;&nbsp;
+
+00:21:45.280 --> 00:21:50.720
+what a Malaysian customer would you know&nbsp;
+expect and so on and so forth so having that&nbsp;&nbsp;
+
+00:21:50.720 --> 00:21:58.720
+appreciation the cultural appreciation having that&nbsp;
+switched on mindset of we all are different and we&nbsp;&nbsp;
+
+00:21:58.720 --> 00:22:04.880
+to create that cohesive uh you know consistent&nbsp;
+Tech and this solutioning but experience must be&nbsp;&nbsp;
+
+00:22:04.880 --> 00:22:09.600
+catering to the customers in each market and that&nbsp;
+has been our success story our success story is&nbsp;&nbsp;
+
+00:22:09.600 --> 00:22:15.240
+not one siiz fo all we take the commonalities of&nbsp;
+course we need to be efficient I told you so we&nbsp;&nbsp;
+
+00:22:15.240 --> 00:22:21.680
+need to build that 1 to7 common stack it will be&nbsp;
+crazy to have 10 different customer portal looking&nbsp;&nbsp;
+
+00:22:21.680 --> 00:22:27.160
+in in 10er markets it'll be crazy to have 10&nbsp;
+different Journeys in 10 markets it crazy to have&nbsp;&nbsp;
+
+00:22:27.160 --> 00:22:33.080
+different distribution uh you know the uh Tools&nbsp;
+in 10 different markets and that's what we have&nbsp;&nbsp;
+
+00:22:33.080 --> 00:22:40.120
+been after we've been after to get platform Le&nbsp;
+mindset rather than applet mindset so we have our&nbsp;&nbsp;
+
+00:22:40.120 --> 00:22:46.760
+the distribution platform is C our the customer&nbsp;
+platform is only our the operations platform is&nbsp;&nbsp;
+
+00:22:46.760 --> 00:22:52.240
+Opus and enabling all these three platform is the&nbsp;
+modularized architecture which I call it as one&nbsp;&nbsp;
+
+00:22:52.240 --> 00:22:57.800
+modularity so that's what we are driving uh our&nbsp;
+organization towards to bring that consistency&nbsp;&nbsp;
+
+00:22:57.800 --> 00:23:05.160
+of experience bring that efficiency and also 100%&nbsp;
+business alignment because then everybody can move&nbsp;&nbsp;
+
+00:23:05.160 --> 00:23:11.400
+towards that common goal because at the end of the&nbsp;
+day it's all about customer we are a customer Le&nbsp;&nbsp;
+
+00:23:11.400 --> 00:23:17.240
+company and it's all about customer at the end&nbsp;
+of the day and if we are as good as if we have&nbsp;&nbsp;
+
+00:23:17.240 --> 00:23:22.080
+created anything and if our customers are not&nbsp;
+feeling it you as a customer Shing if you don't&nbsp;&nbsp;
+
+00:23:22.080 --> 00:23:27.880
+feel that differentiated experience when you come&nbsp;
+to FWD uh and doesn't matter whether you TI talk&nbsp;&nbsp;
+
+00:23:27.880 --> 00:23:35.640
+to FWD agent or through your bank or through our&nbsp;
+website or our application you got to get that you&nbsp;&nbsp;
+
+00:23:35.640 --> 00:23:40.080
+know differentiated experience and we've been&nbsp;
+very proud we get a lot of these social media&nbsp;&nbsp;
+
+00:23:40.080 --> 00:23:47.160
+posts even The Regulators uh post it uh when they&nbsp;
+experience us uh you know versus the other but we&nbsp;&nbsp;
+
+00:23:47.160 --> 00:23:53.320
+don't sit on our Laurels we constantly going back&nbsp;
+and challenging ourselves so so hopefully it gives&nbsp;&nbsp;
+
+00:23:53.320 --> 00:24:00.440
+you a more rounded uh answer around how really it&nbsp;
+needs to work yeah yeah and I have to say s it's&nbsp;&nbsp;
+
+00:24:00.440 --> 00:24:06.400
+tough it's tough to create that personalization&nbsp;
+um that localization strategy even uh but it&nbsp;&nbsp;
+
+00:24:06.400 --> 00:24:11.400
+seems that you're on the right track in terms&nbsp;
+of finding that recipe that works for you of&nbsp;&nbsp;
+
+00:24:11.400 --> 00:24:17.640
+you know establishing a group strategy but also&nbsp;
+giving that space um and Authority on the ground&nbsp;&nbsp;
+
+00:24:17.640 --> 00:24:23.040
+itself for your individual leaders um to you know&nbsp;
+further explore and expand on do how they like&nbsp;&nbsp;
+
+00:24:23.040 --> 00:24:29.440
+to self their customers um and I I hug on the&nbsp;
+customers a lot because like you mentioned you&nbsp;&nbsp;
+
+00:24:29.440 --> 00:24:37.040
+are a very strong customer basing business um and&nbsp;
+from our own um insights as well we see customer&nbsp;&nbsp;
+
+00:24:37.040 --> 00:24:44.600
+expectations are growing um tremendously and like&nbsp;
+you mentioned also um the Gen Z the Millennials um&nbsp;&nbsp;
+
+00:24:44.600 --> 00:24:50.280
+they have their own ideas of what they like out&nbsp;
+of you know the service that they they perceive&nbsp;&nbsp;
+
+00:24:50.280 --> 00:24:58.400
+and receive um from you know where they they shop&nbsp;
+um and in terms of FWD service expectations and&nbsp;&nbsp;
+
+00:24:58.400 --> 00:25:04.400
+service experience um what do you what are you&nbsp;
+actually sharing from customers or what they&nbsp;&nbsp;
+
+00:25:04.400 --> 00:25:11.440
+would like more out of you guys and what is how&nbsp;
+do you kind of marry technology with that you know&nbsp;&nbsp;
+
+00:25:11.440 --> 00:25:18.920
+creating that Technology support to deliver really&nbsp;
+strong customer outcomes yeah so like I said we're&nbsp;&nbsp;
+
+00:25:18.920 --> 00:25:23.480
+a customer Le company and we are looking we&nbsp;
+always look at what we call it as a customer&nbsp;&nbsp;
+
+00:25:23.480 --> 00:25:29.760
+engagement and experience uh survey which we do&nbsp;
+independently done by KPMG for us every year to&nbsp;&nbsp;
+
+00:25:29.760 --> 00:25:34.600
+look at the customer experience score for Market&nbsp;
+by market what are the voice of the customers we&nbsp;&nbsp;
+
+00:25:34.600 --> 00:25:41.200
+do from time to time the VOC surveys to ensure&nbsp;
+that we stay true to what we are saying from a&nbsp;&nbsp;
+
+00:25:41.200 --> 00:25:47.520
+customer angle right not just what we think that&nbsp;
+we are good or not in 2022 um all our markets our&nbsp;&nbsp;
+
+00:25:47.520 --> 00:25:53.200
+customers have either rated us good or great right&nbsp;
+so that's for example last year also we had a very&nbsp;&nbsp;
+
+00:25:53.200 --> 00:26:01.160
+good rating the market uh for but again as we back&nbsp;
+into future we also looking at how do we take it&nbsp;&nbsp;
+
+00:26:01.160 --> 00:26:06.640
+to the next level so not all markets at the same&nbsp;
+level to be to be honest right uh and we need to&nbsp;&nbsp;
+
+00:26:06.640 --> 00:26:12.160
+bring every Market to be at least at the same&nbsp;
+uh you know a minimum standard for example and&nbsp;&nbsp;
+
+00:26:12.160 --> 00:26:19.000
+that's where our Focus has been we want to create&nbsp;
+solutions for all markets where we are in the in&nbsp;&nbsp;
+
+00:26:19.000 --> 00:26:25.720
+the higher top topper end of the percentile on&nbsp;
+getting the whether STP stdu which is straight to&nbsp;&nbsp;
+
+00:26:25.720 --> 00:26:30.320
+processing straight to underwriting digital eded&nbsp;
+option digital adoption we are already um higher&nbsp;&nbsp;
+
+00:26:30.320 --> 00:26:36.640
+90s right so for me um how do we then take it to&nbsp;
+the next level of straight to processing NPS like&nbsp;&nbsp;
+
+00:26:36.640 --> 00:26:43.320
+claims NPS we are across the group if you look at&nbsp;
+we are 84% Plus on claims NPS for example on our&nbsp;&nbsp;
+
+00:26:43.320 --> 00:26:49.280
+you know the customer app but we want to bring&nbsp;
+that across the board for all our businesses&nbsp;&nbsp;
+
+00:26:49.280 --> 00:26:53.960
+and um we need to bring all markets to the same&nbsp;
+level certain markets we are doing extremely well&nbsp;&nbsp;
+
+00:26:53.960 --> 00:26:59.080
+certain markets we are still not there and that's&nbsp;
+where that's where our focus is I just a follow up&nbsp;&nbsp;
+
+00:26:59.080 --> 00:27:05.400
+on that so um in terms of how different markets&nbsp;
+are you know perceiving technology differently&nbsp;&nbsp;
+
+00:27:05.400 --> 00:27:10.560
+as well U customers are also pursuing technology&nbsp;
+differently and we we spoke about it a bit earlier&nbsp;&nbsp;
+
+00:27:10.560 --> 00:27:16.040
+about how you know different Generations see it&nbsp;
+differently and um some maybe are a bit unsure&nbsp;&nbsp;
+
+00:27:16.040 --> 00:27:22.800
+of you how they would be able to adapt um so how&nbsp;
+would FWD make it easier for customers to adapt&nbsp;&nbsp;
+
+00:27:22.800 --> 00:27:30.160
+to technology as it grows as quickly as it can&nbsp;
+possibly can yeah we have a we have a famous uh&nbsp;&nbsp;
+
+00:27:30.160 --> 00:27:35.600
+philosophy of uh three steps if you're not able to&nbsp;
+get to where you want to get into the three steps&nbsp;&nbsp;
+
+00:27:35.600 --> 00:27:39.440
+then we need to go back and look at the experience&nbsp;
+for example so if you're if you're coming there&nbsp;&nbsp;
+
+00:27:39.440 --> 00:27:44.760
+and if you're quickly and it could be as simple&nbsp;
+as ask an agent to call so it doesn't have to&nbsp;&nbsp;
+
+00:27:44.760 --> 00:27:51.760
+be like uh you know take you through the the full&nbsp;
+Journey if you're a gen Z and and and and geni 40&nbsp;&nbsp;
+
+00:27:51.760 --> 00:27:57.760
+45% of our our you know customer base are in that&nbsp;
+category for example right and and is growing at&nbsp;&nbsp;
+
+00:27:57.760 --> 00:28:03.160
+the same time I think it's in the 60s 60 person&nbsp;
+now but that goes to show that we are not leaving&nbsp;&nbsp;
+
+00:28:03.160 --> 00:28:09.960
+any anybody behind like I I told you but at the&nbsp;
+same time if you are um our Parish generation&nbsp;&nbsp;
+
+00:28:09.960 --> 00:28:14.920
+who wants to speak to someone I want to enable&nbsp;
+that but I don't want to speak to a person but&nbsp;&nbsp;
+
+00:28:14.920 --> 00:28:21.840
+I want to speak to a bot I need to enable that for&nbsp;
+example certain cultures are shy they do not like&nbsp;&nbsp;
+
+00:28:21.840 --> 00:28:27.080
+to speak to to people they they rather speak to to&nbsp;
+to a bot they are more more happy about speaking&nbsp;&nbsp;
+
+00:28:27.080 --> 00:28:34.600
+to a bot so how do we enable that for example but&nbsp;
+it could not be a traditional bot of FAQs Le it&nbsp;&nbsp;
+
+00:28:34.600 --> 00:28:41.400
+has to be able to and that's where we will get&nbsp;
+into Ai and generative AI Le you know the voice&nbsp;&nbsp;
+
+00:28:41.400 --> 00:28:49.480
+BS for example so it's actually giving you more ex&nbsp;
+personalized or experience-based uh conversation&nbsp;&nbsp;
+
+00:28:49.480 --> 00:28:55.000
+uh rather than uh you know just and making it&nbsp;
+easy for example sometimes I want to speak to&nbsp;&nbsp;
+
+00:28:55.000 --> 00:28:59.880
+the human I don't want to mention I was just in&nbsp;
+Thailand and one of the social media post was&nbsp;&nbsp;
+
+00:28:59.880 --> 00:29:06.520
+from our regulator was that the regulator called&nbsp;
+up another insurer and they asked and the person&nbsp;&nbsp;
+
+00:29:06.520 --> 00:29:12.280
+picked up and they asked them so many questions&nbsp;
+uh before they can get just the answer about the&nbsp;&nbsp;
+
+00:29:12.280 --> 00:29:17.040
+details of what what the person was looking for&nbsp;
+and when they call FWD it was picked up by our&nbsp;&nbsp;
+
+00:29:17.040 --> 00:29:24.760
+AI uh chat it asked just the last three four digit&nbsp;
+of the national ID and quickly it gave the answer&nbsp;&nbsp;
+
+00:29:24.760 --> 00:29:30.520
+what um you know the regulator was looking for so&nbsp;
+now these are the testament which we get directly&nbsp;&nbsp;
+
+00:29:30.520 --> 00:29:37.840
+from our Regulators Hong Kong ma U last year I&nbsp;
+remember posted that you know literally within&nbsp;&nbsp;
+
+00:29:37.840 --> 00:29:44.880
+within seconds the uh the money was banked into&nbsp;
+the uh you know the account not just so we believe&nbsp;&nbsp;
+
+00:29:44.880 --> 00:29:50.360
+in instant claims not just instant processing&nbsp;
+so if you come through our app and we know that&nbsp;&nbsp;
+
+00:29:50.360 --> 00:29:55.640
+you have passed through all our rules quickly we&nbsp;
+just don't tell you that oh you know the claims&nbsp;&nbsp;
+
+00:29:55.640 --> 00:30:00.160
+have been done is actually the money in in your&nbsp;
+bank that's what you see and that's what again&nbsp;&nbsp;
+
+00:30:00.160 --> 00:30:05.000
+last year one of the regulator had posted that&nbsp;
+guys it is true that the money has come in my&nbsp;&nbsp;
+
+00:30:05.000 --> 00:30:09.240
+bank not just just the straight to processing so&nbsp;
+I think how do we push the envelope to go to the&nbsp;&nbsp;
+
+00:30:09.240 --> 00:30:15.440
+next level uh from our parents generation to the&nbsp;
+you know the Baby Boomers to geny to Gen X it has&nbsp;&nbsp;
+
+00:30:15.440 --> 00:30:21.800
+to cater to everyone and it needs to understand&nbsp;
+and you should be able to get your profile and&nbsp;&nbsp;
+
+00:30:21.800 --> 00:30:26.840
+understand what you're looking for like I said&nbsp;
+quickly so I'm looking for this thing and I I give&nbsp;&nbsp;
+
+00:30:26.840 --> 00:30:32.360
+you that preference quickly to say do you want to&nbsp;
+speak to someone do you want to speak to uh to our&nbsp;&nbsp;
+
+00:30:32.360 --> 00:30:37.520
+chatbot or do you want to speak uh and you want&nbsp;
+to just do dat yourself service for example so we&nbsp;&nbsp;
+
+00:30:37.520 --> 00:30:43.960
+don't leave anything uh so we look at everything&nbsp;
+so it's not just this or that based on what you&nbsp;&nbsp;
+
+00:30:43.960 --> 00:30:49.720
+want and how quickly you get it right so we are&nbsp;
+very passionate about what what am I looking&nbsp;&nbsp;
+
+00:30:49.720 --> 00:30:53.520
+for am I looking for a product information am I&nbsp;
+looking for servicing request or I'm looking for&nbsp;&nbsp;
+
+00:30:53.520 --> 00:30:59.560
+somebody to speak to I should be able to get to&nbsp;
+that customer needs pretty quickly also financial&nbsp;&nbsp;
+
+00:30:59.560 --> 00:31:04.360
+literacy as you know in this part of the world we&nbsp;
+have to constantly focus on financial Wellness not&nbsp;&nbsp;
+
+00:31:04.360 --> 00:31:08.640
+just physical and mental Wellness which we are&nbsp;
+we are passionate about how do we look at your&nbsp;&nbsp;
+
+00:31:08.640 --> 00:31:13.400
+financial literacy so for example your financial&nbsp;
+needs analysis so you come to our you know portals&nbsp;&nbsp;
+
+00:31:13.400 --> 00:31:19.160
+or app and your ability to be able to do financial&nbsp;
+needs analysis or through our agents if you sit&nbsp;&nbsp;
+
+00:31:19.160 --> 00:31:23.600
+through our agents or our bank Insurance Channel&nbsp;
+they take you through a proper financial needs&nbsp;&nbsp;
+
+00:31:23.600 --> 00:31:28.520
+analysis so that we avoid any Miss selling we&nbsp;
+avoid any overselling so we need to make sure&nbsp;&nbsp;
+
+00:31:28.520 --> 00:31:34.080
+that this is the right product for you and then&nbsp;
+we sell it uh you know the right thing for you but&nbsp;&nbsp;
+
+00:31:34.080 --> 00:31:40.760
+also giving you that option that people like you&nbsp;
+so our AI for example um you know the tool gives&nbsp;&nbsp;
+
+00:31:40.760 --> 00:31:45.480
+you the production score and tells you people&nbsp;
+like you were looking for these things as well&nbsp;&nbsp;
+
+00:31:45.480 --> 00:31:50.760
+are you interested for example so ultimately like&nbsp;
+I said we are a sales demand organization but not&nbsp;&nbsp;
+
+00:31:50.760 --> 00:31:58.280
+at the it's a difference between overselling and&nbsp;
+being on your face versus a a really meaningful&nbsp;&nbsp;
+
+00:31:58.280 --> 00:32:02.520
+nudges and if you're interested we take you to the&nbsp;
+next level and if you're not interested we leave&nbsp;&nbsp;
+
+00:32:02.520 --> 00:32:06.920
+you rather than being hounding on your face and&nbsp;
+you have to buy you have to buy you have to buy&nbsp;&nbsp;
+
+00:32:06.920 --> 00:32:12.000
+that's not we are after we wanting to create that&nbsp;
+differentiated experience but if you're willing to&nbsp;&nbsp;
+
+00:32:12.000 --> 00:32:17.280
+if you don't want to go through that journey and&nbsp;
+want to quickly get to I want to speak to someone&nbsp;&nbsp;
+
+00:32:17.280 --> 00:32:21.320
+I should have that option I should not force you&nbsp;
+that no you have to complete this journey before&nbsp;&nbsp;
+
+00:32:21.320 --> 00:32:27.240
+you speak to anybody else so that's that's where&nbsp;
+we create differently and certain businesses for&nbsp;&nbsp;
+
+00:32:27.240 --> 00:32:36.600
+example Philipp means uh people prefer mobile&nbsp;
+they do not prefer laptop or computers uh laptop&nbsp;&nbsp;
+
+00:32:36.600 --> 00:32:42.840
+computers or or iPads or or you know Android&nbsp;
+pads so we created Solutions which are craving&nbsp;&nbsp;
+
+00:32:42.840 --> 00:32:49.840
+you the same experience you know stre but on a&nbsp;
+mobile device so it should not be just take that&nbsp;&nbsp;
+
+00:32:49.840 --> 00:32:58.000
+portal or iPad and and dump it into the mobile&nbsp;
+uh you know uh frame but it's actually really red&nbsp;&nbsp;
+
+00:32:58.000 --> 00:33:03.080
+defining the experience if you're going through&nbsp;
+uh uh your mobile device which is shorter even if&nbsp;&nbsp;
+
+00:33:03.080 --> 00:33:10.520
+you have the pro Max or something your experience&nbsp;
+and journey has to be catering to that rather than&nbsp;&nbsp;
+
+00:33:10.520 --> 00:33:16.480
+saying that oh I converted the same 10 pages and&nbsp;
+now I have just put it on the mobile phone which&nbsp;&nbsp;
+
+00:33:16.480 --> 00:33:21.400
+will be a very clunky experience because you every&nbsp;
+time you have to zoom out zoom in that's not we&nbsp;&nbsp;
+
+00:33:21.400 --> 00:33:27.880
+are doing so we reimagine every time this happens&nbsp;
+we work with our digital team uh and we reimagine&nbsp;&nbsp;
+
+00:33:27.880 --> 00:33:34.120
+the journeys and then ensure that the back end&nbsp;
+is delivering that differentiated experience&nbsp;&nbsp;
+
+00:33:34.120 --> 00:33:40.080
+and again I don't need to build three times that&nbsp;
+thing so it's also important that remember what&nbsp;&nbsp;
+
+00:33:40.080 --> 00:33:47.160
+I said about being efficient so how do we create&nbsp;
+Landing zones so that we create the code ones and&nbsp;&nbsp;
+
+00:33:47.160 --> 00:33:54.680
+deploy into various uh not just the Frameworks or&nbsp;
+the mobile frames to iPad frames to uh you know&nbsp;&nbsp;
+
+00:33:54.680 --> 00:34:01.400
+the website but also truly having a same piece of&nbsp;
+code working into into in a different kind of uh&nbsp;&nbsp;
+
+00:34:01.400 --> 00:34:06.040
+uh you know devices and that's where you will&nbsp;
+bring efficiency otherwise if you imagine if&nbsp;&nbsp;
+
+00:34:06.040 --> 00:34:10.920
+your development team has to do three different&nbsp;
+sets of development one for laptop one for this&nbsp;&nbsp;
+
+00:34:10.920 --> 00:34:17.600
+one for that it's again you're not efficient so&nbsp;
+you have to embrace technology internally make it&nbsp;&nbsp;
+
+00:34:17.600 --> 00:34:23.080
+efficient and that should be evident through your&nbsp;
+customer experience and it's all about your voice&nbsp;&nbsp;
+
+00:34:23.080 --> 00:34:30.640
+of customer and as I I kept saying End customer&nbsp;
+distri bution Channel as well as employees all&nbsp;&nbsp;
+
+00:34:30.640 --> 00:34:38.920
+three must tell us that yes this is delivering&nbsp;
+the uh efficiency we are after once again we're&nbsp;&nbsp;
+
+00:34:38.920 --> 00:34:43.800
+going back to that level of personalization&nbsp;
+that you're creating for customers giving them&nbsp;&nbsp;
+
+00:34:43.800 --> 00:34:50.640
+choices which all of us like um and you're also&nbsp;
+covering fwd's back by giving FWD choices as well&nbsp;&nbsp;
+
+00:34:50.640 --> 00:34:57.920
+for the team to R um decide that they have this&nbsp;
+variety of tools to deploy um and really create&nbsp;&nbsp;
+
+00:34:57.920 --> 00:35:03.320
+a simless experience all around for both end&nbsp;
+selfie organization um and you raised the point&nbsp;&nbsp;
+
+00:35:03.320 --> 00:35:11.520
+a about AI so I had to ask you about AI um so in&nbsp;
+your mind um I assume you will be exploring AI um&nbsp;&nbsp;
+
+00:35:11.520 --> 00:35:17.040
+already um but what are the some of the use cases&nbsp;
+that you are specifically seeing in the market or&nbsp;&nbsp;
+
+00:35:17.040 --> 00:35:24.840
+experimenting with yourself and how would FWD&nbsp;
+um roll out a viable news case um and what are&nbsp;&nbsp;
+
+00:35:24.840 --> 00:35:29.960
+the intended outcomes you like to see I would&nbsp;
+say I would like to add the word responsible&nbsp;&nbsp;
+
+00:35:29.960 --> 00:35:35.200
+AI again remember we are a regulated business&nbsp;
+and we are very responsible for our customers&nbsp;&nbsp;
+
+00:35:35.200 --> 00:35:40.520
+so I just don't talk about AI I talk about&nbsp;
+responsible AI so we that's that is at the&nbsp;&nbsp;
+
+00:35:40.520 --> 00:35:46.360
+you know the core of everything when we look at&nbsp;
+as of you know I would say even so it's not the&nbsp;&nbsp;
+
+00:35:46.360 --> 00:35:51.240
+new thing since 2019 we've been looking at Ai&nbsp;
+and we have integrated it through like I said&nbsp;&nbsp;
+
+00:35:51.240 --> 00:35:56.000
+like you know our production score people like&nbsp;
+you in know automator underwriting we have ai&nbsp;&nbsp;
+
+00:35:56.000 --> 00:36:02.160
+like underwriting we have app some of the things&nbsp;
+now we're looking at AI claims so that we are able&nbsp;&nbsp;
+
+00:36:02.160 --> 00:36:11.800
+to get to these I would say meaningful outcomes&nbsp;
+as we speak in fact as of 2022 we already have&nbsp;&nbsp;
+
+00:36:11.800 --> 00:36:20.000
+more than 600 use cases and 200 AI models and in&nbsp;
+2024 now since last one year since generative AI&nbsp;&nbsp;
+
+00:36:20.000 --> 00:36:25.000
+we're moving the needle not just from AI not to&nbsp;
+look at generative Ai and how the generative AI&nbsp;&nbsp;
+
+00:36:25.000 --> 00:36:30.760
+has really advanced in the just last one year and&nbsp;
+that's going back to our initial conversation of&nbsp;&nbsp;
+
+00:36:30.760 --> 00:36:35.840
+how industry not just the industry is changing how&nbsp;
+the technology transformation will happen and if&nbsp;&nbsp;
+
+00:36:35.840 --> 00:36:43.680
+you see Google's or Microsoft or even AWS talking&nbsp;
+about this piece of revolution is fastest so far&nbsp;&nbsp;
+
+00:36:43.680 --> 00:36:50.960
+in our human you know civilization so how do we be&nbsp;
+out there but perform in a responsible way because&nbsp;&nbsp;
+
+00:36:50.960 --> 00:36:57.800
+it also has its own uh you know the dangers of it&nbsp;
+right for example so how do we have a so we have&nbsp;&nbsp;
+
+00:36:57.800 --> 00:37:05.200
+a AI Council or we call it as a AI subcommittee to&nbsp;
+look at all our AI models and ensure that those AI&nbsp;&nbsp;
+
+00:37:05.200 --> 00:37:12.160
+models have been implemented in a responsible way&nbsp;
+are governed not just talked about so we worked&nbsp;&nbsp;
+
+00:37:12.160 --> 00:37:16.920
+with the second line as well as the third line&nbsp;
+and we have a independent AI subcommittee we have&nbsp;&nbsp;
+
+00:37:16.920 --> 00:37:22.120
+a technology risk subcommittee which talks about&nbsp;
+cyber security information security but also we&nbsp;&nbsp;
+
+00:37:22.120 --> 00:37:29.080
+have separate dedicated AI subcommittee which&nbsp;
+is run by our compliance team and we are part&nbsp;&nbsp;
+
+00:37:29.080 --> 00:37:35.240
+of that to look at every AI models which we have&nbsp;
+implemented so far it is done in possible way and&nbsp;&nbsp;
+
+00:37:35.240 --> 00:37:40.160
+we have a proper governance around it so I think&nbsp;
+that's and but we have been embracing we already&nbsp;&nbsp;
+
+00:37:40.160 --> 00:37:45.920
+have uh 600 use cases what we are excited about&nbsp;
+now we're looking at into the future is fraud&nbsp;&nbsp;
+
+00:37:45.920 --> 00:37:51.840
+detection for example claims fraud detection uh&nbsp;
+our ability to process lot set of data through the&nbsp;&nbsp;
+
+00:37:51.840 --> 00:37:56.680
+large language model quickly that's what we are of&nbsp;
+to say are specific achievements we have achieved&nbsp;&nbsp;
+
+00:37:56.680 --> 00:38:03.920
+around the claims detection now we're looking at&nbsp;
+claims the whole claims efficiency itself right&nbsp;&nbsp;
+
+00:38:03.920 --> 00:38:10.240
+so for example our claims as a how do we how do&nbsp;
+then give them more deeper Insight quickly through&nbsp;&nbsp;
+
+00:38:10.240 --> 00:38:15.600
+our generative AI so that the decisions can be&nbsp;
+made in a faster way but also in a meaningful&nbsp;&nbsp;
+
+00:38:15.600 --> 00:38:19.920
+way so I think these are the some of the specific&nbsp;
+examples where we are after but we are looking at&nbsp;&nbsp;
+
+00:38:19.920 --> 00:38:25.960
+generative AI in every aspects of our business&nbsp;
+we're looking from a new business perspective&nbsp;&nbsp;
+
+00:38:25.960 --> 00:38:33.520
+from our distribution to kitp perspective on&nbsp;
+our Omni by FWD for example we have now you&nbsp;&nbsp;
+
+00:38:33.520 --> 00:38:41.000
+know created those avatars which are generative&nbsp;
+AI Le which helps you uh look at some of those&nbsp;&nbsp;
+
+00:38:41.000 --> 00:38:46.840
+experiences very differently not just Miry where&nbsp;
+you take a picture and it tells you what's your&nbsp;&nbsp;
+
+00:38:46.840 --> 00:38:53.800
+health uh condition is but also making it slightly&nbsp;
+more different not just not just fun but really&nbsp;&nbsp;
+
+00:38:53.800 --> 00:38:59.480
+engaging in in our platform so we're looking&nbsp;
+at generative AI on all angles from a customer&nbsp;&nbsp;
+
+00:38:59.480 --> 00:39:05.680
+servicing claims perspective on new business side&nbsp;
+perspective and processing large set of data for&nbsp;&nbsp;
+
+00:39:05.680 --> 00:39:12.280
+example uh perspective but also looking at virtual&nbsp;
+avatars and how it can enable you to engage with&nbsp;&nbsp;
+
+00:39:12.280 --> 00:39:18.600
+us better and I gave you some specific examples&nbsp;
+where we have already started to see results and&nbsp;&nbsp;
+
+00:39:18.600 --> 00:39:26.040
+those are some very interesting but also necessary&nbsp;
+areas where you're kind of implementing AI um I&nbsp;&nbsp;
+
+00:39:26.040 --> 00:39:30.000
+for myself we about to pick a Insurance CL I&nbsp;
+would definitely want to you know ensure it's&nbsp;&nbsp;
+
+00:39:30.000 --> 00:39:36.480
+a fast and I would say enjoyable process in a way&nbsp;
+um you know I don't want to stress about you know&nbsp;&nbsp;
+
+00:39:36.480 --> 00:39:42.360
+making a claim um or being concerned that you&nbsp;
+know it won't come in you know um so if the&nbsp;&nbsp;
+
+00:39:42.360 --> 00:39:48.680
+company can ensure that it's a better process it's&nbsp;
+it's comforting to know that I can trust you know&nbsp;&nbsp;
+
+00:39:48.680 --> 00:39:53.760
+you guys um and especially because you need to&nbsp;
+position yourselves as trusted advisers that's&nbsp;&nbsp;
+
+00:39:53.760 --> 00:39:58.800
+all the more important why you need to have the&nbsp;
+right technology in place that we cannot forget&nbsp;&nbsp;
+
+00:39:58.800 --> 00:40:03.560
+so we always talk about digital heart with&nbsp;
+human touch that human aspects of insurance&nbsp;&nbsp;
+
+00:40:03.560 --> 00:40:09.720
+we cannot forget ultimately when God forbid you&nbsp;
+have a you know when you have a outpatient and&nbsp;&nbsp;
+
+00:40:09.720 --> 00:40:14.760
+and minor claims is fine but when you have death&nbsp;
+claims we need to handle that with the sensitivity&nbsp;&nbsp;
+
+00:40:14.760 --> 00:40:20.160
+as well so it's not just about okay I gave you&nbsp;
+the digital experience but I also give you FWD&nbsp;&nbsp;
+
+00:40:20.160 --> 00:40:27.560
+care so we have FWD care for example which is our&nbsp;
+entire end to end um you know the claims handling&nbsp;&nbsp;
+
+00:40:27.560 --> 00:40:33.960
+as an attach which we give it to our our customers&nbsp;
+in few markets and you know where we take care&nbsp;&nbsp;
+
+00:40:33.960 --> 00:40:38.400
+of you throughout the whole journey rather than&nbsp;
+just saying that okay your claims got processed&nbsp;&nbsp;
+
+00:40:38.400 --> 00:40:44.960
+and here is the check but also about where is how&nbsp;
+is your mental state um you know do you need some&nbsp;&nbsp;
+
+00:40:44.960 --> 00:40:51.280
+help there do you want to speak to someone and&nbsp;
+do you you know so again not being intervening&nbsp;&nbsp;
+
+00:40:51.280 --> 00:40:59.480
+Again by being very culturally sensitive but also&nbsp;
+if you need me we here so that human element of&nbsp;&nbsp;
+
+00:40:59.480 --> 00:41:07.080
+insurance is what keeps me in this business so I'm&nbsp;
+not just about all the fancy tools and and digital&nbsp;&nbsp;
+
+00:41:07.080 --> 00:41:14.320
+experience only but also what is that human&nbsp;
+aspects ultimately we humans for a reason our&nbsp;&nbsp;
+
+00:41:14.320 --> 00:41:21.360
+responsibility to create the better world for our&nbsp;
+next Generation cannot go away our responsibility&nbsp;&nbsp;
+
+00:41:21.360 --> 00:41:27.400
+to ensure that on a day-to-day basis we do&nbsp;
+not ex we do not forget the human element of&nbsp;&nbsp;
+
+00:41:27.400 --> 00:41:32.160
+it I'm very passionate about these things right&nbsp;
+so when we create Solutions we make need to make&nbsp;&nbsp;
+
+00:41:32.160 --> 00:41:37.440
+sure that the human touch is equally important&nbsp;
+seeing so we don't want to be a cold company&nbsp;&nbsp;
+
+00:41:37.440 --> 00:41:43.720
+which is just bunch of robots which are doing all&nbsp;
+the things and no feeling and even with generative&nbsp;&nbsp;
+
+00:41:43.720 --> 00:41:49.120
+you can have emotions in that but humans are human&nbsp;
+and that human touch but we are very proud of our&nbsp;&nbsp;
+
+00:41:49.120 --> 00:41:57.200
+digital uh you know the advancement and experience&nbsp;
+but we always say digital heart for human touch&nbsp;&nbsp;
+
+00:41:57.200 --> 00:42:02.360
+that's the perfect way to end our conversation and&nbsp;
+it was the reason why I thought it was such um it&nbsp;&nbsp;
+
+00:42:02.360 --> 00:42:07.160
+would be powerful to have you speak on we know&nbsp;
+both technology and people since you handle both&nbsp;&nbsp;
+
+00:42:07.160 --> 00:42:13.800
+of those um elements in um FWD uh so thank you so&nbsp;
+much for giving us an Insight Peak into your role&nbsp;&nbsp;
+
+00:42:13.800 --> 00:42:19.960
+and of course the many complex projects that you&nbsp;
+spear haed and are spear haing for FWD I and to&nbsp;&nbsp;
+
+00:42:19.960 --> 00:42:25.720
+our audience I hope you enjoyed this episode and&nbsp;
+we'll see you again next time thank you so much&nbsp;&nbsp;
+
+00:42:25.720 --> 00:42:29.240
+thank you so much for having me today and you&nbsp;
+know it's it's an honor like you know whenever&nbsp;&nbsp;
+
+00:42:29.240 --> 00:42:34.080
+your world gets expanded it's always an honor&nbsp;
+for us to be able to serve for our customers I&nbsp;&nbsp;
+
+00:42:34.080 --> 00:42:39.080
+hope you are our customer I hope you also get&nbsp;
+that experience too Sharin it was absolutely a&nbsp;&nbsp;
+
+00:42:39.080 --> 00:42:51.480
+pleasure and great set of questions so thank you&nbsp;
+for having me today just all by thank you so much
+
